@@ -16,7 +16,7 @@ def loadData():
     return dataframe
 df = loadData()
 
-#st.sidebar.image('LogomarcaNova.png', width=300)
+st.sidebar.image('LogomarcaNova.png', width=300)
 st.sidebar.title('CAOP-CRIM / MPMA')
 #st.title('Centro de Apoio Operacional Criminal')
 st.title('MVI - GRANDE ILHA DE SÃO LUÍS')
