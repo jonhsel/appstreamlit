@@ -103,6 +103,68 @@ def plotanoSeaborn():
     # fig.autofmt_xdate()
     st.pyplot()
 
+ymaximo_g01 = df.groupby(['Município'])['ID'].count().max()
+ymaximo_g02 = df.groupby(['CAUSA DA MORTE'])['ID'].count().max()
+
+def plot_city():
+    # ANO
+    sns.set(style="white")
+    # sns.palplot(sns.dark_palette("purple"))
+
+    fig, ax1 = plt.subplots( figsize=(10, 6))
+
+    sns.countplot(df['Município'], palette='Blues_r', ax=ax1)
+    # https://seaborn.pydata.org/tutorial/color_palettes.html
+    ax1.set_title('Quantitativos de 2017 a 2020')
+    ax1.set_xlabel('Município')
+    ax1.set_ylabel('Quantidade')
+    # instrução para que o rótulo não sobreponha a grade que circunda o gráfico
+    ax1.set_ylim(0, ymaximo_g01 + 100)
+
+    # GRÁFICO 01
+    # laço para inclusão dos rótulos
+    for p in ax1.patches:
+        # Não tulizaremos valores decimais nos rótulos
+        # ax1.annotate("%.2f" % p.get_height(), (p.get_x() + p.get_width() / 2., p.get_height()),
+        ax1.annotate(p.get_height(), (p.get_x() + p.get_width() / 2., p.get_height()),
+                     ha='center', va='center', fontsize=13, color='black', xytext=(0, 10),
+                     textcoords='offset points')
+    # To make space for the annotations
+    #fig.show()
+    # fig.autofmt_xdate()
+    #fig.tight_layout()
+    st.pyplot()
+
+def plot_causa():
+    sns.set(style="white")
+    # sns.palplot(sns.dark_palette("purple"))
+
+    fig, ax2 = plt.subplots( figsize=(10, 6))
+
+    # To make space for the annotations
+
+    # GRÁFICO 02
+    sns.countplot(df['CAUSA DA MORTE'], palette='Blues_d', ax=ax2)
+    ax2.set_title('Quantitativos de 2017 a 2020')
+    ax2.set_xlabel('Causa da morte')
+    ax2.set_ylabel('Quantidade')
+    # instrução para que o rótulo não sobreponha a grade que circunda o gráfico
+    ax2.set_ylim(0, ymaximo_g02 + 100)
+
+    # laço para inclusão dos rótulos
+    for p in ax2.patches:
+        # Não tulizaremos valores decimais nos rótulos
+        # ax1.annotate("%.2f" % p.get_height(), (p.get_x() + p.get_width() / 2., p.get_height()),
+        ax2.annotate(p.get_height(), (p.get_x() + p.get_width() / 2., p.get_height()),
+                     ha='center', va='center', fontsize=13, color='black', xytext=(0, 10),
+                     textcoords='offset points')
+
+    # fig.show()
+    # fig.autofmt_xdate()
+    # fig.tight_layout()
+    st.pyplot()
+
+
 def Pxplot():
     k = df['Data'].dt.year.value_counts()
     Crime = pd.Series(k.index[:])
@@ -110,6 +172,14 @@ def Pxplot():
     Crime_Count = pd.DataFrame(list(zip(Crime, Count)),columns=['Crime', 'Count'])
     fig = px.bar(Crime_Count, x='Crime', y='Count', color_continuous_scale='YlOrBr' ,color='Count', labels={'Crime': 'Ano', 'Count': 'Quantidade'})
     st.plotly_chart(fig)
+
+grafico_city = st.sidebar.checkbox('Gŕafico de Município e Causa')
+if grafico_city:
+    graficos2 = st.radio('Modelos de gráficos', ('Município', 'Causa da morte'))
+    if graficos2 == 'Município':
+        plot_city()
+    if graficos2 == 'Causa da morte':
+        plot_causa()
 
 graficoano = st.sidebar.checkbox('Quantitativos por ano')
 if graficoano:
