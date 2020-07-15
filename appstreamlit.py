@@ -6,11 +6,19 @@ import seaborn as sns
 import plotly.express as px
 from datetime import datetime
 
+def local_css(file_name):
+    with open(file_name) as f:
+        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
+local_css("style.css")
 PATH = 'https://raw.githubusercontent.com/jonhsel/Data-Science/master/dataset/MVIMPM_Tratado.csv'
 
 
 #def main():
 @st.cache(allow_output_mutation=True)
+
+
+
 def loadData():
     dataframe = pd.read_csv(PATH)
     return dataframe
@@ -21,7 +29,7 @@ def information_caop():
         '''
         O **Centro de Apoio Operacional Criminal**, instituído por meio da Resolução 02/97-CPMP, tendo esta norma sido alterada pela Resolução n.º 34/2016-CPMP, é um órgão auxiliar da atividade funcional do Ministério Público do Maranhão, que possui, dentre outros, o objetivo de melhorar o desempenho das funções institucionais dos órgãos de execução do Parquet Maranhense, promovendo-lhes a devida interação e intercâmbio, sendo-lhes - além disso - dadas orientações técnico jurídicas com a remessa de informações de mesma natureza e, além disso, tem por finalidade promover a articulação, harmonização, mediação de relações e a integração das ações voltadas à segurança pública e defesa social com atribuições em todo espaço territorial maranhense.
         
-        ## ÂMBITO INTERNO
+        ## **ÂMBITO INTERNO**
         
         1.1 - atuar na área da segurança  pública, prevenção e  redução dos  índices  de criminalidade, persecução penal, execução penal e controle externo da atividade policial, abrangendo a criminal, além de outras correlatas;
 
@@ -31,7 +39,7 @@ def information_caop():
 
         1.4 - colaborar com os órgãos do Estado, notadamente na área de segurança, na identificação dos principais problemas relativos à violência, tais como levantamento das áreas de maior incidência de criminalidade, assim como dos crimes mais frequentes, identificando, ainda, o perfil do criminoso e da vítima.
         
-        ## ÂMBITO EXTERNO
+        ## **ÂMBITO EXTERNO**
                       
         2.1  - fornecer, de ofício ou por provocação, informações técnico-jurídicas aos órgãos de execução do Ministério Público; com vistas a manter a uniformidade do exercício funcional, observando os princípios da unidade, da indivisibilidade e da independência funcional;
 
@@ -188,6 +196,7 @@ if graficoano:
         plotanoSeaborn()
     if tiposgrafico == 'Interativo':
         Pxplot()
+
 
 
 #     st.text('**Criar botao**')

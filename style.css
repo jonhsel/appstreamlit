@@ -1,0 +1,17 @@
+body {
+    color: #272760;
+    background-color: #ef;
+    opacity: 0.99;
+}
+
+.stButton>button {
+    color: #ccc;
+}
+
+.stTable>table {
+    color: #272749;
+}
+
+.stRadio>radio{
+    color: #fff;
+}
