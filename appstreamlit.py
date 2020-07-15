@@ -99,7 +99,7 @@ def plotanoSeaborn():
     ax.set_ylabel('Quantidade', fontsize=20)
     for p in ax.patches:
         ax.annotate(p.get_height(), (p.get_x() + p.get_width() / 2., p.get_height()),
-                    xytext=(0, 10), textcoords='offset points', fontsize=20)
+                    xytext=(0, 5), textcoords='offset points', fontsize=20)
     # fig.autofmt_xdate()
     st.pyplot()
 
