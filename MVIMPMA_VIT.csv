@@ -1,0 +1,1537 @@
+ID,Vítima,Data,Sexo,Idade,Horário,CAUSA DA MORTE,Local,Município,Classificação
+1,Joseilton Silva,01/01/2017,masculino,22,03:01:00,ARMA BRANCA,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+2,Diogo Silva Ferreira,01/01/2017,masculino,30,00:21:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+3,Jadiel Pinheiro,01/01/2017,masculino,23,18:30:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+4,Ismael Ribeiro Rocha,01/01/2017,masculino,38,20:21:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+5,Ana Celia Reis Sousa,01/01/2017,feminino,49,23:22:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+6,Luan Castro Silva,02/01/2017,masculino,19,21:30:00,ARMA BRANCA,Itapeua,Raposa,HOMICÍDIO DOLOSO
+7,Josenilton Franklin Moura Pereira,02/01/2017,masculino,26,06:00:00,ARMA BRANCA,Trizidela da Maioba,Paço do Lumiar,HOMICÍDIO DOLOSO
+8,Edivaldo Alves dos Reis,03/01/2017,masculino,36,16:40:00,ARMA DE FOGO,Quinta,São José de Ribamar,LESÃO C S MORTE
+9,Emilson Ferreira Correia,04/01/2017,masculino,33,19:25:00,ARMA DE FOGO,Pindaí,São José de Ribamar,HOMICÍDIO DOLOSO
+10,Derik Patrick Nna Campos,04/01/2017,masculino,18,21:41:00,ARMA DE FOGO,Rio Grande,São Luís,HOMICÍDIO DOLOSO
+11,Igor Moreira dos Santos,04/01/2017,masculino,17,20:35:00,ARMA DE FOGO,Rio Grande,São Luís,LESÃO C S MORTE
+12,Italo da Silva Oliveira,05/01/2017,masculino,17,19:25:00,ARMA DE FOGO,Pindaí,São José de Ribamar,HOMICÍDIO DOLOSO
+13,Francines Rodrigues Soares,06/01/2017,masculino,49,02:45:00,ESPANCAMENTO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+14,Carlos Alberto Rocha Aragão,06/01/2017,masculino,35,20:32:00,ARMA DE FOGO,Divinéia,São Luís,HOMICÍDIO DOLOSO
+15,Jonathan Rosa Nascimento,06/01/2017,masculino,25,21:46:00,ARMA DE FOGO,Itapeua,Raposa,HOMICÍDIO DOLOSO
+16,Hugo Leonardo da Silva Santos,06/01/2017,masculino,18,18:45:00,ESPANCAMENTO,Residencial José Reinaldo Tavares,São Luís,HOMICÍDIO DOLOSO
+17,Elizaldo Mendes Gomes,06/01/2017,masculino,16,22:00:00,ARMA DE FOGO,Vila Luizão,São Luís,MORTE ESCLARECER
+18,Reginaldo Mendes Souza,07/01/2017,masculino,51,20:17:00,ARMA DE FOGO,Barreto,São Luís,HOMICÍDIO DOLOSO
+19,Jose dos Reis Lima Barros,07/01/2017,masculino,40,20:50:00,ARMA DE FOGO,Jardim Tropical,São José de Ribamar,HOMICÍDIO DOLOSO
+20,Maxsuwel Silva Cantanhede,07/01/2017,masculino,17,20:44:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+21,Jose Renato Reis da Silva,07/01/2017,masculino,31,16:29:00,ARMA DE FOGO,Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+22,Leonardo Reis da Silva,07/01/2017,masculino,24,16:29:00,ARMA DE FOGO,Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+23,Kellvy Silva Costa,08/01/2017,masculino,22,02:30:00,ARMA BRANCA,Residencial Nova Vida,Paço do Lumiar,HOMICÍDIO DOLOSO
+24,Washigton da Silva Serra,08/01/2017,masculino,21,16:55:00,ARMA DE FOGO,Vila Funil,São Luís,HOMICÍDIO DOLOSO
+25,Jhon Maycon Leite Pereira,09/01/2017,masculino,27,08:25:00,ARMA DE FOGO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+26,Raimundo Nonato Soares Correa,10/01/2017,masculino,29,20:44:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+27,Neryson Ferreira dos Santos,11/01/2017,masculino,17,11:04:00,ARMA DE FOGO,Residencial Tiradentes,São Luís,HOMICÍDIO DOLOSO
+28,Joseilson Silva e Silva,12/01/2017,masculino,26,03:00:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+29,Não Identificado,12/01/2017,masculino,25,01:41:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+30,Nairon de Jesus Pinto Mendes,12/01/2017,masculino,44,14:18:00,ARMA DE FOGO,Residencial Ribeira,São Luís,HOMICÍDIO DOLOSO
+31,Carlos Vinicius Mendes da Silva,13/01/2017,masculino,19,18:00:00,ARMA DE FOGO,Batatan,São Luís,HOMICÍDIO DOLOSO
+32,Jardson Carvalho Meireles,14/01/2017,masculino,20,11:12:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+33,Valdemar Diniz,14/01/2017,masculino,36,23:00:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+34,Osmar Silva Ferreira,14/01/2017,masculino,20,18:40:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+35,Vinicius Viana Pires,15/01/2017,masculino,16,21:35:00,ARMA BRANCA,Cajazeiras,São Luís,HOMICÍDIO DOLOSO
+36,Wallan Machado Costa,15/01/2017,masculino,35,08:59:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+37,Marcos Vinicius Baltazar Santos,15/01/2017,masculino,18,13:48:00,ARMA DE FOGO,Vila Samara,São Luís,HOMICÍDIO DOLOSO
+38,Josias Batista Rabelo,17/01/2017,masculino,22,20:00:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+39,Gilmar Silveira Baldez,17/01/2017,masculino,30,03:00:00,ARMA BRANCA,Residencial Novo Horizonte,São Luís,HOMICÍDIO DOLOSO
+40,Wagno da Conceição Costa,19/01/2017,masculino,32,12:16:00,ARMA DE FOGO,Andiroba,São Luís,HOMICÍDIO DOLOSO
+41,Jackson Araujo Machado,19/01/2017,masculino,38,18:48:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+42,Marcus ARMA BRANCAiano Araujo da Silva,19/01/2017,masculino,31,17:49:00,ARMA DE FOGO,Vila Operária,São José de Ribamar,HOMICÍDIO DOLOSO
+43,Rodrigo Ferreira,14/01/2017,masculino,23,,ARMA DE FOGO,,,MORTE ESCLARECER
+44,Jose Augusto dos Santos,20/01/2017,masculino,27,09:39:00,ARMA DE FOGO,Santa Efigênia,São Luís,HOMICÍDIO DOLOSO
+45,Adeilton Alves Nunes,21/01/2017,masculino,23,16:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+46,Marcos Suel da Costa Silva,21/01/2017,masculino,20,16:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+47,Nelson de Jesus Soares de Matos,21/01/2017,masculino,34,11:57:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+48,Luciano dos Santos,21/01/2017,masculino,40,21:41:00,ARMA DE FOGO,Residencial Nova Canaã,Paço do Lumiar,HOMICÍDIO DOLOSO
+49,Merivaldo Gomes Silva Gonçalves,22/01/2017,masculino,19,22:04:00,ARMA DE FOGO,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+50,Carlos Magno Soares de Almeida,22/01/2017,masculino,33,20:27:00,ARMA DE FOGO,Vila São Sebastião,São Luís,HOMICÍDIO DOLOSO
+51,Thawa Vyctor Cardoso da Silva,22/01/2017,masculino,6,20:27:00,ARMA DE FOGO,Vila São Sebastião,São Luís,HOMICÍDIO DOLOSO
+52,Mateus Azevedo Nunes,24/01/2017,masculino,18,04:28:00,ARMA DE FOGO,Bequimão,São Luís,HOMICÍDIO DOLOSO
+53,Mario Cesar Ferreira,24/01/2017,masculino,33,01:18:00,ARMA BRANCA,Planalto Anil I,São Luís,HOMICÍDIO DOLOSO
+54,Luan de Jesus Gomes dos Santos,25/01/2017,masculino,17,20:50:00,ARMA DE FOGO,Recanto Fialho,São Luís,HOMICÍDIO DOLOSO
+55,Franciele Guterres de Amorim,25/01/2017,feminino,22,21:30:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+56,Abraão Bezerra Pereira dos Santos,26/01/2017,masculino,41,07:03:00,ARMA DE FOGO,Alto do Turu III,São José de Ribamar,HOMICÍDIO DOLOSO
+57,Robson Arouche Gomes Muniz,26/01/2017,masculino,29,10:00:00,ARMA DE FOGO,Jambeiro,São Luís,HOMICÍDIO DOLOSO
+58,Cicero Anacleto Gomes,26/01/2017,masculino,65,07:10:00,ARMA DE FOGO,Vila Alcione Ferreira,São José de Ribamar,HOMICÍDIO DOLOSO
+59,Jackson Coqueiro Galvão,27/01/2017,masculino,29,19:30:00,ARMA BRANCA,Paraíso das Rosas,São José de Ribamar,HOMICÍDIO DOLOSO
+60,Rodrigo Batista da Silva,27/01/2017,masculino,16,19:00:00,ARMA DE FOGO,Vila Maranhão,São Luís,HOMICÍDIO DOLOSO
+61,Willame Lira Ferreira,28/01/2017,masculino,29,20:36:00,ARMA DE FOGO,Alto do Turu I,São José de Ribamar,HOMICÍDIO DOLOSO
+62,Fernando Lucas Castro Pinheiro,28/01/2017,masculino,34,06:32:00,ARMA BRANCA,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+63,Marcio Rodrigues da Silva,28/01/2017,masculino,31,11:47:00,ARMA BRANCA,Cruzeiro,São José de Ribamar,HOMICÍDIO DOLOSO
+64,Rogerio Silva Campos,28/01/2017,masculino,22,20:44:00,ARMA DE FOGO,São Bernardo,São Luís,HOMICÍDIO DOLOSO
+65,Bruno de Jesus Chagas,28/01/2017,masculino,21,19:47:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+66,Otoniel de Oliveira Sousa,29/01/2017,masculino,33,08:41:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+67,Não identificado,29/01/2017,masculino,30,06:45:00,ARMA DE FOGO,Barreto,São Luís,HOMICÍDIO DOLOSO
+68,Jorremilson Correa Soares,29/01/2017,masculino,23,03:54:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+69,Cleinton Barbosa Souza,29/01/2017,masculino,30,05:35:00,ARMA BRANCA,Tijupá Queimado,São José de Ribamar,HOMICÍDIO DOLOSO
+70,Tatielmo Costa Luzo,30/01/2017,masculino,28,15:00:00,ARMA DE FOGO,Ipase de Baixo,São Luís,LESÃO C S MORTE
+71,Julio Cesar Silva,30/01/2017,masculino,30,01:45:00,ARMA DE FOGO,Parque Shalon,São Luís,HOMICÍDIO DOLOSO
+72,João de Deus Rabelo de Almeida,30/01/2017,masculino,53,07:00:00,ARMA BRANCA,Vila Alcione Ferreira,São José de Ribamar,HOMICÍDIO DOLOSO
+73,Pedro Bispo Costa Leite,30/01/2017,masculino,45,10:55:00,ARMA DE FOGO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+74,Nikael Pacheco Costa,31/01/2017,masculino,17,00:20:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+75,Nedson Viana Pinheiro,31/01/2017,masculino,33,19:56:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+76,Diego Coelho Silva,31/01/2017,masculino,29,,ARMA BRANCA,Matinha,São José de Ribamar,HOMICÍDIO DOLOSO
+77,Gildazio Trindade de Sousa,31/01/2017,masculino,36,20:02:00,ARMA DE FOGO,Novo Paço,Paço do Lumiar,HOMICÍDIO DOLOSO
+78,Emerson de Jesus Castro Rodrigues,31/01/2017,masculino,18,12:33:00,ARMA DE FOGO,Vila Kiola I,São José de Ribamar,HOMICÍDIO DOLOSO
+79,Jose Antonio Alves Ribeiro,01/02/2017,masculino,52,,ARMA BRANCA,Andiroba,São Luís,HOMICÍDIO DOLOSO
+80,Luciene dos Santos Lima Santos,01/02/2017,feminino,48,20:02:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE ESCLARECER
+81,Valto da Silva Costa,01/02/2017,masculino,34,21:13:00,ARMA DE FOGO,Piancó,São Luís,HOMICÍDIO DOLOSO
+82,Viterno Nunes Silva,02/02/2017,masculino,49,14:10:00,ARMA BRANCA,Conjunto Lima Verde,Paço do Lumiar,LATROCÍNIO
+83,Leandro Pimenta Silva,02/02/2017,masculino,24,20:07:00,ARMA DE FOGO,Farol do Araçagy,Raposa,MORTE D I POLICIAL
+84,Rickelmy Jonathan Cavalcante Ferreira,02/02/2017,masculino,14,15:02:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+85,Iran Cerqueira Santos,02/02/2017,feminino,51,20:07:00,ARMA DE FOGO,Residencial Vista do Mar,Raposa,LATROCÍNIO
+86,Claudiane dos Santos Soares,03/02/2017,feminino,17,22:00:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+87,Egidio Fernando Costa Moraes,03/02/2017,masculino,55,15:22:00,ARMA DE FOGO,Centro-PCL,Paço do Lumiar,LATROCÍNIO
+88,Charlysson Guimarães do Nascimento,03/02/2017,masculino,35,01:00:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,MORTE D I POLICIAL
+89,Jose Ribamar dos Santos Oliveira,03/02/2017,masculino,32,18:47:00,ARMA BRANCA,Tibiri,São Luís,HOMICÍDIO DOLOSO
+90,Fabio Araujo Madeira,04/02/2017,masculino,23,14:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+91,Ivan Rycson Catanhede Silva,04/02/2017,masculino,18,14:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+92,Bruna Cristina Araújo,05/02/2017,feminino,16,00:01:00,ARMA BRANCA,Barreto,São Luís,HOMICÍDIO DOLOSO
+93,Clenilton Padilha Marinho,05/02/2017,masculino,27,11:57:00,ARMA DE FOGO,Solar dos Lusitanos,São Luís,HOMICÍDIO DOLOSO
+94,Maria do Socorro dos Santos Leite,05/02/2017,feminino,46,05:02:00,ARMA BRANCA,Vila São José – PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+95,Thalison Pinto Soeiro,05/02/2017,masculino,30,19:00:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+96,Anderson Clay Rodrigues de Sousa,05/02/2017,masculino,26,16:00:00,ESPANCAMENTO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+97,Não identificado,05/02/2017,masculino,30,19:00:00,ESPANCAMENTO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+98,Adailson Costa Rabelo,06/02/2017,masculino,29,13:30:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+99,Leonardo Gomes Pacheco,06/02/2017,masculino,20,01:19:00,ARMA DE FOGO,Residencial Magnólia,São Luís,HOMICÍDIO DOLOSO
+100,Wesley Henrique Costa dos Santos,06/02/2017,masculino,22,21:06:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+101,Gerson Ribeiro Costa,07/02/2017,masculino,16,18:22:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+102,Raimundo Alves do Nascimento,07/02/2017,masculino,27,15:21:00,ARMA DE FOGO,Residencial 2000,São Luís,HOMICÍDIO DOLOSO
+103,Wanderson da Rosa Lemos,07/02/2017,masculino,19,12:13:00,ARMA DE FOGO,São Brás dos Macacos,São José de Ribamar,HOMICÍDIO DOLOSO
+104,Luis Fernando Barbosa Silva,08/02/2017,masculino,24,19:46:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+105,Honorato Roberto Rodrigues,08/02/2017,masculino,38,20:53:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+106,Rosbenildo Lopes Moreira,09/02/2017,masculino,31,02:00:00,ARMA DE FOGO,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+107,Carmelia Yeda Santos Amorim,09/02/2017,feminino,33,02:00:00,ARMA DE FOGO,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+108,Luiz de Sousa Brito,09/02/2017,masculino,58,19:00:00,ARMA DE FOGO,Vila Mauro Fecury II,São Luís,HOMICÍDIO DOLOSO
+109,Flavio de Brito Santos,09/02/2017,masculino,17,03:10:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+110,Luis Carlos Santana da Conceição,09/02/2017,masculino,46,06:30:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+111,Benedito Romeu,11/02/2017,masculino,50,02:00:00,ARMA BRANCA,Vila Mauro Fecury I,São Luís,HOMICÍDIO DOLOSO
+112,Francisco Ferreria Sousa,12/02/2017,masculino,36,06:30:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+113,Jorge Luis Santos do Nascimento,12/02/2017,masculino,22,03:43:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+114,Maria Madalena Costa,12/02/2017,feminino,44,23:11:00,ESPANCAMENTO,Piçarreira,São José de Ribamar,HOMICÍDIO DOLOSO
+115,Alexsandro Moraes N. Gomes,12/02/2017,masculino,31,21:30:00,ARMA DE FOGO,Vila Mauro Fecury I,São Luís,HOMICÍDIO DOLOSO
+116,Luis Carlos Miranda Menezes,12/02/2017,masculino,38,05:52:00,ARMA BRANCA,Vila Operária,São José de Ribamar,HOMICÍDIO DOLOSO
+117,Kleiton Gusmão Rocha,13/02/2017,masculino,34,20:16:00,ARMA DE FOGO,Residencial Luís Fernando,Paço do Lumiar,HOMICÍDIO DOLOSO
+118,Marcos Vinicius Trindade Nascimento,14/02/2017,masculino,23,20:22:00,ARMA DE FOGO,Cruzeiro do Anil,São Luís,HOMICÍDIO DOLOSO
+119,Francisco Flavio Carvalho Martins,14/02/2017,masculino,56,07:36:00,ARMA DE FOGO,J. Câmara,São José de Ribamar,HOMICÍDIO DOLOSO
+120,Carlos Cesar da Silva Barros,14/02/2017,masculino,30,19:15:00,ARMA DE FOGO,Vila Sarney Filho II,São José de Ribamar,HOMICÍDIO DOLOSO
+121,Silvan Rodrigues Araujo Junior,15/02/2017,masculino,23,09:43:00,ARMA DE FOGO,Vila União,São Luís,HOMICÍDIO DOLOSO
+122,Jhonny Silva das Neves,16/02/2017,masculino,30,05:24:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,HOMICÍDIO DOLOSO
+123,João Gabriel Azevedo,17/02/2017,masculino,16,18:01:00,ARMA DE FOGO,Residencial 2000,São Luís,HOMICÍDIO DOLOSO
+124,Thalisbeycker Barros Ramos,17/02/2017,masculino,30,09:38:00,ARMA BRANCA,São Bernardo,São Luís,HOMICÍDIO DOLOSO
+125,Wellington Oliveira Costa,18/02/2017,masculino,29,20:40:00,ARMA DE FOGO,Cohama,São Luís,HOMICÍDIO DOLOSO
+126,Delrison Prudencio Aguiar,18/02/2017,masculino,16,19:29:00,ARMA DE FOGO,Santa Efigênia,São Luís,HOMICÍDIO DOLOSO
+127,Allefe Jorge Serra Santos,19/02/2017,masculino,20,13:03:00,ARMA DE FOGO,Apeadouro,São Luís,HOMICÍDIO DOLOSO
+128,David Santos Arouche,20/02/2017,masculino,17,23:27:00,ARMA DE FOGO,Vila Industrial,São Luís,HOMICÍDIO DOLOSO
+129,Keliane Carvalho dos Santos,20/02/2017,feminino,17,20:40:00,ARMA DE FOGO,Vila Luizão,São Luís,HOMICÍDIO DOLOSO
+130,Não identificado,21/02/2017,masculino,25,21:11:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+131,Jorge Antonio dos Santos Nascimento,22/02/2017,masculino,25,21:11:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+132,Carlos Eduardo Anchieta,22/02/2017,masculino,18,21:11:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+133,Israel Amaral Alves,22/02/2017,masculino,31,03:49:00,ARMA DE FOGO,Sítio do Apicum,São José de Ribamar,LATROCÍNIO
+134,Tiago Pereira Santos,22/02/2017,masculino,15,03:49:00,ARMA DE FOGO,Sítio do Apicum,São José de Ribamar,LATROCÍNIO
+135,Lourenço Arnaldo Pereira,22/02/2017,masculino,57,20:10:00,ARMA DE FOGO,Vila Nova-Bacanga,São Luís,HOMICÍDIO DOLOSO
+136,Naylton Silva Costa,22/02/2017,masculino,16,21:00:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+137,Jose Maria Almeida,23/02/2017,masculino,54,16:18:00,ARMA BRANCA,Fátima,São Luís,HOMICÍDIO DOLOSO
+138,Abdias Pereira dos Santos,23/02/2017,masculino,41,19:00:00,ARMA DE FOGO,Itapera,São Luís,HOMICÍDIO DOLOSO
+139,Raimundo Marvio Henrique Rodrigues,23/02/2017,masculino,33,05:53:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+140,Warllyson Igor Almeida Moraes,24/02/2017,masculino,15,16:00:00,ARMA DE FOGO,Jardim Tropical I,São José de Ribamar,HOMICÍDIO DOLOSO
+141,Natalino da Silva Gama,25/02/2017,masculino,34,16:55:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+142,Daniel Berg de Oliveira Cardoso,25/02/2017,masculino,33,20:51:00,ESPANCAMENTO,Estiva,São Luís,HOMICÍDIO DOLOSO
+143,Richard Santos Araujo,25/02/2017,masculino,26,11:21:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+144,Genilson Correa Lindoso,25/02/2017,masculino,19,19:39:00,ARMA BRANCA,Residencial Maria Aragão,São Luís,HOMICÍDIO DOLOSO
+145,Adriano Ribeiro de Oliveira,25/02/2017,masculino,24,01:00:00,ARMA DE FOGO,Vila Cutia,São Luís,HOMICÍDIO DOLOSO
+146,Gleydson Elias Lindoso Sousa,26/02/2017,masculino,22,16:21:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+147,Carlos Cesar Pereira,26/02/2017,masculino,42,13:23:00,ARMA BRANCA,Gapara,São Luís,HOMICÍDIO DOLOSO
+148,Gleidson Rodrigues Pereira,26/02/2017,masculino,17,05:10:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+149,Ítalo Felipe da Silva Souza,27/02/2017,masculino,21,22:00:00,ARMA DE FOGO,Matinha,São José de Ribamar,LATROCÍNIO
+150,Rafael Anderson Dias dos Santos,28/02/2017,masculino,29,23:57:00,ARMA DE FOGO,João de Deus,São Luís,HOMICÍDIO DOLOSO
+151,Gilson Fabiano Sousa Gomes,01/03/2017,masculino,40,02:02:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+152,Gabriel Costa dos Prazeres,02/03/2017,masculino,21,15:00:00,ESPANCAMENTO,Centro-SLZ,São Luís,LESÃO C S MORTE
+153,João Carlos Aguiar dos Santos,02/03/2017,masculino,16,00:22:00,ARMA BRANCA,Vila Brasil,São Luís,HOMICÍDIO DOLOSO
+154,Pedro Henrique Silva de Sousa,02/03/2017,masculino,17,00:22:00,ARMA DE FOGO,Vila Brasil,São Luís,HOMICÍDIO DOLOSO
+155,Valdejano Monteiro Lopes,05/03/2017,masculino,45,16:08:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,HOMICÍDIO DOLOSO
+156,Bruno Gomes Silva,06/03/2017,masculino,19,12:30:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+157,Marcos Vinicius Santos Ribeiro,06/03/2017,masculino,19,08:44:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+158,Leonardo Silva Torres,07/03/2017,masculino,26,18:06:00,ARMA DE FOGO,Cidade Operária,São Luís,LATROCÍNIO
+159,Diego Ferreira de Sousa,07/03/2017,masculino,19,06:41:00,ARMA DE FOGO,Planalto Anil IV,São Luís,HOMICÍDIO DOLOSO
+160,Domingos Bispo de Oliveira,07/03/2017,masculino,54,05:47:00,ARMA DE FOGO,São Raimundo,São Luís,LATROCÍNIO
+161,Gilberto Pereira dos Santos,08/03/2017,masculino,34,20:33:00,ARMA DE FOGO,Aurora,São Luís,HOMICÍDIO DOLOSO
+162,Michael Luis Furtado Almeida,08/03/2017,masculino,22,22:54:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+163,Fernando Jorge Santos,08/03/2017,masculino,35,20:04:00,ARMA DE FOGO,Matinha,São José de Ribamar,HOMICÍDIO DOLOSO
+164,Victor Carlos Soares Pinheiro,10/03/2017,masculino,22,08:54:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+165,Thalisson Pereira da Silva,10/03/2017,masculino,23,15:51:00,ARMA DE FOGO,Vila Funil,São Luís,HOMICÍDIO DOLOSO
+166,Jose Mercedes Filho,11/03/2017,masculino,27,20:00:00,ARMA DE FOGO,Residencial Novo Horizonte,Paço do Lumiar,HOMICÍDIO DOLOSO
+167,Cleiton Costa da Silva,11/03/2017,masculino,34,21:35:00,ARMA DE FOGO,Sítio Natureza,Paço do Lumiar,HOMICÍDIO DOLOSO
+168,Bruno Eduardo de Sousa Campos,12/03/2017,masculino,24,10:21:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+169,Josan Sousa Dias,12/03/2017,masculino,31,08:59:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+170,Marcos Vinicius de Jesus Correia,12/03/2017,masculino,21,03:44:00,ARMA DE FOGO,Vila Cafeteira-PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+171,Joarbeth Pereira Santos,12/03/2017,masculino,20,00:08:00,ESPANCAMENTO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+172,José Raimundo Pereira Catanhede,13/03/2017,masculino,22,17:00:00,ESPANCAMENTO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+173,Wagner Martins Pereira,14/03/2017,masculino,20,21:00:00,ARMA DE FOGO,Outeiro da Cruz,São Luís,HOMICÍDIO DOLOSO
+174,Wilderson Pereira Moraes,15/03/2017,masculino,18,19:00:00,ARMA BRANCA,Residencial Nova Terra,São José de Ribamar,HOMICÍDIO DOLOSO
+175,Maria Helena da Silva,15/03/2017,feminino,51,19:00:00,ARMA DE FOGO,Vila Collier,São Luís,HOMICÍDIO DOLOSO
+176,George Henrique da Cruz Calvet,16/03/2017,masculino,41,13:30:00,ESPANCAMENTO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+177,Rafael Silva Amaral,17/03/2017,masculino,20,20:00:00,ESPANCAMENTO,Cidade Olímpica,São Luís,LESÃO C S MORTE
+178,Alexon Santos Louzeiro,17/03/2017,masculino,18,20:03:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+179,Willame Almeida Ferreira,17/03/2017,masculino,31,21:44:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+180,Joerbeth Diniz Santos,17/03/2017,masculino,23,21:56:00,ARMA DE FOGO,Residencial Nova Terra,São José de Ribamar,HOMICÍDIO DOLOSO
+181,Darlison Bezerra dos Santos,17/03/2017,masculino,21,20:23:00,ARMA DE FOGO,Vila Santa Terezinha,São José de Ribamar,LATROCÍNIO
+182,Gabriel Durans Trovão,18/03/2017,masculino,22,17:37:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+183,Domingos Claudio Dias Pereira,18/03/2017,masculino,43,13:47:00,ARMA DE FOGO,Apaco,São Luís,HOMICÍDIO DOLOSO
+184,Ismael Coelho Silva,18/03/2017,masculino,20,20:29:00,ARMA DE FOGO,Quebra Pote,São Luís,HOMICÍDIO DOLOSO
+185,Jose Deilson Alves Almeida,19/03/2017,masculino,22,03:52:00,ARMA DE FOGO,Coroado,São Luís,HOMICÍDIO DOLOSO
+186,Diego Trindade,19/03/2017,masculino,26,15:21:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+187,Não identificado,19/03/2017,masculino,25,04:30:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+188,Wanderson Pinto Costa,20/03/2017,masculino,22,21:00:00,ARMA DE FOGO,João Paulo,São Luís,LESÃO C S MORTE
+189,Erinaldo Santos Lindoso,20/03/2020,masculino,33,03:40:00,ARMA DE FOGO,Anjo da Guarda,São Luís,MORTE D I POLICIAL
+190,Francisco de Assis Monteiro Silva,20/03/2017,masculino,30,23:54:00,ARMA BRANCA,Maiobão,Paço do Lumiar,HOMICÍDIO DOLOSO
+191,Diego Santos Oliveira,21/03/2017,masculino,21,11:01:00,ARMA DE FOGO,Residencial Luís Fernando,Paço do Lumiar,HOMICÍDIO DOLOSO
+192,Carlos Daniel Conceição de Sousa,22/03/2017,masculino,16,18:49:00,ARMA DE FOGO,Cidade Operária,São Luís,LATROCÍNIO
+193,Luis Carlos de Melo da Silva,23/03/2017,masculino,27,20:43:00,ARMA DE FOGO,Conjunto Paranã I,Paço do Lumiar,HOMICÍDIO DOLOSO
+194,Edivan Pereira Castro Filho,23/03/2017,masculino,34,23:30:00,ARMA BRANCA,Coroadinho,São Luís,LESÃO C S MORTE
+195,Andreylson Ferreira,23/03/2017,masculino,30,19:47:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+196,Thiago Marques da Silva,23/03/2017,masculino,15,22:04:00,ARMA DE FOGO,Vila Cafeteira-PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+197,Thiago Marcelo do Reis Costa,24/03/2017,masculino,13,17:00:00,ARMA DE FOGO,Caratatíua,São Luís,HOMICÍDIO DOLOSO
+198,Bartolomeu Nascimento Cruz,24/03/2017,masculino,44,19:00:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,HOMICÍDIO DOLOSO
+199,Lucas Rodrigues Costa,25/03/2017,masculino,25,04:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+200,Anaelson Clayon Serra,25/03/2017,masculino,40,22:56:00,ARMA DE FOGO,Fumacê,São Luís,HOMICÍDIO DOLOSO
+201,Jerson Coelho,26/03/2020,masculino,31,12:00:00,ARMA DE FOGO,Liberdade,São Luís,MORTE D I POLICIAL
+202,Iranilson Lucas Silva Costa,26/03/2020,masculino,19,12:00:00,ARMA DE FOGO,Liberdade,São Luís,MORTE D I POLICIAL
+203,Cristian Lobato Nunes,26/03/2017,masculino,31,21:00:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+204,Rayran Batista de Conceição,27/03/2017,masculino,18,13:00:00,ARMA DE FOGO,Aurora,São Luís,HOMICÍDIO DOLOSO
+205,Carlos Alberto Rodrigues Sales,27/03/2017,masculino,44,04:06:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+206,Cleuton Barroso Leal,27/03/2017,masculino,28,18:43:00,ARMA DE FOGO,Bom Jesus,São Luís,HOMICÍDIO DOLOSO
+207,Carlos Sergio Mota de Jesus,27/03/2017,masculino,32,22:33:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+208,Jefferson Costa Sousa,27/03/2017,masculino,28,12:30:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+209,Adailton Silva Gomes,28/03/2017,masculino,24,15:13:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+210,Anderson Cleiton de Jesus Rego,28/03/2017,masculino,19,07:48:00,OUTROS MEIOS,São Brás dos Macacos,São José de Ribamar,HOMICÍDIO DOLOSO
+211,Josue Franco de Lima,28/03/2017,masculino,17,23:34:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+212,Edvaldo da Silva Pinheiro,29/03/2017,masculino,46,20:07:00,ARMA DE FOGO,Andiroba,São Luís,HOMICÍDIO DOLOSO
+213,Adielson Torres Viana,29/03/2017,masculino,23,05:44:00,ARMA BRANCA,Estiva,São Luís,HOMICÍDIO DOLOSO
+214,Johnathan dos Santos,31/03/2017,masculino,29,19:32:00,ARMA DE FOGO,Vinhais Velho,São Luís,HOMICÍDIO DOLOSO
+215,Nilton de Jesus Ferreira Martins,01/04/2017,masculino,37,22:30:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+216,Não identificado,01/04/2017,masculino,25,22:25:00,ARMA DE FOGO,Itapera,São Luís,HOMICÍDIO DOLOSO
+217,Marcelo Pereira Muniz,01/04/2017,masculino,34,08:00:00,ARMA DE FOGO,Residencial Marcelo Dino,São Luís,HOMICÍDIO DOLOSO
+218,Paulo Roberto Alves de Oliveira,02/04/2017,masculino,32,08:22:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,MORTE D I POLICIAL
+219,Diego Alexader da Silva,02/04/2017,masculino,25,08:22:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+220,Fabrício Fernandes,03/04/2017,masculino,21,19:42:00,ARMA DE FOGO,Anjo da Guarda,São Luís,MORTE D I POLICIAL
+221,Marcio Adriano dos Santos Machado,03/04/2017,masculino,31,18:17:00,ARMA BRANCA,Residencial Carlos Augusto,Paço do Lumiar,HOMICÍDIO DOLOSO
+222,Alisson Mendes Souza,05/04/2017,masculino,13,20:21:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+223,I D C de A,06/04/2017,masculino,16,13:40:00,ARMA DE FOGO,Conjunto Paranã III,Paço do Lumiar,MORTE D I POLICIAL
+224,Thiago dos Santos Leite,06/04/2017,masculino,23,09:56:00,ARMA BRANCA,Residencial Novo Horizonte,Paço do Lumiar,HOMICÍDIO DOLOSO
+225,Jose Raimundo Castro,07/04/2017,masculino,67,18:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+226,Douglas Moraes de Souza,07/04/2017,masculino,34,14:58:00,ARMA DE FOGO,Santana,São José de Ribamar,HOMICÍDIO DOLOSO
+227,Paulo Jedean Sousa de Santana,07/04/2017,masculino,36,14:58:00,ARMA DE FOGO,Santana,São José de Ribamar,HOMICÍDIO DOLOSO
+228,Carlos Alexandre Silva de Oliveira,07/04/2017,masculino,14,12:36:00,ARMA DE FOGO,Vila Cascavel,São Luís,HOMICÍDIO DOLOSO
+229,Jose de Ribamar Dias,08/04/2017,masculino,31,10:21:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+230,Vagno Campelo Moraes,08/04/2017,masculino,37,23:05:00,ARMA DE FOGO,Goiabal,São Luís,HOMICÍDIO DOLOSO
+231,Jeovane Oliveira Veras,09/04/2017,masculino,33,05:30:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+232,Wedson Abreu Silva,11/04/2017,masculino,21,19:12:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+233,Josivaldo Azevedo Abreu Junior,11/04/2017,masculino,21,19:12:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+234,Kleyton Adriano Soares,13/04/2017,masculino,34,04:27:00,ARMA DE FOGO,Cohab-Anil IV,São Luís,HOMICÍDIO DOLOSO
+235,Gregorio da Silva Santos,13/04/2017,masculino,40,20:32:00,ARMA DE FOGO,Vila Bom Viver,Raposa,HOMICÍDIO DOLOSO
+236,Marcio Jose Piedade Lindoso,13/04/2017,masculino,21,21:09:00,ARMA DE FOGO,São Francisco,São Luís,HOMICÍDIO DOLOSO
+237,Danilo de Anchieta Barros Pinto,14/04/2017,masculino,34,23:30:00,ARMA DE FOGO,Camboa,São Luís,LESÃO C S MORTE
+238,ARMA BRANCAricio Magalhães Sarafim,15/04/2017,masculino,32,05:04:00,ARMA BRANCA,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+239,Nilton Silva,15/04/2017,masculino,35,23:37:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+240,Tarciso Ferreira de Araujo,16/04/2017,masculino,38,19:00:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+241,Gustavo Nascimento da Silva,16/04/2017,masculino,27,21:23:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+242,Glaucio Costa Rocha,17/04/2017,masculino,18,19:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+243,Antonio Leitão,17/04/2017,masculino,25,06:20:00,ESPANCAMENTO,Residencial Novo Horizonte,Paço do Lumiar,HOMICÍDIO DOLOSO
+244,Jose Domingos Pinheiro,18/04/2017,masculino,43,21:10:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+245,Jose de Ribamar Oliveira Castro,19/04/2017,masculino,41,14:38:00,ARMA DE FOGO,Mocajituba,Paço do Lumiar,HOMICÍDIO DOLOSO
+246,Pedro Jhone Andrade Silva,19/04/2017,masculino,28,20:13:00,ARMA DE FOGO,Vila Industrial,São Luís,HOMICÍDIO DOLOSO
+247,Josias Serra da Silva,21/04/2017,masculino,19,12:55:00,ARMA DE FOGO,Ivar Saldanha,São Luís,HOMICÍDIO DOLOSO
+248,Jadielson Coelho Serra,21/04/2017,masculino,29,15:37:00,ARMA DE FOGO,Vila Brasil,São Luís,HOMICÍDIO DOLOSO
+249,Anilson Dias Reis,22/04/2017,masculino,42,19:30:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+250,Rogério Azevedo Coqueiro,23/04/2017,masculino,42,22:45:00,ARMA DE FOGO,Barreto,São Luís,HOMICÍDIO DOLOSO
+251,Clayton Karlos França de Souza,24/04/2017,masculino,30,18:51:00,ARMA BRANCA,Parque Nice Lobão,São Luís,HOMICÍDIO DOLOSO
+252,Urias Ribeiro,24/04/2017,masculino,58,14:00:00,ARMA DE FOGO,Tamancão,São Luís,HOMICÍDIO DOLOSO
+253,Gledson da Paixão Soares,24/04/2017,masculino,22,23:50:00,ARMA DE FOGO,Vila Nazaré,São José de Ribamar,HOMICÍDIO DOLOSO
+254,Mariano Coelho,25/04/2017,masculino,68,16:30:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+255,Felipe Anderson Sousa Costa,25/04/2017,masculino,17,18:07:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+256,Deliuson Fernandes dos Santos Nascimento,25/04/2017,masculino,21,20:54:00,ESPANCAMENTO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+257,T H S M,26/04/2017,masculino,17,02:08:00,ARMA DE FOGO,Vicente Fialho,São Luís,MORTE D I POLICIAL
+258,Francisco Eudes da Silva Vitorino,26/04/2017,masculino,41,18:35:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+259,Jonathan Pires Correia,26/04/2017,masculino,15,13:50:00,ARMA DE FOGO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+260,Ramilson da Silva Araújo,28/04/2017,masculino,29,21:00:00,ARMA DE FOGO,Apeadouro,São Luís,MORTE D I POLICIAL
+261,Kervy Sousa Cutrim,28/04/2017,masculino,26,21:00:00,ARMA DE FOGO,Apeadouro,São Luís,MORTE D I POLICIAL
+262,G. dos S. C.,28/04/2017,masculino,16,21:00:00,ARMA DE FOGO,Apeadouro,São Luís,MORTE D I POLICIAL
+263,Flavio Marques Mesquita,28/04/2017,masculino,18,21:00:00,ARMA DE FOGO,Apeadouro,São Luís,MORTE D I POLICIAL
+264,Abmael Vilas Boas Santos,28/04/2017,masculino,40,06:18:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+265,Rafael da Conceição Mendes,29/04/2017,masculino,25,06:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,MORTE D I POLICIAL
+266,Genesio Fonseca Costa,29/04/2017,masculino,31,05:40:00,ARMA BRANCA,Trizidela da Maioba,São José de Ribamar,HOMICÍDIO DOLOSO
+267,A.A.C.F,30/04/2017,masculino,17,23:00:00,ARMA DE FOGO,Cohatrac IV,São Luís,HOMICÍDIO DOLOSO
+268,Adelson Bezerra da Silva,30/04/2017,masculino,35,03:00:00,ARMA DE FOGO,Novo Paço,Paço do Lumiar,HOMICÍDIO DOLOSO
+269,Edivanilson Borges de Jesus,30/04/2017,masculino,20,20:00:00,ARMA DE FOGO,Novo Paço,Paço do Lumiar,HOMICÍDIO DOLOSO
+270,Alan Claudio Pereira Cardoso,01/05/2017,masculino,28,02:35:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+271,Ronilson Camara Pereira,04/05/2017,masculino,28,18:59:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+272,L. C. L. F.,05/05/2017,masculino,17,20:16:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+273,Luis Magno dos Santos Pereira,05/05/2017,masculino,29,09:15:00,ARMA DE FOGO,Retiro Natal,São Luís,HOMICÍDIO DOLOSO
+274,Carlos Augusto Rosa da Silva,06/05/2017,masculino,23,23:44:00,ARMA DE FOGO,Jardim Tropical II,São José de Ribamar,HOMICÍDIO DOLOSO
+275,Paulo Henrique Borges Cruz,06/05/2017,masculino,30,01:00:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+276,Brigerly de Vasconcelos Costa,06/05/2017,masculino,15,19:08:00,ARMA DE FOGO,Parque Pindorama,São Luís,HOMICÍDIO DOLOSO
+277,Sidney Cantanhede Saraiva,07/05/2017,masculino,16,18:00:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+278,Antonio Marques de Sousa,07/05/2017,masculino,27,02:00:00,ARMA DE FOGO,,,HOMICÍDIO DOLOSO
+279,Roberto Lopes Melo da Silva,07/05/2017,masculino,20,19:54:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+280,Josemar de Araujo Raposo,08/05/2017,masculino,29,21:30:00,ARMA BRANCA,Iguaíba,Paço do Lumiar,HOMICÍDIO DOLOSO
+281,Ailson Carlos Serpa Silva,08/05/2017,masculino,35,05:30:00,ARMA BRANCA,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+282,Wanderson Thiago dos Santos,09/05/2017,masculino,30,19:30:00,ARMA DE FOGO,Vila Mauro Fecury II,São Luís,HOMICÍDIO DOLOSO
+283,Maria Julia Sousa,10/05/2017,feminino,41,21:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,LESÃO C S MORTE
+284,Luis Ribamar Dias Pires,11/05/2017,masculino,35,05:20:00,ARMA DE FOGO,,,HOMICÍDIO DOLOSO
+285,Thalisson Jorge Cruz,12/05/2017,masculino,28,14:28:00,ARMA DE FOGO,Recanto do Turu,São José de Ribamar,MORTE D I POLICIAL
+286,João Antonio Baldez,13/05/2017,masculino,29,01:07:00,ARMA BRANCA,Itapera,São Luís,HOMICÍDIO DOLOSO
+287,Sandro Vagner Lopes Silva,13/05/2017,masculino,24,18:23:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+288,Carlos Alberto Santos Lopes,13/05/2017,masculino,26,10:20:00,ARMA DE FOGO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+289,Ivaldo de Jesus Pereira,14/05/2017,masculino,41,08:22:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+290,Martimiano Santos Soares,14/05/2017,masculino,54,20:25:00,ARMA DE FOGO,Jardim Tropical I,São José de Ribamar,HOMICÍDIO DOLOSO
+291,Francisco da Conceição,14/05/2017,masculino,31,23:00:00,ARMA DE FOGO,Residencial Carlos Augusto,Paço do Lumiar,HOMICÍDIO DOLOSO
+292,Leandro Lima da Silva,14/05/2017,masculino,24,04:00:00,ESPANCAMENTO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+293,Marcio Julio Ramos,15/05/2017,masculino,29,22:15:00,ARMA BRANCA,Alto da Esperança,São Luís,HOMICÍDIO DOLOSO
+294,Francisco Araujo Gomes,15/05/2017,masculino,27,16:20:00,ARMA BRANCA,Boa Viagem,São José de Ribamar,HOMICÍDIO DOLOSO
+295,Gerson Lima da Cruz,15/05/2017,masculino,61,02:30:00,ARMA DE FOGO,Itapera,São Luís,HOMICÍDIO DOLOSO
+296,Edivan Andrade Costa,16/05/2017,masculino,32,21:39:00,ARMA DE FOGO,Vila Arari,São Luís,HOMICÍDIO DOLOSO
+297,Wallace Ribeiro Campos,18/05/2017,masculino,23,22:32:00,ARMA DE FOGO,Caratatiua,São Luís,MORTE D I POLICIAL
+298,Roberth Ribeiro Costa,20/05/2017,masculino,22,16:00:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+299,Rafael Lima Serra,20/05/2017,masculino,23,01:16:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+300,Jocimar Pires Mendonça,21/05/2017,masculino,34,20:17:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+301,Geandro Silva Santos,21/05/2017,masculino,32,20:17:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+302,Jean Claudio Teixeira Costa,21/05/2017,masculino,17,20:19:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+303,Jose Claudy Lindoso Filho,21/05/2017,masculino,27,20:35:00,ARMA DE FOGO,Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+304,Jorbeth Pires Dias,21/05/2017,masculino,32,08:28:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+305,Antonio Ricardo Santos Pereira,21/05/2017,masculino,32,03:33:00,ARMA BRANCA,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+306,Inacio dos Santos Mendes,21/05/2017,masculino,40,00:02:00,ARMA BRANCA,São Francisco,São Luís,HOMICÍDIO DOLOSO
+307,Sebastiao Araújo de Almeida,22/05/2017,masculino,23,01:31:00,ARMA DE FOGO,Itapera,São Luís,MORTE D I POLICIAL
+308,Jardson Max Barros Cardoso,22/05/2017,masculino,19,15:11:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+309,Ronalth Correa Coelho,23/05/2017,masculino,36,17:11:00,ARMA DE FOGO,Vila Conceição – Altos do Calhau,São Luís,MORTE D I POLICIAL
+310,Valdemir Laurindo Flores,23/05/2017,masculino,40,17:11:00,ARMA DE FOGO,Vila Conceição – Altos do Calhau,São Luís,MORTE D I POLICIAL
+311,Jose de Ribamar Pereira Alberto,23/05/2017,masculino,23,13:00:00,ARMA BRANCA,Fátima,São Luís,HOMICÍDIO DOLOSO
+312,Richard da Silva Santos,23/05/2017,masculino,25,17:22:00,ARMA DE FOGO,Parque Araçagi,Paço do Lumiar,HOMICÍDIO DOLOSO
+313,Delmir Pereira Amorim,23/05/2017,masculino,37,16:00:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+314,Gabriel Felipe,26/05/2017,masculino,20,20:21:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,HOMICÍDIO DOLOSO
+315,Jardeson Bruno da Silva Matos,26/05/2017,masculino,26,10:43:00,ARMA DE FOGO,Ponta da Madeira,São Luís,HOMICÍDIO DOLOSO
+316,Renato Costa Sousa,27/05/2017,masculino,30,22:30:00,ARMA DE FOGO,Santa Efigênia,São Luís,MORTE D I POLICIAL
+317,Luis Carlos de Sousa Araujo,27/05/2017,masculino,17,10:00:00,ARMA DE FOGO,João Paulo,São Luís,HOMICÍDIO DOLOSO
+318,Jose Inacio Ferreira Rodrigues,27/05/2017,masculino,42,09:00:00,ARMA BRANCA,Liberdade,São Luís,HOMICÍDIO DOLOSO
+319,Jose Wellington Lima Sousa Junior,29/05/2017,masculino,22,10:27:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+320,Heudson Gaspar Botelho Júnior,30/05/2017,masculino,18,13:48:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+321,Marcos de Sousa Barroso,30/05/2017,masculino,27,19:57:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+322,Wanderson Veras dos Santos,30/05/2017,masculino,24,09:40:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+323,Claudionor da Silva Lago,31/05/2017,masculino,45,19:45:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+324,Jose Jeferson Santos de Sousa,31/05/2017,masculino,24,00:30:00,ARMA DE FOGO,,,MORTE ESCLARECER
+325,não identificado,31/05/2017,masculino,30,21:42:00,ESPANCAMENTO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+326,Jhon Carlos Silva Costa,01/06/2017,masculino,19,09:15:00,ARMA DE FOGO,Primavera/Coroadinho,São Luís,
+327,Carlos Emanuel Salgado Souza,01/06/2017,masculino,20,10:56:00,ARMA DE FOGO,Estiva,São Luís,
+328,Lucas Silva de Oliveira,01/06/2017,masculino,17,10:28:00,ARMA BRANCA,Vila Luizão,São Luís,
+329,Werberth Silva Pereira,03/06/2017,masculino,30,10:39:00,ARMA DE FOGO,Coroadinho,São Luís,
+330,Railson da Silva Campos,03/06/2017,masculino,21,21:05:00,ARMA DE FOGO,Liberdade,São Luís,
+331,Marcos Augusto dos Santos Nascimento,03/06/2017,masculino,44,16:57:00,ESPANCAMENTO,Sacavém,São Luís,
+332,Domingos Silvio dos Santos Alves,05/06/2017,masculino,15,22:10:00,ARMA DE FOGO,Tibiri,São Luís,
+333,Jose de Ribamar Martins Nascimento,06/06/2017,masculino,53,21:10:00,ARMA DE FOGO,Centro-PCL,Paço do Lumiar,
+334,William Sampaio Castro,06/06/2017,masculino,19,20:12:00,ARMA DE FOGO,Coroadinho,São Luís,
+335,Carlos Magno Oliveira Moraes,06/06/2017,masculino,23,17:29:00,ARMA DE FOGO,Fabril,São Luís,
+336,Rilton Pereira Costa,06/06/2017,masculino,24,17:29:00,ARMA DE FOGO,Fabril,São Luís,
+337,Erick Ramon Reis Batista,08/06/2017,masculino,21,09:40:00,ARMA DE FOGO,Mata,São José de Ribamar,
+338,Fabiano Narciso Pereira Mendes,08/06/2017,masculino,33,21:16:00,ARMA DE FOGO,Vila Sarney Filho I,São José de Ribamar,
+339,José Carlos de Sena,09/06/2017,masculino,47,07:49:00,ARMA DE FOGO,Jardim Tropical I,São José de Ribamar,
+340,Jailson da Silva Sousa,09/06/2017,masculino,22,21:40:00,ARMA BRANCA,Vila Samara,São Luís,
+341,Josiane Borges Amorim,10/06/2017,feminino,27,21:05:00,ARMA DE FOGO,Camboa,São Luís,
+342,Luis Claudio Sousa Guterres,10/06/2017,masculino,32,21:53:00,ARMA DE FOGO,Gapara,São Luís,
+343,Rui Mailde Sousa Silva,10/06/2017,masculino,39,18:16:00,ARMA DE FOGO,Jaguarema,São José de Ribamar,
+344,Danilo Leandro Chaves ,11/06/2017,masculino,26,01:18:00,ARMA DE FOGO,Liberdade,São Luís,
+345,Jefferson Lima França,12/06/2017,masculino,18,09:32:00,ARMA DE FOGO,Bom Jesus,São Luís,
+346,Edilson dos Santos Serra,12/06/2017,masculino,33,23:19:00,ARMA DE FOGO,Nova Aurora,São José de Ribamar,
+347,Carlos Eduardo Gomes dos Santos,13/06/2017,masculino,18,16:20:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+348,Rafael Mendes da Silva,13/06/2017,masculino,30,20:04:00,ARMA DE FOGO,Vila Cafeteira-PCL,Paço do Lumiar,
+349,Wemerson dos Passos Rodrigues,14/06/2017,masculino,23,00:25:00,ESPANCAMENTO,Cidade Operária,São Luís,
+350,Não identificado,14/06/2017,masculino,30,23:21:00,ARMA DE FOGO,Forquilha,São Luís,
+351,Raimundo Nonato Alcantara Ferreira,15/06/2017,masculino,29,20:16:00,ARMA DE FOGO,Cruzeiro do Anil,São Luís,
+352,Livonir Aires Conceição,15/06/2017,masculino,33,07:56:00,ARMA BRANCA,Santa Clara,São Luís,
+353,Antonio Adeildo Nascimento Araujo,16/06/2017,masculino,41,19:53:00,ARMA DE FOGO,Planalto Anil IV,São Luís,
+354,Wmarddy Garcia Costa Reis,16/06/2017,masculino,23,20:00:00,ARMA BRANCA,São José dos Índios,São José de Ribamar,
+355,Diego de Jesus Santos,17/06/2017,masculino,31,20:00:00,ARMA BRANCA,Centro-SLZ,São Luís,
+356,Gabriel Oliveira Sanches,17/06/2017,masculino,21,13:34:00,ARMA DE FOGO,Fátima,São Luís,
+357,Ronaldo dos Santos,17/06/2017,masculino,22,17:00:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+358,Cezarina Ferreira Lindoso,18/06/2017,feminino,61,23:48:00,ARMA BRANCA,Itapiracó,São Luís,
+359,Matheus Coutinho Brito,18/06/2017,masculino,19,03:22:00,ARMA BRANCA,Residencial Turiúba,São José de Ribamar,
+360,Roberto Souza Santos,18/06/2017,masculino,35,00:45:00,ARMA BRANCA,Tajaçuaba,São Luís,
+361,Rosinea Braga Martins Azevedo,19/06/2017,feminino,40,10:40:00,ARMA DE FOGO,Cruzeiro de Santa Bárbara,São Luís,
+362,Não identificado,19/06/2017,masculino,25,13:00:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+363,Carlos Henrique Pereira Melo,20/06/2017,masculino,17,18:56:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+364,Jheimisson Costa Dias,21/06/2017,masculino,21,16:57:00,ARMA DE FOGO,Cumbique,Raposa,
+365,Milton Alves da Silva,21/06/2017,masculino,42,14:23:00,ARMA DE FOGO,Tibirizinho,São Luís,
+366,Winblendon Paiva Soeiro,21/06/2017,masculino,14,18:44:00,ARMA DE FOGO,Turú,São Luís,
+367,Andre Miranda Teixeira,22/06/2017,feminino,36,16:40:00,ARMA BRANCA,Coroadinho,São Luís,
+368,Denilson Oliveira Rodrigues,22/06/2017,masculino,32,19:40:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+369,Newton Pinheiro Mendes Filho,24/06/2017,masculino,29,22:03:00,ARMA DE FOGO,Divinéia,São Luís,
+370,Jeorbeson Pires Lisboa,25/06/2017,masculino,22,03:39:00,ARMA BRANCA,Maracanã,São Luís,
+371,Cristyan Borges Rodrigues,25/06/2017,masculino,18,22:45:00,ARMA DE FOGO,Residencial Novo Horizonte,Paço do Lumiar,
+372,João Lucas dos Santos Silva,26/06/2017,masculino,15,02:43:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+373,Joel Santos Ferreira,26/06/2017,masculino,33,18:25:00,ARMA DE FOGO,Quebra Pote,São Luís,
+374,Ronald Rodrigues Serra,26/06/2017,masculino,30,18:00:00,ARMA DE FOGO,Vila Isabel,São Luís,
+375,Jose Florencio da Silva,26/06/2017,masculino,59,15:00:00,ARMA BRANCA,Vila Luizão,São Luís,
+376,Alcides Santos da Silva Filho,27/06/2017,masculino,18,18:33:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+377,Não identificado,29/06/2017,masculino,25,07:15:00,ARMA DE FOGO,Vila Maranhão,São Luís,
+378,Raul Gindicelly Carvalho Silva,30/06/2017,masculino,28,19:20:00,ARMA DE FOGO,Alto do Calhau,São Luís,
+379,Leandro Hilton Diniz da Silva,30/06/2017,masculino,16,23:30:00,ARMA DE FOGO,Forquilha,São Luís,
+380,Tarlison Vale Diniz,30/06/2017,masculino,25,18:51:00,ARMA DE FOGO,São Francisco,São Luís,
+381,Ivaldo Santos Costa,01/07/2017,masculino,35,13:14:00,ARMA DE FOGO,Fátima,São Luís,
+382,Wellington Luís Pontes Sousa,03/07/2017,masculino,28,15:02:00,ARMA DE FOGO,Vila Esperança,São Luís,
+383,Avilino Almeida,05/07/2017,masculino,33,14:00:00,ARMA DE FOGO,Ilhinha,São Luís,
+384,Neytiele de Jesus Galvão Silva,05/07/2017,feminino,30,03:50:00,ARMA DE FOGO,Parque Florêncio,São José de Ribamar,
+385,Pedro Igor Viana Bastos,05/07/2017,masculino,27,03:50:00,ARMA DE FOGO,Parque Florêncio,São José de Ribamar,
+386,Manasses Barbosa Souza,06/07/2017,masculino,17,01:30:00,ESTRANGULAMENTO,Vinhais,São Luís,
+387,Bruno Lima Pinheiro,07/07/2017,masculino,18,03:00:00,ESTRANGULAMENTO,Alto da Esperança,São Luís,
+388,Ana Marcia de Amorim,08/07/2017,feminino,23,09:00:00,ARMA BRANCA,João Paulo,São Luís,
+389,Jorge Luis Lobo da Cunha,09/07/2017,masculino,37,16:30:00,ARMA DE FOGO,Calhau,São Luís,
+390,Gabriel de Jesus Sá Soares,09/07/2017,masculino,19,01:40:00,ARMA BRANCA,Cidade Operária,São Luís,
+391,Gilberto Silva Aguiar,09/07/2017,masculino,35,14:30:00,ARMA DE FOGO,Cohafuma,São Luís,
+392,Marcos de Jesus Cordeiro,09/07/2017,masculino,46,06:00:00,ARMA BRANCA,Parque Jair,São José de Ribamar,
+393,Paulo Henrique do Nascimento Moreira,10/07/2017,masculino,29,07:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+394,Manoel de Jesus Nascimento Duarte,10/07/2017,masculino,45,00:30:00,ESPANCAMENTO,Forquilha,São Luís,
+395,Vinicius Barreto Machado,11/07/2017,masculino,14,18:40:00,ARMA DE FOGO,São Bernardo,São Luís,
+396,Wangleds do Nascimento Rosa,13/07/2017,masculino,26,15:55:00,ARMA DE FOGO,Bom Jesus,São Luís,
+397,Paulo Rogerio Sousa Correa,13/07/2017,masculino,30,21:00:00,ARMA BRANCA,Residencial Nova Jerusalém,Paço do Lumiar,
+398,Joel Reis Furtado,14/07/2017,masculino,37,20:39:00,ARMA BRANCA,Novo Paço,Paço do Lumiar,
+399,Arioston Barbosa Magalhães,16/07/2017,masculino,51,17:00:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+400,Charles de Jesus Salgado Rodrigues,18/07/2017,masculino,32,22:00:00,ARMA DE FOGO,Inhaúma,São Luís,
+401,Jardel de Jesus Salgado Rodrigues,18/07/2017,masculino,19,22:00:00,ARMA DE FOGO,Inhaúma,São Luís,
+402,Adriano Ferreira de Araujo,19/07/2017,masculino,20,16:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+403,Johnata Cordeiro Correa,19/07/2017,masculino,25,17:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+404,Haylon Pinheiro Pereira,19/07/2017,masculino,14,18:00:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,
+405,Não Identificado,21/07/2017,feminino,,16:40:00,ESPANCAMENTO,Ananandiba,São Luís,
+406,Antônio Martins da Silva,21/07/2017,masculino,49,20:42:00,ARMA DE FOGO,Cohaserma,São Luís,
+407,Francisco Ivaldo Gomes dos Santos,21/07/2017,masculino,43,15:00:00,ARMA BRANCA,Vila Cafeteira-PCL,Paço do Lumiar,
+408,Helrison Santos Martins,21/07/2017,masculino,24,22:00:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+409,Ledaene Moraes,23/07/2017,feminino,35,18:30:00,ESPANCAMENTO,Barés,São Luís,
+410,Bruno Pereira Ribeiro,23/07/2017,masculino,20,23:00:00,ARMA DE FOGO,Vila Luizão,São Luís,
+411,Antônio Alves dos Santos,24/07/2017,masculino,18,10:20:00,ARMA BRANCA,Alonso Costa,São José de Ribamar,
+412,Carlos Costa,24/07/2017,masculino,55,19:30:00,ARMA BRANCA,Tambaú,Paço do Lumiar,
+413,Cecilio Antonio de Sá,26/07/2017,masculino,70,17:00:00,ARMA BRANCA,Centro-PCL,Paço do Lumiar,
+414,Genivaldo Silva,26/07/2017,masculino,32,01:00:00,ARMA BRANCA,Centro-SLZ,São Luís,
+415,Ramon Caique Pinheiro Ribeiro Pinto,27/07/2017,masculino,23,23:40:00,ARMA DE FOGO,Cohab,São Luís,
+416,Dilma Maria Chagas,29/07/2017,feminino,47,15:10:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+417,Lucas Bonifacio Soares de Sousa,30/07/2017,masculino,18,04:13:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+418,Jose Fabiano Medeiros Junior,02/08/2017,masculino,28,02:40:00,ARMA BRANCA,Centro-SLZ,São Luís,
+419,Edmir Andrade Junior,02/08/2017,masculino,37,10:38:00,ARMA DE FOGO,Jardim Tropical II,São José de Ribamar,
+420,Antonio Dutra de Souza,02/08/2017,masculino,31,18:03:00,ARMA DE FOGO,Tibirizinho,São Luís,
+421,Jose Profiro da Silva Lima,03/08/2017,masculino,47,00:01:00,ARMA BRANCA,Residencial Cidade Verde,Paço do Lumiar,
+422,Celso Augusto Dias Costa,03/08/2017,masculino,33,06:32:00,ARMA BRANCA,Ponta do Farol,São Luís,
+423,Rubem Alexandre Barbosa dos Santos,04/08/2017,masculino,41,03:39:00,ARMA DE FOGO,Cohab-Anil I,São Luís,
+424,Abraão Santos Sousa,05/08/2017,masculino,15,20:30:00,ARMA DE FOGO,Cohatrac V,São José de Ribamar,
+425,Josiel Silva Santos,05/08/2017,masculino,50,08:58:00,ARMA BRANCA,Maracanã,São Luís,
+426,Dalziza Maria da Conceição Feitosa,05/08/2017,feminino,53,08:58:00,ARMA BRANCA,Maracanã,São Luís,
+427,Tharlison Rodrigues Silva,05/08/2017,masculino,18,19:30:00,ARMA DE FOGO,Sacavém,São Luís,
+428,Sandro Silva Serra,06/08/2017,masculino,16,02:17:00,ARMA DE FOGO,Residencial Paraíso,São Luís,
+429,Josenilson Gomes Rodrigues,07/08/2017,masculino,21,21:00:00,ESPANCAMENTO,Coroadinho,São Luís,
+430,Wemerson de Jesus Sousa Ferreira,07/08/2017,masculino,19,09:41:00,ARMA DE FOGO,Fátima,São Luís,
+431,Osmar Francisco Barbosa Filho,08/08/2017,masculino,27,20:00:00,ARMA DE FOGO,Coqueiro,São Luís,
+432,Não identificado,10/08/2017,masculino,30,19:00:00,ARMA DE FOGO,Itapera,São Luís,
+433,Gilson Rodrigues de Brito,12/08/2017,masculino,30,23:57:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+434,Anderson Martins Vieira,12/08/2017,masculino,30,01:07:00,ESPANCAMENTO,Maiobão,São José de Ribamar,
+435,José de Ribamar,12/08/2017,masculino,34,21:33:00,ESPANCAMENTO,Parque Jair,São José de Ribamar,
+436,Adriele Santiago Cardoso,13/08/2017,feminino,27,23:52:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+437,Weslley Gleyson Mendonça Lopes,13/08/2017,masculino,20,06:44:00,ARMA DE FOGO,Pontal da Ilha,São Luís,
+438,Raimundo Nonato Alves Cardoso Filho,13/08/2017,masculino,20,19:00:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+439,Josinaldo Pinto Santos,13/08/2017,masculino,38,06:30:00,ESPANCAMENTO,Santa Maria,São José de Ribamar,
+440,Alex Sousa Lopes,17/08/2017,masculino,34,22:08:00,ARMA DE FOGO,Coroado,São Luís,
+441,Mariano Ferreira de Sousa,19/08/2017,masculino,50,23:13:00,ESPANCAMENTO,João de Deus,São Luís,
+442,Não identificado,19/08/2017,masculino,30,01:08:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+443,Davi Lisboa da Silva,20/08/2017,masculino,30,11:07:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+444,Antonio Domingos Ferreira da Silva,21/08/2017,masculino,42,22:07:00,ARMA DE FOGO,João de Deus,São Luís,
+445,Carlos Eduardo Costa Freitas,23/08/2017,masculino,38,14:00:00,OUTROS MEIOS,Diamante,São Luís,
+446,Não identificado,24/08/2017,masculino,30,12:00:00,ARMA DE FOGO,Camboa,São Luís,
+447,Francisco das Chagas Alves Ferreira,25/08/2017,masculino,26,11:29:00,ARMA DE FOGO,Pirâmide,Raposa,
+448,Nilo Vitorio Saraiva Pontes,27/08/2017,masculino,36,00:19:00,ARMA DE FOGO,Calhau,São Luís,
+449,Laércio Cordeiro Correia,27/08/2017,masculino,23,04:40:00,ARMA DE FOGO,Vicente Fialho,São Luís,
+450,Erick Edson Almeida Pereira,28/08/2017,masculino,20,20:17:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+451,Mario Rogerio dos Santos,29/08/2017,masculino,37,02:12:00,ARMA BRANCA,Coroadinho,São Luís,
+452,Antonio Carlos Santos,29/08/2017,masculino,36,11:00:00,ARMA DE FOGO,Vila Carol,São José de Ribamar,
+453,João Carlos Alves Pereira,31/08/2017,masculino,20,19:44:00,ARMA DE FOGO,Tibiri,São Luís,
+454,Carlos Manoel Alves Pereira,31/08/2017,masculino,14,19:44:00,ARMA DE FOGO,Tibiri,São Luís,
+455,Carlos Emanuel Costa Salles,31/08/2017,masculino,31,21:59:00,ARMA DE FOGO,Zumbi dos Palmares,Paço do Lumiar,
+456,Elenilson Jose Rabelo Paura Fernandes,02/09/2017,masculino,29,10:54:00,ARMA DE FOGO,Anjo da Guarda,São Luís,
+457,Gustavo Luis de Sousa Silva,02/09/2017,masculino,24,01:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+458,Handerson Kleyton Rodrigues França,02/09/2017,masculino,31,03:11:00,ARMA DE FOGO,Nova Aurora,São José de Ribamar,
+459,Aldair de Jesus Padilha Coelho,03/09/2017,masculino,36,12:29:00,ARMA BRANCA,Anjo da Guarda,São Luís,
+460,Marcos Calixto de Oliveira,04/09/2017,masculino,24,04:34:00,ESPANCAMENTO,Cohab-Anil III,São Luís,
+461,Roubert Sousa dos Santos,04/09/2017,masculino,25,13:18:00,ARMA DE FOGO,Vila 25 de maio,São Luís,
+462,Jardson Silva Batista,05/09/2017,masculino,22,01:41:00,ARMA DE FOGO,Vila Samara,São Luís,
+463,Ivan Ferreira Viana,06/09/2017,masculino,21,18:11:00,ARMA BRANCA,Residencial Nova Terra,São José de Ribamar,
+464,Flavio Junior Mendes dos Santos,06/09/2017,masculino,35,12:58:00,ARMA DE FOGO,Pedrinhas,São Luís,
+465,Caio Henrique da Conceição,07/09/2017,masculino,24,09:14:00,ARMA BRANCA,Calhau,São Luís,
+466,Alex Sodré Santos,08/09/2017,masculino,22,04:58:00,ARMA DE FOGO,Vila Mauro Fecury II,São Luís,
+467,Carla Dayane Sousa dos Santos,09/09/2017,feminino,25,18:30:00,ARMA BRANCA,Anil,São Luís,
+468,Gustavo Henrique Azevedo Colins,09/09/2017,masculino,18,00:17:00,ARMA BRANCA,Coroadinho,São Luís,
+469,Messias Diniz Ferreira,10/09/2017,masculino,22,15:00:00,ARMA DE FOGO,Pirâmide,Raposa,
+470,Adriano da Silva Santos,10/09/2017,masculino,19,11:40:00,ARMA DE FOGO,Vila Riod,São Luís,
+471,Luís Carlos Reis de Assunção,11/09/2017,masculino,29,22:00:00,ARMA DE FOGO,Cruzeiro,São José de Ribamar,
+472,Antonio Jose da Conceição,11/09/2017,masculino,18,18:00:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,
+473,Hermenegildo Castelo da Silva Filho,11/09/2017,masculino,51,07:20:00,ARMA DE FOGO,Pão de Açúcar,São Luís,
+474,não identificado,12/09/2017,masculino,30,12:49:00,OUTROS MEIOS,Maiobão,Paço do Lumiar,
+475,Gisnaldo Ribeiro Silva,12/09/2017,masculino,19,23:40:00,ARMA DE FOGO,Santa Cruz,São Luís,
+476,Gilmar Raimundo Oliveira de Jesus,14/09/2017,masculino,25,21:51:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,
+477,Kerlisson Ribeiro Silva,15/09/2017,masculino,22,21:58:00,ARMA DE FOGO,Sacavém,São Luís,
+478,Saul Nadalke Santos Pinheiro,17/09/2017,masculino,15,21:15:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+479,Jose Adriano Oliveira Pereira,18/09/2017,masculino,29,16:30:00,ARMA DE FOGO,Parque das Palmeiras,São José de Ribamar,
+480,Não identificado,18/09/2017,masculino,25,02:00:00,ARMA DE FOGO,Residencial Nova Vida,São Luís,
+481,Carlos Antonio Santos Silva,18/09/2017,masculino,44,19:30:00,ARMA BRANCA,Vila Maresia,Raposa,
+482,Jadson Dias de Souza,19/09/2017,masculino,14,11:48:00,ARMA DE FOGO,Pedrinhas,São Luís,
+483,Joseilson de Sousa Silva,20/09/2017,masculino,22,04:09:00,OUTROS MEIOS,Vila Kiola I,São José de Ribamar,
+484,Paulo Robson Galvão,21/09/2017,masculino,28,20:09:00,ARMA DE FOGO,Porto de Mocajituba,Paço do Lumiar,
+485,Jose Armando Diniz Santos Junior,24/09/2017,masculino,39,18:30:00,ARMA BRANCA,Sá Viana,São Luís,
+486,Ronald da Paz Gomes,24/09/2017,masculino,29,21:29:00,ARMA DE FOGO,Santa Cruz,São Luís,
+487,Jose Orlando Costa Aguiar,24/09/2017,masculino,35,22:00:00,ARMA BRANCA,São Raimundo-SJR,São José de Ribamar,
+488,Mateus Ribeiro Araújo,26/09/2017,masculino,15,20:22:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+489,Não identificado,26/09/2017,masculino,45,09:06:00,ARMA DE FOGO,João Paulo,São Luís,
+490,Daglyson Ribeiro Gomes,29/09/2017,masculino,14,20:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+491,Adriano Gomes Oliveira,29/09/2017,masculino,27,04:15:00,ARMA DE FOGO,Estiva,São Luís,
+492,José Carlos da Silva Martins,30/09/2017,masculino,22,01:42:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,
+493,Júlio Caio Pereira Lopes,01/10/2017,masculino,19,00:45:00,ARMA DE FOGO,Divinéia,São Luís,
+494,Leandro Nascimento Veras,01/10/2017,masculino,27,00:45:00,ARMA DE FOGO,Divinéia,São Luís,
+495,Nathalia Costa Oliveira,01/10/2017,feminino,22,03:15:00,ARMA DE FOGO,Santana,São José de Ribamar,
+496,Valderfrank Conceição Oliveira,02/10/2017,masculino,25,20:18:00,ARMA DE FOGO,Alto do Turu I,São José de Ribamar,
+497,João Victor Frasão da Silva,02/10/2017,masculino,18,16:51:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+498,Alvino Ribeiro dos Santos,02/10/2017,masculino,40,00:40:00,ESPANCAMENTO,Tibiri,São Luís,
+499,Jhosef Silva Gonçalves,03/10/2017,masculino,15,13:40:00,ARMA BRANCA,Itapera,São Luís,
+500,Ivaldo Gomes de Sousa,03/10/2017,masculino,45,08:05:00,ARMA DE FOGO,Madre Deus,São Luís,
+501,Marcos Antonio da Silva Lima,03/10/2017,masculino,35,08:21:00,ESTRANGULAMENTO,São Raimundo,São Luís,
+502,Jose dos Reis dos Santos,05/10/2017,masculino,71,05:00:00,ARMA BRANCA,Pirâmide,Raposa,
+503,Jose Carlos Torres Rego,05/10/2017,masculino,52,19:35:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+504,Leandro Monteiro Costa,06/10/2017,masculino,25,16:35:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+505,Gemyson Kleyton Machado Pereira,07/10/2017,masculino,29,01:16:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+506,Jairo Portela Aquino,07/10/2017,masculino,29,02:00:00,ARMA BRANCA,Juçatuba,São Luís,
+507,Alexone Castro dos Santos Filho,07/10/2017,masculino,20,15:30:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,
+508,Afonso Cardoso,08/10/2017,masculino,19,03:26:00,ARMA BRANCA,Andiroba,São Luís,
+509,João Batista de Sousa Santos,08/10/2017,masculino,47,21:07:00,ARMA BRANCA,Mutirão,São José de Ribamar,
+510,Rafael Tavares Tito,09/10/2017,masculino,21,20:00:00,ARMA DE FOGO,Alto do Farol,Raposa,
+511,Joarlison Martins Araujo,09/10/2017,masculino,22,01:11:00,ARMA DE FOGO,Vila Itamar,São Luís,
+512,Julio Gleyson Pereira,09/10/2017,masculino,33,01:11:00,ARMA DE FOGO,Vila Itamar,São Luís,
+513,Ruan Silva,09/10/2017,masculino,20,11:38:00,ARMA BRANCA,Vila Janaína,São Luís,
+514,Antonio Lucas Pacheco Vieira,11/10/2017,masculino,17,12:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+515,Jose de Arimatea Santos Pereira,11/10/2017,masculino,51,20:40:00,ARMA BRANCA,Geniparanã,São Luís,
+516,Jose Fernando Soares Filho,12/10/2017,masculino,21,09:35:00,ARMA BRANCA,Parque Nice Lobão,São Luís,
+517,Wenderson Clayton Silva Pereira,12/10/2017,masculino,33,08:40:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+518,Joelson Sousa,12/10/2017,masculino,35,01:40:00,ARMA DE FOGO,Salinas do Sacavém,São Luís,
+519,Antonio Barbosa de Sousa,13/10/2017,masculino,41,05:15:00,ARMA DE FOGO,Cidade Operária,São Luís,
+520,Luciano da Silva Cardoso,13/10/2017,masculino,31,23:55:00,ARMA DE FOGO,Estiva,São Luís,
+521,Diogenes Ferreira Magalhães de Almeida,13/10/2017,masculino,60,18:00:00,ARMA DE FOGO,Pedrinhas,São Luís,
+522,Werlison Maximo Ferreira,14/10/2017,masculino,13,00:35:00,ARMA DE FOGO,João Paulo,São Luís,
+523,Ademar Moreira Gonçalves,15/10/2017,masculino,36,19:33:00,ARMA DE FOGO,Calhau,São Luís,
+524,Luis Mauro Alves Araujo,16/10/2017,masculino,37,06:30:00,ARMA DE FOGO,Tinaí,São Luís,
+525,Guilherme Jose Mendes Reis,17/10/2017,masculino,39,16:11:00,ARMA DE FOGO,Cohatrac IV,São Luís,
+526,Wildson Baldez Silva,17/10/2017,masculino,30,20:00:00,ARMA DE FOGO,Vila Nova República,São Luís,
+527,Jozimar Almeida Araujo,17/10/2017,masculino,32,20:50:00,ARMA BRANCA,Pau Deitado,Paço do Lumiar,
+528,Francisco de Carvalho Silva Macedo,20/10/2017,masculino,37,01:18:00,ARMA BRANCA,Centro-SLZ,São Luís,
+529,Adriano Conceição de Oliveira,20/10/2017,masculino,22,22:08:00,ARMA DE FOGO,Residencial Ivaldo Rodrigues,São Luís,
+530,Nilton Melonio Sá,21/10/2017,masculino,24,19:43:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+531,Nayro Mendes Veras,21/10/2017,masculino,20,11:00:00,ARMA DE FOGO,Vila Industrial,São Luís,
+532,Denilson de Jesus Silva da Costa,21/10/2017,masculino,23,07:00:00,ARMA BRANCA,Vila Sarney,São Luís,
+533,Francisco das Chagas Sousa Araujo,22/10/2017,masculino,42,22:30:00,ARMA DE FOGO,Vila Vale Verde,São Luís,
+534,Pablo Regis Cantaria Araujo,22/10/2017,masculino,17,20:04:00,ARMA DE FOGO,Estiva,São Luís,
+535,Railton Marley Pereira Ferreira,22/10/2017,masculino,22,21:37:00,ARMA DE FOGO,Novo Angelim,São Luís,
+536,Maicon Adriano Rocha Mota,23/10/2017,masculino,22,21:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+537,Wanderley Freitas Ferreira,23/10/2017,masculino,29,20:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+538,Jose de Ribamar Santos Diniz,23/10/2017,masculino,77,07:38:00,ESPANCAMENTO,Maiobinha,São José de Ribamar,
+539,Franquimar de Sousa,24/10/2017,masculino,48,17:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+540,Wallisson Cutrim Moraes Mota,24/10/2017,masculino,26,23:10:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+541,Rivelson Alves Vilhena,24/10/2017,masculino,15,10:43:00,ARMA DE FOGO,Pindaí,São José de Ribamar,
+542,Flávio Gouveia Santos,25/10/2017,masculino,38,17:10:00,ARMA DE FOGO,Bom Milagre,São Luís,
+543,Alacildes Cantanhede da Cruz,26/10/2017,masculino,32,19:33:00,ARMA BRANCA,Estiva,São Luís,
+544,Allan Balbino Matos,26/10/2017,masculino,18,15:00:00,ARMA DE FOGO,Vila Samara,São Luís,
+545,AGNALDO SEBASTIAO MATOS PAIXAO,27/10/2017,masculino,41,13:00:00,OUTROS MEIOS,Anjo da Guarda,São Luís,
+546,Leonel Elton Silva e Silva,27/10/2017,masculino,26,15:04:00,ARMA DE FOGO,Vila Sarney,São Luís,
+547,Thiago Gleydson Pereira Gomes,29/10/2017,masculino,19,18:01:00,ARMA DE FOGO,Areinha,São Luís,
+548,Velson Correa dos Santos,29/10/2017,masculino,27,18:55:00,ARMA DE FOGO,Pirâmide,Raposa,
+549,Danys dos Santos Medeiros,30/10/2017,masculino,30,03:34:00,ARMA DE FOGO,Liberdade,São Luís,
+550,Joao Alves de Lima,30/10/2017,masculino,38,17:20:00,ARMA DE FOGO,Sítio do apicum,São José de Ribamar,
+551,Não Identificado,30/10/2017,masculino,30,23:32:00,ESPANCAMENTO,Turú,São Luís,
+552,José Antonio Carvalho C. Filho,31/10/2017,masculino,32,19:49:00,ARMA DE FOGO,Cohab-Anil IV,São Luís,
+553,Elton Cardoso dos Santos,31/10/2017,masculino,35,16:30:00,ARMA BRANCA,Madre Deus,São Luís,
+554,Leonardo Lima Ferreira,31/10/2017,masculino,20,13:54:00,ARMA DE FOGO,Pindoba,Paço do Lumiar,
+555,Rozenilde Macêdo Amorim,31/10/2017,masculino,38,23:30:00,ARMA BRANCA,Santana,São José de Ribamar,
+556,Cleilton Camara Dias,01/11/2017,masculino,30,22:30:00,ARMA BRANCA,Anjo da Guarda,São Luís,
+557,Alana Ludmila Borges Pereira,01/11/2017,feminino,10,10:00:00,OUTROS MEIOS,Maiobão,Paço do Lumiar,
+558,José Armando Monteiro Cantanhede,03/11/2017,masculino,16,10:51:00,ARMA DE FOGO,Cidade Alta,São José de Ribamar,
+559,Luis Claudio de Albuquerque Avila Filho,05/11/2017,masculino,16,23:22:00,ARMA DE FOGO,João Paulo,São Luís,
+560,Carlos Henrique da Silva Mota,05/11/2017,masculino,10,23:11:00,ARMA DE FOGO,João Paulo,São Luís,
+561,Roberto Acácio Costa da Silva,06/11/2017,masculino,19,12:15:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+562,Rosangela de Jesus Gonçalves,07/11/2017,feminino,43,,ESTRANGULAMENTO,Vila Riod,São Luís,
+563,Genivaldo dos Santos Pereira,08/11/2017,masculino,27,21:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+564,Gabriel Costa Sodré,08/11/2017,masculino,19,13:35:00,ARMA DE FOGO,Vila dos Nobres,São Luís,
+565,Lismar Nunes Mendes,08/11/2017,masculino,33,18:45:00,ARMA DE FOGO,Coroadinho,São Luís,
+566,Jonas da Silva Lima,10/11/2017,masculino,68,17:50:00,ARMA DE FOGO,Mocajituba,Paço do Lumiar,
+567,Fabio Rogerio Ferreira Ramos,12/11/2017,masculino,38,22:44:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,
+568,Yuri de Paula Silva,12/11/2017,masculino,25,14:56:00,ARMA DE FOGO,Trizidela da Maioba,São José de Ribamar,
+569,Josélio Rocha Sousa,12/11/2017,masculino,45,14:56:00,ARMA DE FOGO,Trizidela da Maioba,São José de Ribamar,
+570,Raimundo Nonato de Jesus Lisboa,13/11/2017,masculino,46,01:00:00,ARMA BRANCA,Maracanã,São Luís,
+571,José Mateus Martins Batista,13/11/2017,masculino,17,22:03:00,ARMA DE FOGO,Ipase,São Luís,
+572,Jodael dos Santos Anjos,13/11/2017,masculino,21,19:49:00,ARMA DE FOGO,Rio Grande,São Luís,
+573,Christian Brayan Romeu Braga,13/11/2017,masculino,25,00:33:00,ARMA DE FOGO,Vila Embratel,São Luís,
+574,Wagner Oliveira Rodrigues dos Santos,13/11/2017,masculino,25,00:29:00,ARMA DE FOGO,Pedrinhas,São Luís,
+575,Ronald da Silva Mendes,13/11/2017,masculino,18,00:29:00,ARMA DE FOGO,Pedrinhas,São Luís,
+576,Geneilson Rodrigues Pinheiro,13/11/2017,masculino,16,19:17:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+577,Ivan Pereira dos Santos,13/11/2017,masculino,25,00:29:00,ARMA DE FOGO,Pedrinhas,São Luís,
+578,Daniel Fernandes Gomes,13/11/2017,masculino,38,18:00:00,ARMA DE FOGO,Bom Jesus,São Luís,
+579,Luís Fernando Moura Rocha,14/11/2017,masculino,15,06:28:00,ARMA DE FOGO,Vila São Sebastião,São Luís,
+580,Miguel Souza Filho,14/11/2017,masculino,23,05:14:00,ARMA DE FOGO,Vila Embratel,São Luís,
+581,Icaro Gabriel Ferreira da Silva,14/11/2017,masculino,21,13:23:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+582,Jeffrey Carneiro Mendes,14/11/2017,masculino,33,23:00:00,ARMA DE FOGO,Coroado,São Luís,
+583,Domingas Ladyelle Sousa Maciel,16/11/2017,feminino,33,07:35:00,ARMA BRANCA,Vila dos Nobres,São Luís,
+584,Maria do Nascimento Goes Freitas,16/11/2017,feminino,49,14:24:00,ARMA BRANCA,Conjunto Alexandra Tavares,São Luís,
+585,Darley Silva de Sousa,16/11/2017,masculino,15,14:00:00,ARMA DE FOGO,Vila Samara,São Luís,
+586,Jhonata Rodrigues Carvalho,17/11/2017,masculino,18,20:30:00,ARMA BRANCA,Residencial Novo Horizonte,Paço do Lumiar,
+587,Edmilson Nunes Pereira,16/11/2017,masculino,32,20:30:00,ARMA DE FOGO,Vila São Sebastião,São Luís,
+588,José Lino dos Passos,17/11/2017,masculino,62,06:00:00,ARMA DE FOGO,Vila Embratel,São Luís,
+589,Rafael Magno Silva de Jesus,18/11/2017,masculino,17,20:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+590,Wellington Carlos de Jesus Costa,18/11/2017,masculino,40,21:24:00,ARMA DE FOGO,São Raimundo,São Luís,
+591,Valbert Miranda Pinheiro,18/11/2017,masculino,26,21:45:00,ARMA DE FOGO,Pirâmide,São Luís,
+592,Odemar Pereira Batista,19/11/2017,masculino,66,20:00:00,ARMA BRANCA,Planalto Vinhais,São Luís,
+593,Pedro Souza Durans Filho,19/11/2017,masculino,41,21:52:00,ARMA DE FOGO,Vila Airton Sena,São Luís,
+594,Aldo Domingos Oliveira,19/11/2017,masculino,33,21:52:00,ARMA DE FOGO,Vila Airton Sena,São Luís,
+595,Paulo Henrique Lima Silva,21/11/2017,masculino,29,04:22:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+596,José Carlos de Sousa Lima,22/11/2017,masculino,50,04:05:00,ARMA BRANCA,João Paulo,São Luís,
+597,Adriano Lima Silva,23/11/2017,masculino,16,23:26:00,ARMA DE FOGO,Pindaí,São José de Ribamar,
+598,Ledilson Leitão Silva,23/11/2017,masculino,35,05:35:00,ARMA DE FOGO,Cidade Operária,São Luís,
+599,Wesley Sousa Fonseca,23/11/2017,masculino,17,15:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+600,Nezildo Cabral dos Santos,23/11/2017,masculino,27,20:57:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+601,Rubens Gomes Ferreira,25/11/2017,masculino,51,17:00:00,ARMA DE FOGO,Sítio Grande,Paço do Lumiar,
+602,Vilson Santos da Silva,25/11/2017,masculino,37,18:30:00,ARMA DE FOGO,Vinhais,São Luís,
+603,Mikael dos Santos Silva,26/11/2017,masculino,15,19:30:00,ARMA DE FOGO,Pedrinhas,São Luís,
+604,Deigliane Jardielle dos Santos de Sousa ,26/11/2017,feminino,12,22:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+605,Sonia Maria Oliveira dos Santos,28/11/2017,feminino,42,16:30:00,ARMA DE FOGO,Camboa,São Luís,
+606,Nathalia Rosa Costa Borges,28/11/2017,feminino,41,04:45:00,ARMA DE FOGO,Liberdade,São Luís,
+607,Alexandre Ferreira Nascimento Júnior,28/11/2017,masculino,18,09:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+608,Alex Nicolau de Sousa,28/11/2017,masculino,20,10:00:00,ARMA DE FOGO,Itapera,São Luís,
+609,Darlyson Ferreira Costa,29/11/2017,masculino,24,00:00:00,ESTRANGULAMENTO,Iguaíba,São Luís,
+610,Gleidson Barbosa da Silva,29/11/2017,masculino,18,19:00:00,ARMA BRANCA,Cumbique,Paço do Lumiar,
+611,Fabíola dos Santos,29/11/2017,feminino,24,,OUTROS MEIOS,Pau Deitado,Paço do Lumiar,
+612,Raimundo Nonato Costa Nogueira,29/11/2017,masculino,36,22:00:00,ARMA DE FOGO,La Belle Park,São José de Ribamar,
+613,Natanael Lucas Almeida Coelho,29/11/2017,masculino,21,19:40:00,ARMA DE FOGO,Vila América,São Luís,
+614,Pedro Henrique Lobo Sousa,30/11/2017,masculino,23,06:40:00,ARMA DE FOGO,Residencial Cidade Verde,Paço do Lumiar,
+615,Elielton dos Santos Oliveira,30/11/2017,masculino,22,03:30:00,ARMA DE FOGO,Quintas do Calhau,São Luís,
+616,Anderson Pinheiro Jansen,30/11/2017,masculino,26,03:30:00,ARMA DE FOGO,Quintas do Calhau,São Luís,
+617,Melquizedek Vilar da Silva,02/12/2017,masculino,28,20:21:00,ARMA BRANCA,Estiva,São Luís,
+618,César Cals Alves Rodrigues,03/12/2017,masculino,46,12:09:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,
+619,Edvaldo Benedito dos Santos,05/12/2017,masculino,59,10:00:00,ARMA BRANCA,Jardim Tropical,São José de Ribamar,
+620,Edson Francisco Silva Oliveira,05/12/2017,masculino,18,23:26:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+621,Márcio Roberto Correa de Melo,06/12/2017,masculino,42,18:22:00,ESPANCAMENTO,Inhaúma,São Luís,
+622,Cristiano de Jesus Frazão Ribeiro,07/12/2017,masculino,23,19:30:00,ARMA DE FOGO,Apeadouro,São Luís,
+623,Simone Regis Soares Nogueira,09/12/2017,feminino,28,19:34:00,ARMA DE FOGO,Liberdade,São Luís,
+624,José de Jesus Meneses dos Santos Junior,09/12/2017,masculino,31,06:00:00,ARMA DE FOGO,Quintas do Calhau,São Luís,
+625,Braz Domingos Pereira Junior,09/12/2017,masculino,25,23:32:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+626,Marcos Vinicius Campos Gonçalves,10/12/2017,masculino,18,18:56:00,ARMA DE FOGO,Fabril,São Luís,
+627,Nilson dos Santos Lima,11/12/2017,masculino,21,07:17:00,ARMA DE FOGO,Camboa,São Luís,
+628,Felipe Emanoel Ribeiro,11/12/2017,masculino,22,19:26:00,ARMA DE FOGO,Vila Janaína,São Luís,
+629,Antonio Peres da Silva,12/12/2017,masculino,70,03:00:00,ARMA DE FOGO,Jordôa,São Luís,
+630,Lauandio Matos Silva,12/12/2017,masculino,30,14:30:00,ARMA DE FOGO,Novo Angelim,São Luís,
+631,Lourival Marques de Oliveira,13/12/2017,masculino,40,19:20:00,ARMA DE FOGO,Residencial Nova Auora,São José de Ribamar,
+632,José Tauwan Campelo dos Santos,13/12/2017,masculino,16,11:21:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+633,Vanderlan Batista Aguiar,14/12/2017,masculino,42,10:00:00,ARMA BRANCA,Outeiro,São José de Ribamar,
+634,João Carlos Lima Pimentel,14/12/2017,masculino,40,13:00:00,ARMA DE FOGO,Vila Janaína,São Luís,
+635,Não Identificado,15/12/2017,masculino,30,21:13:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,
+636,Wadson de Jesus Costa Rocha,15/12/2017,masculino,33,11:50:00,ARMA DE FOGO,Vila Embratel,São Luís,
+637,Pedro Italo Lopes Guimarães da Silva,16/12/2017,masculino,18,23:35:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,
+638,Luiz Carlos Mousinho da Silva,20/12/2017,masculino,54,20:00:00,ARMA BRANCA,Santa Bárbara,São Luís,
+639,Hélio Lucas da Silva,21/12/2017,masculino,47,05:59:00,ARMA BRANCA,Canavieiro,São José de Ribamar,
+640,Jose Rynilson Gouveia Torres,23/12/2017,masculino,22,20:00:00,ARMA DE FOGO,Pontal da Ilha,São Luís,
+641,Não Identificado,24/12/2017,masculino,30,22:08:00,ARMA DE FOGO,Desterro,São Luís,
+642,Marcelo dos Santos Nascimento,24/12/2017,masculino,20,13:28:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,
+643,Gledston dos Santos,25/12/2017,masculino,38,04:48:00,ARMA BRANCA,Jardim Tropical,São José de Ribamar,
+644,Edvaldo Borges Neres,25/12/2017,masculino,30,14:42:00,ARMA BRANCA,Coheb Sacavém,São Luís,
+645,Laurinaldo Sales Correa,25/12/2017,masculino,38,11:50:00,ARMA BRANCA,Gapara,São Luís,
+646,Clebenilson Mota da Fonseca,25/12/2017,masculino,31,02:00:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+647,Rafael Silva e Silva,25/12/2017,masculino,29,14:20:00,ARMA DE FOGO,Coroadinho,São Luís,
+648,Ronald Belem Mafra,25/12/2017,masculino,17,12:37:00,ARMA DE FOGO,Gapara,São Luís,
+649,Mailson Irapeuma Cardoso,25/12/2017,masculino,25,18:57:00,ARMA DE FOGO,Vila Bacanga,São Luís,
+650,Pedro Jorge Ferreira Costa,27/12/2017,masculino,24,20:12:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+651,Elton John Silva Sarmento,28/12/2017,masculino,31,06:39:00,ARMA DE FOGO,Porto do Vieira,São José de Ribamar,
+652,André Arouche Fontoura,29/12/2017,masculino,36,10:45:00,ARMA DE FOGO,Bequimão,São Luís,
+653,Helson Muniz,30/12/2017,masculino,20,20:30:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+654,Carlos Cesar Costa,01/01/2018,masculino,39,10:27:00,ARMA DE FOGO,Estiva,São Luís,
+655,Jorge Luiz Sousa Bezerra,01/01/2018,masculino,43,19:57:00,ARMA DE FOGO,Geniparanã,São Luís,
+656,Rodrigo Pinheiro Correa,01/01/2018,masculino,35,07:00:00,ESPANCAMENTO,Centro-SLZ,São Luís,
+657,Raimundo  Nonato Amaral Chagas,02/01/2018,masculino,56,12:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+658,Ronald Wesllen Silva Costa,04/01/2018,masculino,15,20:15:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+659,Maycon Alessandro da Rocha Soares,04/01/2018,masculino,16,22:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,
+660,Cleber Conceição Mendes,06/01/2018,masculino,73,06:00:00,ARMA DE FOGO,São Raimundo,São Luís,
+661,Robson Cesar Gatinho Ferreira,06/01/2018,masculino,30,00:00:00,ARMA DE FOGO,João Paulo,São Luís,
+662,Yego Gabiel Silva Ribeiro,06/01/2018,masculino,15,12:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+663,Ismael Santos da Cruz,07/01/2018,masculino,16,22:30:00,ARMA DE FOGO,Vila Dr. Julinho,São José de Ribamar,
+664,Alan Kardec Dias Mota,07/01/2018,masculino,31,07:40:00,ARMA BRANCA,Pedrinhas,São Luís,
+665,Joel de Jesus Silva,07/01/2018,masculino,36,14:00:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+666,Lourran Regis Araújo Nunes,07/01/2018,masculino,19,17:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+667,Eduardo Reis Santos,09/01/2018,masculino,27,12:30:00,ARMA BRANCA,Vila Embratel,São Luís,
+668,Fabiano Costa Ferreira,10/01/2018,masculino,41,21:00:00,ARMA DE FOGO,La Belle Park,Paço do Lumiar,
+669,Edson Muller Pinto Silva,11/01/2018,masculino,15,15:10:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+670,Adriano Moraes dos Santos,12/01/2018,masculino,32,19:30:00,ARMA DE FOGO,Alto do Turu II,São José de Ribamar,
+671,Rychard Ricley Araujo da Silva,13/01/2018,masculino,17,13:23:00,ARMA DE FOGO,Alemanha,São Luís,
+672,Moises Pereira Silva,13/01/2018,masculino,41,22:25:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+673,Cristopher Lima de Miranda,13/01/2018,masculino,24,22:25:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+674,Valdeci dos Santos Filho,14/01/2018,masculino,22,07:00:00,ESPANCAMENTO,Cidade Olímpica,São Luís,
+675,Egnaldo Pinheiro Amorim,14/01/2018,masculino,22,22:00:00,ARMA DE FOGO,Jaracaty,São Luís,
+676,Rogerio Lino de Sousa,15/01/2018,masculino,49,11:30:00,ARMA DE FOGO,Povoado Rio São João,São José de Ribamar,
+677,Jose Ribamar Dias Neto,15/01/2018,masculino,28,02:48:00,ARMA DE FOGO,Cidade Operária,São Luís,
+678,Matheus Marques,16/01/2018,masculino,19,13:47:00,ARMA BRANCA,Residencial Orquídeas,Paço do Lumiar,
+679,Ronald Cantanhede,16/01/2018,masculino,28,22:00:00,ARMA DE FOGO,Maiobinha,São José de Ribamar,
+680,Joelison Castro da Silva,16/01/2018,masculino,22,21:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+681,Dalton Victor Viana Ferreira,16/01/2018,masculino,15,19:30:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+682,Antonio Neves da Silva,16/01/2018,masculino,29,22:30:00,ARMA DE FOGO,Maracanã,São Luís,
+683,Carlos Henrique dos Santos Pereira,17/01/2018,masculino,24,06:10:00,ARMA DE FOGO,Pedrinhas,São Luís,
+684,Sandney Alves Costa,18/01/2018,masculino,33,05:30:00,ARMA DE FOGO,Conjunto Tambaú,Paço do Lumiar,
+685,Heitor Bruno Reis Moraes,18/01/2018,masculino,27,22:00:00,ARMA DE FOGO,Novo angelim,São Luís,
+686,Itamarcio Machado da Silva,19/01/2018,masculino,38,06:45:00,ARMA BRANCA,Pindoba,Paço do Lumiar,
+687,Denilson Ferreira Cutrim,19/01/2018,masculino,18,15:47:00,ARMA DE FOGO,Vila Maranhão,São Luís,
+688,Jorge Luis Baima de Araujo,20/01/2018,masculino,46,14:00:00,ESPANCAMENTO,,,
+689,Jorge da Costa Sousa,20/01/2018,masculino,37,19:27:00,ARMA DE FOGO,Mata de Itapera,São Luís,
+690,José Ronivon Viegas Amorim,21/01/2018,masculino,28,03:00:00,ARMA BRANCA,Aterro do Bacanga,São Luís,
+691,Diego Cleyton Mendes Cunha,24/01/2018,masculino,23,20:17:00,ARMA DE FOGO,Vicente Fialho,São Luís,
+692,Cleuldson Araujo Almeida Silva,25/01/2018,masculino,22,16:17:00,ARMA DE FOGO,Piçarreira,São José de Ribamar,
+693,Melquizedequi Alves de Almeida,25/01/2018,masculino,17,17:48:00,ARMA BRANCA,Novo Horizonte-São Raimundo,São Luís,
+694,Thaylla Karoline Macedo Brito,25/01/2018,masculino,18,19:30:00,ARMA BRANCA,Coréia,São Luís,
+695,Hans Miller Silva Barbosa,26/01/2018,masculino,37,15:20:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,
+696,Jose Roberto Pereira Mota,26/01/2018,masculino,34,20:00:00,ARMA DE FOGO,Quinta,São José de Ribamar,
+697,William Pinheiro Pereira,30/01/2018,masculino,28,20:25:00,ARMA DE FOGO,Iguaíba,Paço do Lumiar,
+698,Manoel Lopes Dias Neto,30/01/2018,masculino,18,23:40:00,ARMA DE FOGO,São Cristóvão,São Luís,
+699,Ítalo Eduardo Sousa da Silva,31/01/2018,masculino,19,20:30:00,ARMA DE FOGO,Quinta,São José de Ribamar,
+700,Heitor Rodrigues de Sousa,02/02/2018,masculino,21,16:27:00,ARMA BRANCA,,,
+701,Italo Baltazar Chagas Vieira,02/02/2018,masculino,18,10:13:00,ARMA BRANCA,Mojó,Paço do Lumiar,
+702,Fabio Cruz Silva,03/02/2018,masculino,49,13:00:00,ARMA BRANCA,São Francisco,São Luís,
+703,Francisco de Paula Oliveira Neto,03/02/2018,masculino,36,09:30:00,ARMA DE FOGO,Vila Gorete-Camboa,São Luís,
+704,Walber Camara Andrade,04/02/2018,masculino,35,01:29:00,ARMA BRANCA,Centro-SLZ,São Luís,
+705,Weliton de Sousa Almeida,04/02/2018,masculino,21,23:12:00,ARMA DE FOGO,João Paulo,São Luís,
+706,Edinaldo Pereira Padilha,05/02/2018,masculino,40,13:30:00,ARMA DE FOGO,Vila Cafeteira-SJR,São José de Ribamar,
+707,Daniel Linconl Cardoso Nogueira,05/02/2018,masculino,34,01:50:00,ARMA BRANCA,Aterro do Bacanga,São Luís,
+708,Raul Dias Nogueira,05/02/2018,masculino,23,00:25:00,ARMA DE FOGO,Santa Efigênia,São Luís,
+709,Italo Richardson Passos de Pinto,09/02/2018,masculino,14,13:00:00,ARMA DE FOGO,Vila Janaína,São Luís,
+710,Pedro Lucas Vale Ferreira,09/02/2018,masculino,15,10:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+711,Paulino Martins Rodrigues Filho,09/02/2018,masculino,46,19:00:00,ARMA DE FOGO,Gapara,São Luís,
+712,Valdeilton de Aquino Pereira,09/02/2018,masculino,21,21:57:00,ARMA DE FOGO,Pedrinhas,São Luís,
+713,Natanael Figueiredo,10/02/2018,masculino,16,10:47:00,ARMA BRANCA,Vila Lobão,São Luís,
+714,Rayane dos Remedios Costa Rodrigues,13/02/2018,feminino,20,03:00:00,OUTROS MEIOS,Vila São Sebastião,São Luís,
+715,João Carlos Pereira,13/02/2018,masculino,27,13:00:00,ARMA BRANCA,Vila São Sebastião,São Luís,
+716,Adriano Costa da Conceição,13/02/2018,masculino,32,14:00:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,
+717,Davi de Souza Bugarin de Mello,15/02/2018,masculino,26,19:20:00,ARMA DE FOGO,Parque dos Nobres,São Luís,
+718,Macilene Silva Araújo,16/02/2018,feminino,23,01:00:00,OUTROS MEIOS,Forquilha,São Luís,
+719,Ricardo de Jesus Abrantes Júnior,16/02/2018,masculino,24,01:00:00,OUTROS MEIOS,Forquilha,São Luís,
+720,Genilson Ferreira Simoes,18/02/2018,masculino,23,10:46:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,
+721,Rodrigo Rafael Barreto Rodrigues,19/02/2018,masculino,26,17:40:00,ARMA DE FOGO,Vila Isabel,São Luís,
+722,Jose de Arimateia Oliveira Coelho,20/02/2018,masculino,33,01:35:00,ARMA BRANCA,São Cristóvão,São Luís,
+723,Milton Baldez de Castro,20/02/2018,masculino,45,17:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+724,Thiago Reis Alves Barroso,21/02/2018,masculino,22,19:00:00,ARMA DE FOGO,Pindaí,São José de Ribamar,
+725,Gledilson Tonni Baldez de Castro,21/02/2018,masculino,,,ARMA DE FOGO,Cidade Olímpica,São Luís,
+726,Gylderson Costa Machado,24/02/2018,masculino,25,20:30:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+727,Patrick Rodrigo Silva de Jesus,24/02/2018,masculino,25,20:30:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+728,Marcelo Henrique da Silva Castro,25/02/2018,masculino,17,05:00:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São José de Ribamar,
+729,Ananias Matias da Silva,25/02/2018,masculino,27,23:40:00,ARMA DE FOGO,Barreto,São Luís,
+730,José Valdir Silva Reis,27/02/2018,masculino,43,21:29:00,ARMA BRANCA,Quebra Pote,São Luís,
+731,Não identificada (sexo indefinido),01/03/2018,,,16:41:00,ESPANCAMENTO,Santa Bárbara,São Luís,
+732,Breno dos Santos Silva,03/03/2018,masculino,20,16:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+733,Heloneide Ferreira da Silva,03/03/2018,feminino,44,22:00:00,ARMA DE FOGO,Coroado,São Luís,
+734,Francisco dos Reis Costa Ascenção,04/03/2018,masculino,39,16:08:00,ARMA BRANCA,Barragem do Bacanga,São Luís,
+735,Carlos Henrique Furtado Vieira,05/03/2018,masculino,26,19:00:00,ARMA DE FOGO,Outeiro,São José de Ribamar,
+736,Flaviana Silva Freitas,07/03/2018,feminino,31,12:19:00,ARMA BRANCA,Cohab-Anil I,São Luís,
+737,Marcos dos Santos Chaves,09/03/2018,masculino,16,20:59:00,ARMA DE FOGO,Santa Clara,São Luís,
+738,Marcos Antônio Gomes Serra,10/03/2018,masculino,47,18:53:00,ARMA BRANCA,Liberdade,São Luís,
+739,Vanilson Cardoso Gomes,11/03/2018,masculino,28,05:20:00,ARMA BRANCA,Vila Esperança,São Luís,
+740,Edson Araújo Alves,12/03/2018,masculino,30,04:00:00,ESTRANGULAMENTO,Cururuca,Paço do Lumiar,
+741,Fredeilson Franklin Martins,15/03/2018,masculino,31,23:00:00,ARMA DE FOGO,João de Deus,São Luís,
+742,David Soares Machado,16/03/2018,masculino,20,00:37:00,ARMA DE FOGO,Estiva,São Luís,
+743,Edmar de Jesus,16/03/2018,masculino,49,17:00:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,
+744,Não identificado ,18/03/2018,masculino,25,18:23:00,ARMA DE FOGO,Invasão todos os Santos,Paço do Lumiar,
+745,Marlison Vasconcelos Barbosa,23/03/2018,masculino,23,18:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+746,Joelson Inacio da Silva,24/03/2018,masculino,17,11:34:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+747,Luiz Carlos Muniz Catanhede,25/03/2018,masculino,55,08:40:00,OUTROS MEIOS,Residencial Nova Jerusalém,Paço do Lumiar,
+748,Leandro Martins Rodrigues,26/03/2018,masculino,36,16:35:00,ARMA DE FOGO,Camboa,São Luís,
+749,Joaby Yuri Viana Correa,27/03/2018,masculino,20,16:20:00,ARMA DE FOGO,Pedrinhas,São Luís,
+750,Jesiel de Sales Pontes,27/03/2018,masculino,52,20:00:00,ARMA BRANCA,Pirâmide,Paço do Lumiar,
+751,Michael Douglas Silva Coelho,28/03/2018,masculino,30,20:15:00,ARMA DE FOGO,Retiro Natal,São Luís,
+752,João Bonifácio de Almeida,28/03/2018,masculino,75,21:00:00,ARMA DE FOGO,Vila Maranhão,São Luís,
+753,William da Cruz,29/03/2018,masculino,39,06:22:00,ARMA DE FOGO,Itaqui,São Luís,
+754,Fabio Henrique de Matos,29/03/2018,masculino,25,22:00:00,ARMA DE FOGO,Vila Sarney,São Luís,
+755,Não identificada ,29/03/2018,masculino,,16:54:00,OUTROS MEIOS,Ponta D'areia,São Luís,
+756,Elton Romário Campos de Andrade,30/03/2018,masculino,27,09:15:00,ARMA DE FOGO,Camboa,São Luís,
+757,Antônio Carlos Da Silva,31/03/2018,masculino,37,20:36:00,ARMA DE FOGO,J. Câmara,São José de Ribamar,
+758,Breno Nascimento Santos,01/04/2018,masculino,20,01:47:00,ARMA DE FOGO,São Raimundo,São Luís,
+759,J. L. O. P.,01/04/2018,masculino,17,13:17:00,ARMA DE FOGO,Vila Isabel,São Luís,
+760,José de Ribamar Pinheiro Cunha,02/04/2018,masculino,32,08:07:00,ARMA DE FOGO,Vila Embratel,São Luís,
+761,Agnaldo de Jesus Santos Tavares,02/04/2018,masculino,53,19:15:00,ARMA DE FOGO,Liberdade,São Luís,
+762,Celiane Pereira Alves Idade,05/04/2018,feminino,30,08:40:00,ARMA BRANCA,Coroado,São Luís,
+763,Danrley Vitor Amorim Pereira,06/04/2018,masculino,23,12:42:00,ARMA DE FOGO,Monte Castelo,São Luís,
+764,L. B. N. V.,06/04/2018,masculino,17,16:43:00,ARMA DE FOGO,Radional,São Luís,
+765,Anailton Silva Gomes,07/04/2018,masculino,25,22:35:00,ARMA BRANCA,Jardim Tropical II,São José de Ribamar,
+766,Edvan Mendes da Silva,08/04/2018,masculino,36,21:00:00,ARMA DE FOGO,Tibiri,São Luís,
+767,Josiane Costa Maranhão,08/04/2018,feminino,34,22:00:00,ARMA DE FOGO,Fátima,São Luís,
+768,Josielson de Jesus da Silva Almeida,08/04/2018,masculino,30,00:32:00,OUTROS MEIOS,Fátima,São Luís,
+769,Joaby Frazao Barros,10/04/2018,masculino,20,05:00:00,OUTROS MEIOS,São Francisco,São Luís,
+770,Clailton Rodrigues dos Santos,11/04/2018,masculino,26,19:00:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,
+771,Antônio Celso Gomes,11/04/2018,masculino,29,20:20:00,ARMA DE FOGO,Conjunto Tambaú,Paço do Lumiar,
+772,Rafael Castro da Silva,14/04/2018,masculino,29,04:25:00,ARMA BRANCA,Conjunto Roseana Sarney,São Luís,
+773,F. S. S.,14/04/2018,masculino,12,20:50:00,ARMA DE FOGO,Fátima,São Luís,
+774,Moisaniel Cardoso da Silva,15/04/2018,masculino,35,02:18:00,OUTROS MEIOS,Vila Esperança,São Luís,
+775,Daniel Cardoso da Silva,15/04/2018,masculino,41,02:18:00,OUTROS MEIOS,Vila Esperança,São Luís,
+776,Wagner Monteiro Sá Silva,15/04/2018,masculino,31,08:00:00,ARMA DE FOGO,Alto do Turu I,São José de Ribamar,
+777,Antônio Marcos Barbosa Pereira,15/04/2018,masculino,46,23:32:00,ARMA DE FOGO,Forquilha,São Luís,
+778,Thalisson Almeida da Silva,20/04/2018,masculino,18,19:42:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+779,Alisson Matos Balata,20/04/2018,masculino,21,21:51:00,ARMA DE FOGO,Vila Dr. Julinho,São José de Ribamar,
+780,Adalberto Rodrigues,21/04/2018,masculino,61,20:35:00,ARMA BRANCA,Matinha,São José de Ribamar,
+781,Moisane Rodrigues,21/04/2018,feminino,36,20:35:00,ARMA BRANCA,Matinha,São José de Ribamar,
+782,Joseilson Serra Santos,23/04/2018,masculino,33,16:54:00,ARMA DE FOGO,Coqueiro,São Luís,
+783,Fernando Tadeu Costa Da Silva,23/04/2018,masculino,53,21:30:00,ARMA BRANCA,Calhau,São Luís,
+784,Victor Hugo Ramos Rocha,25/04/2018,masculino,22,21:30:00,ARMA DE FOGO,Alonso Costa,São José de Ribamar,
+785,Francisco Marques Lopes,26/04/2018,masculino,52,08:00:00,ARMA DE FOGO,Anil,São Luís,
+786,Emerson Sales Duarte,26/04/2018,masculino,21,10:30:00,ARMA DE FOGO,Vila Brasil,São Luís,
+787,Elisangela de Araújo Brito,26/04/2018,feminino,40,13:00:00,ARMA BRANCA,Pão de Açúcar,São Luís,
+788,Raimundo Nonato Neves Lima,27/04/2018,masculino,33,10:30:00,OUTROS MEIOS,Vila Nova-Bacanga,São Luís,
+789,Rafael Costa da Silva,28/04/2018,masculino,23,13:30:00,ARMA DE FOGO,Vila Itamar,São Luís,
+790,Jadson Carlos Cruz Silva,29/04/2018,masculino,19,20:00:00,ARMA DE FOGO,São Raimundo,São Luís,
+791,José Edson Do Nascimento,29/04/2018,masculino,59,20:00:00,ARMA BRANCA,Inhaúma,Raposa,
+792,Gledson Castro Pereira,29/04/2018,masculino,30,02:40:00,OUTROS MEIOS,Araçagi,São José de Ribamar,
+793,W. E. J. S.,29/04/2018,masculino,15,17:00:00,OUTROS MEIOS,Parque Jair,São José de Ribamar,
+794,Jardson Henrique de Sousa Araujo,01/05/2018,masculino,25,13:44:00,ARMA DE FOGO,Vila São José – PCL,Paço do Lumiar,
+795,Dionilson da Silva e Silva,01/05/2018,masculino,15,23:00:00,ESPANCAMENTO,Caúra,São José de Ribamar,
+796,Claúdio Henrique Moura Costa,02/05/2018,masculino,30,22:15:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+797,Elton Costa de Araújo,03/05/2018,masculino,20,11:40:00,ESTRANGULAMENTO,Pedrinhas,São Luís,
+798,Dionas Matos Santos,03/05/2018,masculino,20,18:15:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+799,Madilson Antônio de Sousa e Sousa,04/05/2018,masculino,21,11:30:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+800,David Farias de Aragão,05/05/2018,masculino,35,23:35:00,ARMA DE FOGO,Araçagi,São José de Ribamar,
+801,Emerson Viegas Sales,06/05/2018,masculino,17,00:06:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+802,Leandro Silva Ferreira ,06/05/2018,masculino,28,18:17:00,ARMA DE FOGO,Ponta D'areia,São Luís,
+803,Gleidson Martins Freitas,06/05/2018,masculino,19,20:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+804,P M R M,06/05/2018,masculino,6,10:45:00,ARMA DE FOGO,Fátima,São Luís,
+805,Maria do Amparo Santos Coqueiro ,07/05/2018,feminino,25,14:50:00,ARMA BRANCA,Andiroba,São Luís,
+806,Raimundo Nonato dos Santos Sousa,08/05/2018,masculino,68,19:42:00,ARMA DE FOGO,Igaraú,São Luís,
+807,Nucyelle Nadia de Brito Ferreira,08/05/2018,feminino,10,21:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+808,Daniel Santos Barros,09/05/2018,masculino,22,15:25:00,ARMA BRANCA,Tajaçuaba,São Luís,
+809,E B L ,10/05/2018,masculino,1,17:00:00,OUTROS MEIOS,Panaquatira,São José de Ribamar,
+810,Jhonatan Andrade Serra,10/05/2018,masculino,37,06:40:00,ARMA BRANCA,Bonfim,São Luís,
+811,Tyago dos Santos Serra,10/05/2018,masculino,18,22:14:00,ARMA BRANCA,Cidade Olímpica,São Luís,
+812,João Pedro Souza de Albuquerque,10/05/2018,masculino,25,03:34:00,ARMA DE FOGO,Pedrinhas,São Luís,
+813,Maurício Soares Silva,13/05/2018,masculino,15,18:30:00,ARMA DE FOGO,São Raimundo,São Luís,
+814,Natalielson Oliveira Viana,15/05/2018,masculino,26,00:57:00,ARMA DE FOGO,Cohab-Anil III,São Luís,
+815,Marcelo dos Santos Reis,15/05/2018,masculino,29,10:40:00,ARMA DE FOGO,Cidade Operária,São Luís,
+816,Não identificado ,15/05/2018,masculino,25,,OUTROS MEIOS,Pedrinhas,São Luís,
+817,Josimar Costa,18/05/2018,masculino,52,09:30:00,ARMA DE FOGO,Cajueiro,São Luís,
+818,Wanderson Rodrigues Brandão,18/05/2018,masculino,18,16:55:00,ARMA DE FOGO,Pedrinhas,São Luís,
+819,Jorge Jean da Silva Santos,19/05/2018,masculino,31,21:00:00,ARMA DE FOGO,Vila Dr. Julinho,São José de Ribamar,
+820,Alisson Bruno Santos Costa,19/05/2018,masculino,22,05:00:00,ARMA BRANCA,Cidade Olímpica,São Luís,
+821,Carlos Euzebio do Amaral Pereira,19/05/2018,masculino,51,05:40:00,ARMA DE FOGO,Recanto Verde,São Luís,
+822,Wanderson Rodrigues Machado dos Santos,20/05/2018,masculino,17,13:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+823,Carlos Marçal Viana Silva,21/05/2018,masculino,22,02:30:00,ARMA DE FOGO,Vila 25 de Maio,São Luís,
+824,Agnaldo Costa Sousa,21/05/2018,masculino,49,19:48:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+825,Matheus Viana Santos,21/05/2018,masculino,23,20:00:00,ARMA DE FOGO,São Cristóvão,São Luís,
+826,Não identificado ,23/05/2018,feminino,30,22:00:00,ARMA BRANCA,Ivar Saldanha,São Luís,
+827,Washington Andrade Serra,24/05/2018,masculino,54,06:30:00,ARMA DE FOGO,Chácara Brasil,São Luís,
+828,Rafael Gusmão Junior,24/05/2018,masculino,32,15:00:00,ARMA DE FOGO,Vinhais,São Luís,
+829,Francisco de Assis Almeida Soares,25/05/2018,masculino,35,21:00:00,ARMA DE FOGO,Residencial Carlos Augusto,Paço do Lumiar,
+830,Elizandro da Silva e Silva,25/05/2018,masculino,28,08:00:00,ARMA DE FOGO,Vila Esperança,São Luís,
+831,Weleson do Nascimento Dias,25/05/2018,masculino,17,08:00:00,ARMA DE FOGO,Vila Esperança,São Luís,
+832,Lucas Daniel Lima Santos,26/05/2018,masculino,15,02:40:00,ARMA DE FOGO,Maiobinha,São José de Ribamar,
+833,Ronald Lima Machado,26/05/2018,masculino,28,20:00:00,ARMA DE FOGO,Vila Vitória,São Luís,
+834,Leonardo de Jesus Pereira Trindade,26/05/2018,masculino,29,19:30:00,ARMA DE FOGO,Vila Bacanga,São Luís,
+835,Jose Murilo Santos Muniz Junior,27/05/2018,masculino,31,19:30:00,ARMA DE FOGO,Andiroba,São Luís,
+836,Antonio Claudio Matos Silva,28/05/2018,masculino,47,02:14:00,ARMA BRANCA,São Raimundo,São Luís,
+837,Não identificado ,28/05/2018,masculino,25,03:50:00,ARMA BRANCA,Cohab-Anil III,São Luís,
+838,David Belford da Silva,01/06/2018,masculino,14,20:00:00,ARMA DE FOGO,Vila Riod,São Luís,
+839,Katriel Sebastian Bastos Ferreira,02/06/2018,masculino,22,15:20:00,ARMA DE FOGO,Vila Cafeteira-SJR,São José de Ribamar,
+840,Ernande Gonçalves de Sousa,03/06/2018,masculino,29,21:00:00,ARMA BRANCA,Vila Maranhão,São Luís,
+841,Jefferson Moraes Farias,03/06/2018,masculino,24,11:15:00,ARMA DE FOGO,Vila Valian,São Luís,
+842,Clenilson Conceição Mendes,04/06/2018,masculino,38,00:40:00,ARMA DE FOGO,Pirapora,São Luís,
+843,Diogeles Emmanuel da Silva Oliveira,04/06/2018,masculino,36,00:45:00,ARMA DE FOGO,Fátima,São Luís,
+844,Elenilson de Oliveira Baldez,04/06/2018,masculino,21,19:30:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+845,Pitter Nilson da Silva Matos,04/06/2018,masculino,29,14:00:00,ARMA BRANCA,Vila Collier,São Luís,
+846,Adriano Sousa Serra,05/06/2018,masculino,26,00:36:00,ARMA DE FOGO,João Paulo,São Luís,
+847,Marcele Cardoso da Silva,06/06/2018,feminino,26,19:00:00,ARMA DE FOGO,Cohab-Anil I,São Luís,
+848,Ernandes Barbosa Silva,10/06/2018,masculino,17,14:30:00,ARMA DE FOGO,Pontal da Ilha,São Luís,
+849,Leonardo do Nascimento Diniz,10/06/2018,masculino,24,17:00:00,ARMA BRANCA,São Francisco,São Luís,
+850,Remulo Cosme de Melo Oliveira,12/06/2018,masculino,37,18:45:00,ARMA BRANCA,Vila São João,Raposa,
+851,Ronald Pereira,14/06/2018,masculino,36,16:57:00,ESPANCAMENTO,Cidade Operária,São Luís,
+852,Luis Alberto Pereira,15/06/2018,masculino,29,20:00:00,ARMA DE FOGO,Recanto da Paz,São José de Ribamar,
+853,Mauricio Lima Coelho,15/06/2018,masculino,17,09:33:00,ARMA DE FOGO,Sacavém,São Luís,
+854,Dan Carlos Costa Silva,16/06/2018,masculino,26,11:00:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+855,Ernandis Pereira da Silva,16/06/2018,masculino,21,21:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+856,João Pedro Pinheiro Amorim,16/06/2018,masculino,18,22:00:00,ARMA DE FOGO,Retiro Natal,São Luís,
+857,Jilmer Clayton Sousa Diniz,17/06/2018,masculino,39,23:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+858,Marcio de Jesus Almeida Lima,17/06/2018,masculino,22,23:46:00,ARMA DE FOGO,Monte Castelo,São Luís,
+859,Teresinha de Almeida Diniz,18/06/2018,feminino,35,07:30:00,ARMA BRANCA,Rio Grande,São Luís,
+860,Rudson Victor Pires Fernandes,20/06/2018,masculino,16,13:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+861,Wellinton de Jesus Silva Pires,20/06/2018,masculino,33,,ARMA DE FOGO,Vila Embratel,São Luís,
+862,Dayson Pereira do Nascimento,22/06/2018,masculino,19,20:00:00,ARMA DE FOGO,Residencial Luís Fernando,Paço do Lumiar,
+863,Agnaldo Carvalho Oliveira,22/06/2018,masculino,32,00:46:00,ARMA BRANCA,Cruzeiro,São José de Ribamar,
+864,Claudio Ribamar Araújo,22/06/2018,masculino,44,11:00:00,ARMA DE FOGO,Monte Castelo,São Luís,
+865,Raimundo Nonato Santos Pavão,23/06/2018,masculino,32,20:30:00,ARMA BRANCA,Vila Operária,São José de Ribamar,
+866,Elinilson Aguiar da Silva,23/06/2018,masculino,21,02:00:00,ARMA DE FOGO,São Cristóvão,São Luís,
+867,Não Identificado,23/06/2018,masculino,30,20:32:00,ARMA DE FOGO,Recanto Fialho,São Luís,
+868,Luis Ribamar dos Santos Filho,24/06/2018,masculino,27,20:30:00,ARMA BRANCA,Alto do Turu II,São José de Ribamar,
+869,Daniel Câmara de Sousa,24/06/2018,masculino,15,17:44:00,ARMA DE FOGO,Coroadinho,São Luís,
+870,Eduardo Pestana dos Santos,24/06/2018,masculino,24,21:47:00,ARMA DE FOGO,Maracanã,São Luís,
+871,Gilberto Santos Sousa,25/06/2018,masculino,42,06:51:00,ARMA BRANCA,Matinha,São José de Ribamar,
+872,João Batista Câmara Oliveira,25/06/2018,masculino,48,08:22:00,ARMA DE FOGO,Vila Bacanga,São Luís,
+873,Tatiana Santos do Carmo,25/06/2018,feminino,25,22:00:00,ARMA DE FOGO,Vila São Sebastião,São Luís,
+874,Vitor Rochedo Ferreira,25/06/2018,masculino,21,04:00:00,ARMA DE FOGO,Vila Embratel,São Luís,
+875,Manoel Victor Marques da Silva,27/06/2018,masculino,17,16:20:00,ESPANCAMENTO,Vila Airton Sena,São Luís,
+876,Pablo Wendel Martins Marinho,27/06/2018,masculino,21,15:20:00,ARMA DE FOGO,Liberdade,São Luís,
+877,Jean Melo Feitosa,28/06/2018,masculino,20,15:00:00,ARMA DE FOGO,Residencial Nova Vida,Paço do Lumiar,
+878,Marcone das Chagas Santos,28/06/2018,masculino,40,17:00:00,ARMA DE FOGO,Santa Cruz,São Luís,
+879,Mauricio Gaspar Sousa,28/06/2018,masculino,23,15:30:00,ARMA DE FOGO,Maranhão Novo,São Luís,
+880,Milton Barros de Filho,30/06/2018,masculino,46,05:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,
+881,Gilberto Costa Teixeira,02/07/2018,masculino,28,09:00:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,
+882,Josivaldo de Sousa Garcia,02/07/2018,masculino,31,20:30:00,ARMA DE FOGO,Residencial 2000,São Luís,
+883,Alan Ferreira,04/07/2018,masculino,26,04:00:00,ARMA DE FOGO,Vila Talita,Raposa,
+884,Jardson dos Santos Abrãao ,04/07/2018,masculino,20,20:30:00,ARMA DE FOGO,Ponta Verde,São José de Ribamar,
+885,Wanderson Fernandes Paulino,04/07/2018,masculino,21,21:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+886,Vera Lucia Ferreira da Conceição,06/07/2018,feminino,33,21:00:00,ARMA DE FOGO,Residencial Novo Horizonte,Paço do Lumiar,
+887,Kilson Soares Chagas,06/07/2018,masculino,41,11:30:00,ARMA DE FOGO,Forquilha,São Luís,
+888,Edmilson Reis,07/07/2018,masculino,44,15:40:00,ARMA DE FOGO,Tibiri,São Luís,
+889,Wendel Wellington Silva Santos,14/07/2018,masculino,15,14:30:00,ARMA DE FOGO,Vila Funil,São Luís,
+890,Cleiton Ramos,14/07/2018,masculino,17,12:00:00,ARMA DE FOGO,Outeiro da Cruz,São Luís,
+891,Maria Jose Silva,15/07/2018,feminino,44,05:30:00,ARMA BRANCA,Morada do Bosque II,Paço do Lumiar,
+892,Jailson Araujo da Luz,16/07/2018,masculino,39,06:30:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+893,Leonilson dos Santos Nascimento,21/07/2018,masculino,29,18:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,
+894,L S C C,21/07/2018,masculino,16,00:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+895,Manoel Santos da Conceição,26/07/2018,masculino,46,17:20:00,OUTROS MEIOS,Parque Bob Kennedy,Paço do Lumiar,
+896,Marcos Vinicius Souza Rodrigues,26/07/2018,masculino,20,19:00:00,ARMA DE FOGO,Sacavém,São Luís,
+897,R C C,31/07/2018,masculino,16,20:00:00,ARMA DE FOGO,Recanto Verde,São Luís,
+898,Augusto Pablo Cardoso Martins,03/08/2018,masculino,25,17:00:00,ARMA DE FOGO,Vieira,São José de Ribamar,
+899,Jhenymenson Silva dos Santos,05/08/2018,masculino,23,18:00:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,
+900,José Adeilton de Souza Pindoba,05/08/2018,masculino,39,,ARMA DE FOGO,Vila Maranhão,São Luís,
+901,Gerson Teixeira dos Santos,06/08/2018,masculino,26,16:30:00,ARMA DE FOGO,Estiva,São Luís,
+902,Claudenilson Brandão Castro,07/08/2018,masculino,28,21:13:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,
+903,Mayckel Alexandre Santos,07/08/2018,masculino,44,16:36:00,ARMA BRANCA,Areinha,São Luís,
+904,Robson Cantanhede,13/08/2018,masculino,25,,OUTROS MEIOS,Aterro do Bacanga,São Luís,
+905,Mikael Willame Moraes Costa,14/08/2018,masculino,17,05:51:00,ARMA DE FOGO,Vila Alcione Ferreira,São José de Ribamar,
+906,Joan Pereira Amorim,16/08/2018,masculino,29,14:57:00,ARMA DE FOGO,Pindaí,São José de Ribamar,
+907,Antônio Jose Garcez dos Santos,17/08/2018,masculino,52,17:30:00,ARMA BRANCA,Coquilho,São Luís,
+908,Francisco de Assis Lima Santos,18/08/2018,masculino,29,02:50:00,ARMA BRANCA,Centro-SLZ,São Luís,
+909,Widney Silva Batista,18/08/2018,masculino,18,01:30:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,
+910,Francisco Oliveira Silva,18/08/2018,masculino,38,20:45:00,ARMA DE FOGO,Vila Funil,São Luís,
+911,Miercio Bruno de Sousa,19/08/2018,masculino,36,23:30:00,ARMA DE FOGO,Novo Cohatrac,São José de Ribamar,
+912,Egídio Marques Lopes,20/08/2018,masculino,67,19:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+913,Antonilson Povoas Sousa,21/08/2018,masculino,46,20:32:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,
+914,Ivanildo Vieira Castro,21/08/2018,masculino,33,03:00:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+915,Maurício dos Reis da Silva,21/08/2018,masculino,26,23:40:00,ARMA BRANCA,Vila Cascavel,São Luís,
+916,Erinaldo Trindade,21/08/2018,masculino,22,12:00:00,ARMA DE FOGO,Cruzeiro do Anil,São Luís,
+917,Diego Ferreira Barbosa,22/08/2018,masculino,25,23:40:00,ARMA BRANCA,Residencial Tiradentes,São Luís,
+918,Erivan da Conceição Silva,22/08/2018,masculino,18,09:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+919,João Macelo dos Santos Trindade,22/08/2018,masculino,20,12:00:00,ARMA DE FOGO,Cruzeiro do Anil,São Luís,
+920,Luis Carlos Mendonça Mendes,23/08/2018,masculino,29,06:00:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,
+921,Joerbeth Silva Fonseca Junior,24/08/2018,masculino,24,23:00:00,ARMA DE FOGO,Retiro Natal,São Luís,
+922,Mateus Filipe Passos dos Santos,27/08/2018,masculino,21,21:00:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,
+923,Luis Fernando Correa dos Reis,28/08/2018,masculino,24,17:30:00,ARMA DE FOGO,Moropóia,São José de Ribamar,
+924,Luis Fernando Leite da Silva,31/08/2018,masculino,39,22:37:00,ARMA BRANCA,Vila do Povo,Paço do Lumiar,
+925,Walkiria de Magalhães da Silva,31/08/2018,feminino,39,10:45:00,ARMA DE FOGO,Vieira,São José de Ribamar,
+926,Carlos Magno Pereira,31/08/2018,masculino,47,11:00:00,ARMA DE FOGO,Ivar Saldanha,São Luís,
+927,Nataniel do Nascimento Silva,02/09/2018,masculino,18,02:38:00,ARMA DE FOGO,Maracanã,São Luís,
+928,Erenilson Carlos Gonçalves de Sousa,03/09/2018,masculino,20,08:15:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+929,José Alves dos Santos Filho,04/09/2018,masculino,21,01:25:00,ARMA DE FOGO,Itapera,São Luís,
+930,Josemar Costa Pereira,04/09/2018,masculino,32,01:25:00,ARMA DE FOGO,Itapera,São Luís,
+931,Lucas Alves do Nascimento,04/09/2018,masculino,18,19:17:00,ARMA DE FOGO,Cohatrac IV,São Luís,
+932,Adriano Santos Paiva,05/09/2018,masculino,26,13:30:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,
+933,Ronaldo Freire dos Reis,06/09/2018,masculino,21,21:31:00,ARMA DE FOGO,Mata,São José de Ribamar,
+934,Jussiel Pereira Mesquita,07/09/2018,masculino,30,19:43:00,ARMA BRANCA,João de Deus,São Luís,
+935,Alyson Gomes da Silva,07/09/2018,masculino,21,19:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+936,Carlos Lisboa do Vale,08/09/2018,masculino,18,11:04:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+937,Diego Aguiar Soares,08/09/2018,masculino,27,11:04:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+938,Gilsomar Carvalho Fonseca,09/09/2018,masculino,39,14:55:00,ARMA DE FOGO,Coroadinho,São Luís,
+939,Welliton Camara Almeida,10/09/2018,masculino,17,02:36:00,ARMA DE FOGO,Mata,São José de Ribamar,
+940,Thiago Manoel Reis Vieira,10/09/2018,masculino,17,01:00:00,ARMA DE FOGO,Outeiro,São José de Ribamar,
+941,Cosmo Damião Pereira Ribeiro,10/09/2018,masculino,19,20:14:00,ARMA DE FOGO,Jardim América,São Luís,
+942,José de Ribamar Almeida,13/09/2018,masculino,53,06:45:00,ARMA BRANCA,Vila Conceição – Alto do Calhau,São Luís,
+943,Adriel Felipe Ribeiro Marinho ,14/09/2018,masculino,20,11:10:00,ARMA DE FOGO,Pontal da Ilha,São Luís,
+944,José Milton Viana Junior ,15/09/2018,masculino,37,19:20:00,ARMA DE FOGO,Liberdade,São Luís,
+945,Alvaro Macedo Gomes,16/09/2018,masculino,21,21:29:00,ARMA DE FOGO,Residencial Orquídeas,Paço do Lumiar,
+946,Italo Kaue Pinheiro Pereira,19/09/2018,masculino,25,20:30:00,ARMA DE FOGO,Vila Passos,São Luís,
+947,Ismário da Silva dos Santos ,21/09/2018,masculino,24,20:36:00,ARMA DE FOGO,Cumbique,Raposa,
+948,Lucas Gabriel Lobato,21/09/2018,masculino,19,06:10:00,ARMA DE FOGO,Gapara,São Luís,
+949,Mario César da Cruz Ferreira,21/09/2018,masculino,33,06:00:00,ARMA DE FOGO,Aurora,São Luís,
+950,Paulo Sérgio Silva Conceição,21/09/2018,masculino,50,23:10:00,ARMA DE FOGO,Parque Timbiras,São Luís,
+951,Gleydson de Lemos Soares,22/09/2018,masculino,18,14:00:00,ARMA DE FOGO,Vila Janaína,São Luís,
+952,Esequias Santos Gaspar ,22/09/2018,masculino,43,23:40:00,ESPANCAMENTO,Centro-SLZ,São Luís,
+953,Alexssandro Sousa dos Santos,25/09/2018,masculino,16,21:35:00,ARMA DE FOGO,Tibirizinho,São Luís,
+954,Matheus dos Santos Unias,25/09/2018,masculino,20,21:25:00,ARMA DE FOGO,Tibirizinho,São Luís,
+955,Breno Richardson Passos de Pinho,26/09/2018,masculino,16,14:30:00,ARMA DE FOGO,Vila Janaína,São Luís,
+956,Lucas Wander Sodre Souza,27/09/2018,masculino,29,23:30:00,ARMA DE FOGO,Alemanha,São Luís,
+957,João Batista Barroso de Souza,28/09/2018,masculino,32,,ARMA DE FOGO,Vila Mauro Fecury I,São Luís,
+958,Marcio Araujo da Silva,30/09/2018,masculino,35,05:00:00,ARMA DE FOGO,Cohab-Anil I,São Luís,
+959,José Carlos Silva Cruz,01/10/2018,masculino,54,07:00:00,ARMA DE FOGO,Iguaíba,Paço do Lumiar,
+960,Jhonilson Viana da Silva,01/10/2018,masculino,25,21:00:00,ARMA DE FOGO,Estiva,São Luís,
+961,Robert Vilela de Jesus,02/10/2018,masculino,14,21:20:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+962,Talisson Dias Vieira,05/10/2018,masculino,23,19:30:00,ARMA DE FOGO,Cohab-Anil III,São Luís,
+963,Maria Goretti Felix Araujo,06/10/2018,feminino,52,19:00:00,ARMA BRANCA,Inhaúma,São Luís,
+964,Ivaldo Sá Oliveira,07/10/2018,masculino,42,00:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+965,Anderson Breno Costa Campos,10/10/2018,masculino,19,08:20:00,ARMA DE FOGO,Miritiua,São José de Ribamar,
+966,José Bernardino Ramos,10/10/2018,masculino,73,08:20:00,ARMA DE FOGO,Miritiua,São José de Ribamar,
+967,Wesley Richarde Lima Silva,10/10/2018,masculino,16,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+968,Adriano de Oliveira Silva,10/10/2018,masculino,20,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+969,Kailson Rebouças Almeida,10/10/2018,masculino,20,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+970,Gleison Santos da Silva,10/10/2018,masculino,20,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+971,Cleilson da Silva dos Santos,10/10/2018,masculino,18,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+972,Não Identificado,11/10/2018,masculino,,21:00:00,ARMA DE FOGO,São Cristóvão,São Luís,
+973,Diego Belém Silva,12/10/2018,masculino,27,23:00:00,ARMA DE FOGO,Bequimão,São Luís,
+974,José Thiago Viana da Silva,14/10/2018,masculino,21,18:30:00,ARMA DE FOGO,Recanto Vinhais,São Luís,
+975,Grinaudo Feitosa de Sousa,14/10/2018,masculino,35,20:00:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+976,Waldney de Sousa,15/10/2018,masculino,31,00:00:00,ARMA BRANCA,Mercado Central,São Luís,
+977,Izaias da Cruz Dutra,15/10/2018,masculino,25,01:00:00,ARMA DE FOGO,25 de Maio,São Luís,
+978,Luis Araujo Santos Chaves Neto,17/10/2018,masculino,15,19:31:00,ARMA DE FOGO,Coroado,São Luís,
+979,Clauber Ferandes Chagas ,17/10/2018,masculino,17,19:31:00,ARMA DE FOGO,Coroado,São Luís,
+980,Jenilson Camara Oliveira,19/10/2018,masculino,26,06:40:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+981,Wanderson Abreu Pinto,19/10/2018,masculino,33,19:01:00,ARMA DE FOGO,Anjo da Guarda,São Luís,
+982,Jose Eduardo Cantanhede,19/10/2018,masculino,26,21:36:00,ARMA DE FOGO,São Cristóvão,São Luís,
+983,André Arllyson Correa Cardoso,19/10/2018,masculino,22,19:30:00,ARMA DE FOGO,Monte Castelo,São Luís,
+984,Matheus Brenno Galvão Silva,19/10/2018,masculino,23,18:55:00,ARMA DE FOGO,Sá Viana,São Luís,
+985,Wanderson Matos de Souza,19/10/2018,masculino,20,19:54:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+986,Robson Junior Lima Batalha,19/10/2018,masculino,12,23:58:00,ARMA DE FOGO,São Raimundo,São Luís,
+987,Neuton Rocha Mendes,20/10/2018,masculino,57,21:52:00,ARMA DE FOGO,Boa Vista,Paço do Lumiar,
+988,Fabio Fernandes Queiroz,20/10/2018,masculino,39,15:00:00,ARMA BRANCA,Cidade Operária,São Luís,
+989,Ayrton Cesar Carvalho Pereira,20/10/2018,masculino,30,17:07:00,ARMA DE FOGO,Vila Embratel,São Luís,
+990,Thalyson Rodrigo Pereira,20/10/2018,masculino,22,19:44:00,ARMA DE FOGO,Liberdade,São Luís,
+991,Daniel Cantanhede Coelho,20/10/2018,masculino,17,19:57:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+992,NÃO IDENTIFICADO,20/10/2018,masculino,25,19:36:00,OUTROS MEIOS,Matinha,São Luís,
+993,Jadiel Pereira da Luz,21/10/2018,masculino,30,21:53:00,ARMA DE FOGO,Moropóia,São José de Ribamar,
+994,Alisson Vinicius Oliveira Braz,21/10/2018,masculino,19,02:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+995,Saulo Aguiar Monsão ,21/10/2018,masculino,17,21:40:00,ARMA DE FOGO,Coroadinho,São Luís,
+996,Antônio da Silva Pãozinho,22/10/2018,masculino,19,11:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+997,Alan da Silva Ferreira,24/10/2018,masculino,28,19:30:00,ARMA DE FOGO,Cohafuma,São Luís,
+998,Raimundo Francisco de Lima Borges,25/10/2018,masculino,49,19:00:00,ARMA DE FOGO,Conjunto Roseana Sarney,Paço do Lumiar,
+999,Daniel Machado de Araujo ,28/10/2018,masculino,46,00:40:00,ESPANCAMENTO,Maiobinha,São José de Ribamar,
+1000,Raynon Romell da Silva Costa,28/10/2018,masculino,28,21:00:00,ARMA DE FOGO,Bom Jesus,São Luís,
+1001,Jadson da Silva Martins,30/10/2018,masculino,27,20:30:00,ARMA DE FOGO,Cohama,São Luís,
+1002,Sonia Maria Barrada Oliveira,31/10/2018,masculino,51,02:00:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+1003,Felipe Ferreira Marinho,03/11/2018,masculino,19,20:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+1004,Luciano de Carvalho,04/11/2018,masculino,28,01:00:00,ARMA DE FOGO,Vila São Sebastião,São Luís,
+1005,Não identificado,05/11/2018,masculino,25,17:27:00,ARMA DE FOGO,Belira,São Luís,
+1006,Erika da Silva Pereira,05/11/2018,feminino,37,11:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+1007,Não identificado,06/11/2018,feminino,30,19:48:00,ARMA BRANCA,Barreto,São Luís,
+1008,Gilcerlandes Mendonça Lindoso,07/11/2018,masculino,33,03:00:00,ARMA BRANCA,Vila Embratel,São Luís,
+1009,João Paulo Rufino Filgueiras,08/11/2018,masculino,20,00:00:00,ARMA BRANCA,Camboa,São Luís,
+1010,Antônio Carlos Silva Filho,11/11/2018,masculino,28,20:00:00,ARMA DE FOGO,Maracanã,São Luís,
+1011,Edson Carlos Teixeira Assunção,11/11/2018,masculino,35,01:00:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+1012,Raimundo Xavier de Oliveira,12/11/2018,masculino,34,16:40:00,ARMA DE FOGO,Geniparanã,São Luís,
+1013,John Young Viana Ferreira,13/11/2018,masculino,38,20:06:00,ARMA BRANCA,Cajueiro,São Luís,
+1014,Marcos de Abreu Reis,15/11/2018,masculino,28,23:00:00,ARMA DE FOGO,Maracanã,São Luís,
+1015,Cleyphane Aguiar dos Santos,16/11/2018,masculino,35,23:30:00,ARMA DE FOGO,Residencial Jardim Primavera,Paço do Lumiar,
+1016,Wanderson Emanuel Costa Ferreira,16/11/2018,masculino,16,,ARMA DE FOGO,Fátima,São Luís,
+1017,Ricardo Maciel ,16/11/2018,masculino,28,03:00:00,ARMA DE FOGO,Jardim Conceição,São Luís,
+1018,Chrisley Eric Serejo Costa,19/11/2018,masculino,21,00:50:00,ARMA DE FOGO,Jardim Eldorado,São Luís,
+1019,Carlos Daniel Diniz Souza,20/11/2018,masculino,19,08:00:00,ARMA DE FOGO,Liberdade,São Luís,
+1020,Walber de Jesus Evagelista Pereira,21/11/2018,masculino,23,08:08:00,ARMA DE FOGO,Vila Bacanga,São Luís,
+1021,Bernardino Sena Viana,22/11/2018,masculino,26,19:00:00,ARMA DE FOGO,Caúra,São José de Ribamar,
+1022,Rosivan Macedo Almeida,22/11/2018,masculino,25,19:00:00,ARMA DE FOGO,Caúra,São José de Ribamar,
+1023,Athirson Gabriel Souza Louzeiro,22/11/2018,masculino,19,22:00:00,ARMA DE FOGO,Vila Luizão,São Luís,
+1024,Sebastiana Costa,23/11/2018,feminino,43,05:35:00,ARMA DE FOGO,Camboa,São Luís,
+1025,Elias Julio Alves Correia,25/11/2018,masculino,45,05:20:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+1026,Luan da Silva Conceição,27/11/2018,masculino,21,22:00:00,ARMA DE FOGO,Residencial Nova Jerusalém,Paço do Lumiar,
+1027,Não identificado,27/11/2018,masculino,,,ARMA DE FOGO,Boa Viagem,São José de Ribamar,
+1028,Marcos do Carmo da Virgens ,29/11/2018,masculino,21,14:30:00,ARMA DE FOGO,Jardim América,São Luís,
+1029,Dourival Muniz de Melo,31/10/2018,masculino,63,14:00:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,
+1030,João de Deus Gomes dos Santos,01/12/2018,masculino,52,06:00:00,ARMA BRANCA,Pontal da Ilha,São Luís,
+1031,Diego da Conceição Silva,02/12/2018,masculino,22,06:00:00,ESPANCAMENTO,Centro-SJR,São José de Ribamar,
+1032,Não identificado,03/12/2018,masculino,30,07:30:00,ARMA BRANCA,Maranhão Novo,São Luís,
+1033,Matheus Pereira Aires,03/12/2018,masculino,22,14:30:00,ARMA BRANCA,Parque Nice Lobão,São Luís,
+1034,Jacknilson Rdorigues da Silva,03/12/2018,masculino,24,07:40:00,ARMA BRANCA,Camboa,São Luís,
+1035,Uberlan Gomes Feitosa,03/12/2018,masculino,25,10:00:00,ARMA DE FOGO,Estiva,São Luís,
+1036,Juan Paulo Andrade Medeiros,05/12/2018,masculino,31,21:00:00,ARMA DE FOGO,Parque Araçagi,São José de Ribamar,
+1037,José Ribamar Lima Costa,05/12/2018,masculino,45,18:00:00,ARMA BRANCA,Itapera,São Luís,
+1038,Alex Marcos Pereira Coelho,05/12/2018,masculino,22,13:00:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+1039,Não identificado,08/12/2018,feminino,30,,ARMA BRANCA,Andiroba,São Luís,
+1040,Flavio Bezerra Campos,09/12/2018,masculino,27,18:30:00,ARMA BRANCA,Porto Grande,São Luís,
+1041,Elisson Cezar Silva Sousa,14/12/2018,masculino,37,13:35:00,ARMA DE FOGO,Alto do Farol,Raposa,
+1042,Thainon da Silva Fonseca,14/12/2018,masculino,23,22:46:00,ARMA BRANCA,São Francisco,São Luís,
+1043,Marcolino Jeronimo Costa Leite Neto,15/12/2018,masculino,42,03:00:00,ARMA BRANCA,Centro-SLZ,São Luís,
+1044,José Carlos Nogueira Sirino,16/12/2018,masculino,48,02:40:00,ARMA DE FOGO,Vera Cruz,São Luís,
+1045,Vitor Pablo Jeremias Pinto,17/12/2018,masculino,22,15:00:00,ARMA DE FOGO,Pedrinhas,São Luís,
+1046,Jerderson S E S,17/12/2018,masculino,17,15:00:00,ARMA DE FOGO,Pedrinhas,São Luís,
+1047,Manoel Ferreira da Silva Gomes,17/12/2018,masculino,43,01:40:00,ESPANCAMENTO,Vila Luizão,São Luís,
+1048,Gilson Jose Cantanhede Pires Junior,18/12/2018,masculino,20,22:52:00,ARMA DE FOGO,Planalto Vinhais II,São Luís,
+1049,Ivana Flavia Santos Silva,20/12/2018,feminino,38,01:00:00,ARMA BRANCA,Santa Clara,São Luís,
+1050,Tarcisio William Santos Gaspar,22/12/2018,masculino,24,22:30:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,
+1051,Alex Branco Cantanhede,23/12/2018,masculino,37,11:00:00,ARMA DE FOGO,Moropóia,São José de Ribamar,
+1052,Otony Costa Aguiar,25/12/2018,masculino,29,04:30:00,ARMA BRANCA,Pirâmide,Paço do Lumiar,
+1053,Domingos da Silva Gomes,25/12/2018,masculino,33,18:40:00,ARMA BRANCA,Sítio do Apicum,São José de Ribamar,
+1054,Jackson Abraão Pereira Rodrigues,25/12/2018,masculino,30,01:00:00,ESPANCAMENTO,Macaúba,São Luís,
+1055,Domilson dos Santos Nunes,25/12/2018,masculino,20,16:30:00,ARMA BRANCA,Fátima,São Luís,
+1056,Carlos Eduardo Ferreira Cantanhede,28/12/2018,masculino,30,16:00:00,ARMA BRANCA,Cidade Operária,São Luís,
+1057,João Pedro Rocha Lima,29/12/2018,masculino,18,17:00:00,ARMA DE FOGO,Cidade Operária,São Luís,
+1058,Manoel de Jesus Campos,31/12/2018,masculino,69,05:00:00,ARMA BRANCA,Geniparanã,São Luís,
+1059,Marcos Renan da Silva Costa ,31/12/2018,masculino,17,15:30:00,ARMA DE FOGO,Vicente Fialho,São Luís,
+1060,Felipe Borges da Silva,31/12/2018,masculino,25,12:00:00,ARMA DE FOGO,Recanto Fialho,São Luís,
+1061,Wander Nilson Rodrigues da Silva,31/12/2018,masculino,36,14:26:00,ARMA DE FOGO,Fátima,São Luís,
+1062,Douglas Santos Monteiro,01/01/2019,masculino,34,22:00:00,ARMA DE FOGO,Alto da Esperança,São Luís,HOMICÍDIO DOLOSO
+1063,Nailson dos Santos,02/01/2019,masculino,19,08:54:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1064,Gustavo Feitosa Monroe,03/01/2019,masculino,18,13:00:00,ARMA DE FOGO,Coquilho,São Luís,HOMICÍDIO DOLOSO
+1065,Gildean Castro Silva,03/01/2019,masculino,14,13:00:00,ARMA DE FOGO,Coquilho,São Luís,HOMICÍDIO DOLOSO
+1066,Joanderson da Silva Diniz,03/01/2019,masculino,17,13:00:00,ARMA DE FOGO,Coquilho,São Luís,HOMICÍDIO DOLOSO
+1067,Paulo Eduardo de Abreu ,06/01/2019,masculino,23,03:00:00,ARMA BRANCA,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1068,Jocivanio da Silva Silva,06/01/2019,masculino,19,03:00:00,ARMA BRANCA,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1069,Edmilson Pimenta Azevedo,06/01/2019,masculino,54,21:15:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1070,Guilherme de Oliveira Lopes,11/01/2019,masculino,20,05:07:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1071,Tiago Santos Meireles,11/01/2019,masculino,30,15:38:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1072,Não Identificado,11/01/2019,feminino,25,21:36:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+1073,Lucas da Silva Dutra,12/01/2019,masculino,14,20:17:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+1074,Milton Tome Sobrinho,12/01/2019,masculino,61,00:50:00,ARMA BRANCA,Residencial Pinheiros,São Luís,LATROCÍNIO
+1075,Italo Mateus de Assis Ramalho,12/01/2019,masculino,18,19:43:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1076,Hemerson Carlos Pereira Rodrigues,13/01/2019,masculino,27,19:00:00,ARMA DE FOGO,Vila Zenir,São Luís,HOMICÍDIO DOLOSO
+1077,Francivaldo Carvalho da Silva,15/01/2019,masculino,25,09:20:00,ARMA DE FOGO,Sítio Natureza,São Luís,HOMICÍDIO DOLOSO
+1078,João Victor Melo,15/01/2019,masculino,27,09:20:00,ARMA DE FOGO,Sítio Natureza,São Luís,HOMICÍDIO DOLOSO
+1079,Jardeilson Souza Moraes,15/01/2019,masculino,23,19:50:00,ARMA DE FOGO,Vila Progresso – Recanto dos Vinhais,São Luís,HOMICÍDIO DOLOSO
+1080,Valmir Cecilio Barros,18/01/2019,masculino,46,03:00:00,ARMA BRANCA,Vila Progresso – Recanto dos Vinhais,São Luís,LATROCÍNIO
+1081,Jose Claudio dos Santos,19/01/2019,masculino,39,10:40:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1082,Raimundo Nonato Felipe da Silva,20/01/2019,masculino,41,23:40:00,ARMA BRANCA,Jardim Tropical,São José de Ribamar,HOMICÍDIO DOLOSO
+1083,Não Identificado,21/01/2019,masculino,40,00:54:00,ARMA BRANCA,Maranhão Novo,São Luís,HOMICÍDIO DOLOSO
+1084,Luis Claudio Sousa Ferreira,21/01/2019,masculino,44,,ARMA BRANCA,Ipase,São Luís,HOMICÍDIO DOLOSO
+1085,Luis Rene do Vale Santos,22/01/2019,masculino,39,16:43:00,ARMA DE FOGO,Pirâmide,Paço do Lumiar,HOMICÍDIO DOLOSO
+1086,Ivanilson dos Santos Barros,22/01/2019,masculino,20,22:59:00,ARMA DE FOGO,Residencial Nestor,São Luís,MORTE D I POLICIAL
+1087,Renato Saraiva Pinto,24/01/2019,masculino,19,18:01:00,ARMA DE FOGO,Santo Antônio,São Luís,HOMICÍDIO DOLOSO
+1088,Yanderson Zidane Rodrigues Macedo,24/01/2019,masculino,20,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1089,Wallace Guimarães Rodrigues,24/01/2019,masculino,26,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1090,Rafael da Silva Pinto,24/01/2019,masculino,28,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1091,Carlos Alberto da Silva Campos,24/01/2019,masculino,18,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1092,Wanderson Abreu dos Santos,24/01/2019,masculino,19,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1093,Adeilton Rodrigues Silva,24/01/2019,masculino,33,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1094,Jolies Borges Amorim,24/01/2019,masculino,35,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1095,Rafael Mendonça Costa,24/01/2019,masculino,30,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1096,Não Identificado,24/01/2019,masculino,30,11:30:00,ARMA DE FOGO,Distrito Industrial,São Luís,HOMICÍDIO DOLOSO
+1097,Robenilson Soares Baldez,26/01/2019,masculino,25,18:45:00,ARMA DE FOGO,Pedrinhas,São Luís,LATROCÍNIO
+1098,Agnaldo Rodrigues Alves,26/01/2019,masculino,49,19:03:00,ARMA DE FOGO,Cidade Olímpica,São Luís,LATROCÍNIO
+1099,Gabriel da Cruz Santos,27/01/2019,masculino,15,14:24:00,ARMA DE FOGO,Piçarreira,São José de Ribamar,LATROCÍNIO
+1100,Alysson Bruno Silva Leitao,28/01/2019,masculino,26,03:13:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+1101,Frank Silva Costa,29/01/2019,masculino,31,18:32:00,ARMA DE FOGO,Santa Cruz,São Luís,LATROCÍNIO
+1102,Rafael Lago de Souza,30/01/2019,masculino,16,08:16:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1103,Francinaldo Seguins Pires,31/01/2019,masculino,23,03:45:00,ARMA DE FOGO,Areinha,São Luís,HOMICÍDIO DOLOSO
+1104,Leandro da Silva Fernandes,01/02/2019,masculino,35,17:11:00,ARMA DE FOGO,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1105,Aridelma de Fatima Oliveira Bezerra,02/02/2019,feminino,38,19:00:00,ARMA BRANCA,Juçatuba,São José de Ribamar,HOMICÍDIO DOLOSO
+1106,Geanderson Belfort dos Santos,03/02/2019,masculino,15,07:16:00,ARMA DE FOGO,Cumbique,Raposa,HOMICÍDIO DOLOSO
+1107,Wenderson do Nascimento Galvão,04/02/2019,masculino,34,18:00:00,ARMA DE FOGO,Cajupe,São Luís,MORTE D I POLICIAL
+1108,Gracimilson de Caldas Pereira,05/02/2019,masculino,35,19:30:00,ARMA BRANCA,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1109,Wellington dos Santos,05/02/2019,masculino,28,19:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1110,Johnny Lima Marinho ,07/02/2019,masculino,40,08:39:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1111,George Polython dos Santos Cardoso,09/02/2019,masculino,18,12:00:00,ARMA DE FOGO,Vila Sarney,São Luís,HOMICÍDIO DOLOSO
+1112,Thiago Sodré Botelho,10/02/2019,masculino,26,01:05:00,ARMA BRANCA,Vila Sarney,São Luís,HOMICÍDIO DOLOSO
+1113,Erique Cuba de Oliveira,11/02/2019,masculino,19,20:12:00,ARMA DE FOGO,Calhau,São Luís,HOMICÍDIO DOLOSO
+1114,Maria do Nascimento Rodrigues Abreu,11/02/2019,feminino,69,,ESTRANGULAMENTO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+1115,Carlos Cesar Lindoso Everton,14/02/2019,masculino,37,21:30:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1116,Maria Celia Coelho de Sousa,15/02/2019,feminino,48,18:00:00,ARMA BRANCA,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1117,Eduardo da Conceição dos Santos,15/02/2019,masculino,27,09:02:00,ARMA DE FOGO,Goiabal,São Luís,MORTE POSTERIOR
+1118,Cleydosn Adriano Santos de Matos,16/02/2019,masculino,30,19:28:00,ARMA DE FOGO,Vila Roseana Sarney,Paço do Lumiar,HOMICÍDIO DOLOSO
+1119,Carlos Alberto Ferreira Gomes,17/02/2019,masculino,42,04:00:00,ARMA BRANCA,Santa Cruz,São Luís,HOMICÍDIO DOLOSO
+1120,Idenaldo Pacheco do Vale,19/02/2019,masculino,51,18:30:00,ARMA DE FOGO,Alto do Farol,Raposa,LATROCÍNIO
+1121,Thiago Serra Ferreira,20/02/2019,masculino,16,,ARMA DE FOGO,Inhaúma,São Luís,HOMICÍDIO DOLOSO
+1122,Clayton Bruno da Silva Delgado,24/02/2019,masculino,20,20:40:00,ARMA DE FOGO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1123,Luis Eduardo Costa Maia,26/02/2019,masculino,26,08:24:00,ARMA DE FOGO,Residencial Terra Livre,São José de Ribamar,HOMICÍDIO DOLOSO
+1124,Jailton da Anunciação,26/02/2019,masculino,34,19:46:00,ARMA DE FOGO,Retiro Natal,São Luís,HOMICÍDIO DOLOSO
+1125,R F B D S,27/02/2019,masculino,14,,ARMA BRANCA,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1126,Wellington Pinheiro Diniz,27/02/2019,masculino,32,20:00:00,OUTROS MEIOS,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1127,Darlan Francisco Ferreira Araujo,28/02/2019,masculino,20,11:00:00,ARMA DE FOGO,Vila Operária,São José de Ribamar,HOMICÍDIO DOLOSO
+1128,Breno Raphael Reis Brandão,28/02/2019,masculino,24,16:00:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1129,John Roberth Amaral de Oliveira,28/02/2019,masculino,24,16:00:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1130,Felipe Anderson de Castro Lemos,28/02/2019,masculino,19,20:00:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1131,Stefano Ribeiro Leite,02/03/2019,masculino,24,11:50:00,ARMA DE FOGO,J. Lima,São José de Ribamar,HOMICÍDIO DOLOSO
+1132,Nailson Marques Santana,02/03/2019,masculino,18,20:21:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+1133,Ronaldo Paixão Lisboa ,04/03/2019,masculino,42,17:27:00,ARMA BRANCA,Cruzeiro,São José de Ribamar,HOMICÍDIO DOLOSO
+1134,Carmelo Mario Calabrêse,07/03/2019,masculino,65,23:00:00,ARMA BRANCA,Tibiri,São Luís,LATROCÍNIO
+1135,Rodrigo Serrão de Souza,09/03/2019,masculino,22,09:29:00,ARMA DE FOGO,Retiro Natal,São Luís,HOMICÍDIO DOLOSO
+1136,Lucas Silas Santos de Almeida,10/03/2019,masculino,18,19:37:00,ARMA DE FOGO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+1137,Leonardo Rodrigues da Costa,11/03/2019,masculino,17,20:05:00,ARMA DE FOGO,Ipase,São Luís,HOMICÍDIO DOLOSO
+1138,David Gabriel Campos Moraes,13/03/2019,masculino,19,15:30:00,ARMA DE FOGO,Residencial Ivaldo Rodrigues,São Luís,HOMICÍDIO DOLOSO
+1139,Rayanderson Pinto Pinheiro ,14/03/2019,masculino,21,08:00:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1140,Carlos Andre de Sousa,14/03/2019,masculino,43,06:00:00,ARMA BRANCA,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1141,Alex de Paulo Oliveira,15/03/2019,masculino,35,06:00:00,ARMA DE FOGO,Madre Deus,São Luís,LATROCÍNIO
+1142,Robson Cesar Saraiva Gonçalves,15/03/2019,masculino,21,10:16:00,ARMA DE FOGO,Cantinho do Céu,São Luís,MORTE D I POLICIAL
+1143,Jayron Vieira da Silva,16/03/2019,masculino,21,02:30:00,ARMA DE FOGO,Inhaúma,São Luís,HOMICÍDIO DOLOSO
+1144,Sidney Pereira da Silva,18/03/2019,masculino,37,21:00:00,ARMA DE FOGO,Recanto Fialho,São Luís,HOMICÍDIO DOLOSO
+1145,George Serra da Silva ,19/03/2019,masculino,16,17:00:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1146,Lariston Cardoso Mendonça,20/03/2019,masculino,26,21:36:00,ARMA DE FOGO,Matinha,São José de Ribamar,LESÃO C S MORTE
+1147,Não identificado,21/03/2019,masculino,,23:00:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1148,Flavio Sousa Ramos,23/03/2019,masculino,24,19:30:00,ARMA DE FOGO,Residencial Nova Terra,São José de Ribamar,HOMICÍDIO DOLOSO
+1149,Alexandro Dias Rodrigues,25/03/2019,masculino,38,20:19:00,ARMA DE FOGO,Monte Castelo,São Luís,LATROCÍNIO
+1150,Carlos Eduardo da Silva Costa,29/03/2019,masculino,21,16:25:00,ARMA DE FOGO,Vila Maracujá,São Luís,HOMICÍDIO DOLOSO
+1151,M P R,31/03/2019,masculino,17,22:40:00,ARMA DE FOGO,Planalto Turu I,São Luís,HOMICÍDIO DOLOSO
+1152,Luciano dos Santos Reis,31/03/2019,masculino,43,23:55:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1153,Luis Mario Santos Serra,01/04/2019,masculino,55,02:10:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1154,Leonilson de Sousa Saores,01/04/2019,masculino,23,14:40:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1155,Rodrigo Melo Machado ,07/04/2019,masculino,24,21:00:00,ARMA DE FOGO,Vila Cascavel,São Luís,HOMICÍDIO DOLOSO
+1156,Leo Felipe Cruz Marabaldo,07/04/2019,masculino,22,21:30:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1157,Guilherme Patrick Silva Costa,08/04/2019,masculino,19,16:00:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1158,David Silva Coelho,10/04/2019,masculino,24,01:00:00,ARMA BRANCA,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+1159,Leonardo Oliveira Santos,13/04/2019,masculino,24,20:00:00,ARMA DE FOGO,Santa Cruz,São Luís,HOMICÍDIO DOLOSO
+1160,Angelino Santana Martins,12/04/2019,masculino,68,07:05:00,ARMA BRANCA,Aurora,São Luís,MORTE D I POLICIAL
+1161,Não Identificado,14/04/2019,masculino,28,00:35:00,ARMA BRANCA,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1162,Rafael Protazio Silva,14/04/2019,masculino,18,07:00:00,ARMA DE FOGO,Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1163,Não Identificado,16/04/2019,masculino,45,21:50:00,ESPANCAMENTO,Cumbique,Paço do Lumiar,HOMICÍDIO DOLOSO
+1164,Jardel Moraes Lima,17/04/2019,masculino,20,15:30:00,ARMA BRANCA,Caúra,São José de Ribamar,HOMICÍDIO DOLOSO
+1165,Wallison dos Santos Belfort,19/04/2019,masculino,24,08:30:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,LATROCÍNIO
+1166,Davisson Vitor Diniz Fonseca,19/04/2019,masculino,26,22:00:00,ARMA DE FOGO,Cohab-Anil I,São Luís,HOMICÍDIO DOLOSO
+1167,José Ribamar Mendonça Serra ,20/04/2019,masculino,38,22:20:00,ARMA BRANCA,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1168,Paulo Cesar Silva ,21/04/2019,masculino,45,02:00:00,ARMA DE FOGO,Parque Bob Kennedy,Paço do Lumiar,HOMICÍDIO DOLOSO
+1169,Patrick Andre Costa,22/04/2019,masculino,25,15:00:00,ARMA DE FOGO,Batatan,São Luís,MORTE D I POLICIAL
+1170,José Silva Santos,23/04/2019,masculino,27,19:00:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1171,Rafael Costa Soares,27/04/2019,masculino,27,23:00:00,ARMA BRANCA,Tajaçuaba,São Luís,HOMICÍDIO DOLOSO
+1172,João Victor Garcias Gomes,30/04/2019,masculino,17,12:15:00,ARMA DE FOGO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1173,Justino Teixeira,30/04/2019,masculino,76,17:30:00,ARMA DE FOGO,Andiroba,São Luís,HOMICÍDIO DOLOSO
+1174,Mateus Ferreira Correa,30/04/2019,masculino,21,20:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1175,Carlos Andre Soeiro Gama,06/04/2019,masculino,42,18:30:00,ARMA DE FOGO,Fátima,São Luís,MORTE POSTERIOR
+1176,Derick Ruan Malheiros dos Santos,01/05/2019,masculino,23,,ARMA BRANCA,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+1177,Luis Carlos Silva da Silva,03/05/2019,masculino,20,19:00:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1178,João Batista Lopes da Silva Sousa,04/05/2019,masculino,41,23:30:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1179,Leonardo Baldez ,05/05/2019,masculino,20,22:00:00,ESPANCAMENTO,Distrito Industrial,São Luís,HOMICÍDIO DOLOSO
+1180,Não identificado,07/05/2019,feminino,,,,Vila do Povo,Paço do Lumiar,MORTE ESCLARECER
+1181,Diego Ribeiro da Silva,07/05/2019,masculino,35,22:26:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,HOMICÍDIO DOLOSO
+1182,Gleidson Alexandre Lima da Silva,08/05/2019,masculino,29,18:07:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1183,João Victor Martins Santos,08/05/2019,masculino,21,23:40:00,ARMA DE FOGO,Chácara Brasil,São Luís,MORTE D I POLICIAL
+1184,Valdenilson Ferreira Santos,08/05/2019,masculino,25,18:00:00,ARMA DE FOGO,Parque Araçagi,São José de Ribamar,MORTE D I POLICIAL
+1185,Philipe Eduardo Alvares Costa,09/05/2019,masculino,19,17:09:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+1186,Francivan de Abreu Almeida,11/05/2019,masculino,29,11:37:00,ARMA DE FOGO,Residencial Nova Vida,São Luís,HOMICÍDIO DOLOSO
+1187,Wanderson Robert Coelho da Silva,11/05/2019,masculino,21,18:02:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1188,Rosiane Costa,12/05/2019,feminino,46,20:30:00,ESTRANGULAMENTO,Vila Bacanga,São Luís,HOMICÍDIO DOLOSO
+1189,Evanderson HollyFilder Gaioso Pereira,12/05/2019,masculino,22,18:00:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,HOMICÍDIO DOLOSO
+1190,Maylon Muniz Mineiro,12/05/2019,masculino,20,08:14:00,ARMA DE FOGO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1191,Nadson Marques Castro,12/05/2019,masculino,15,02:00:00,ARMA DE FOGO,Coroadinho,São Luís,MORTE D I POLICIAL
+1192,Nathaniel de Sousa Barbosa,12/05/2019,masculino,23,18:00:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,HOMICÍDIO DOLOSO
+1193,Valdir Manoel da Silva Aguiar,13/05/2019,masculino,39,14:39:00,ARMA DE FOGO,J. Câmara,São José de Ribamar,HOMICÍDIO DOLOSO
+1194,Abraão Dias Morais,14/05/2019,masculino,44,06:00:00,ARMA DE FOGO,Residencial Olímpico,São José de Ribamar,HOMICÍDIO DOLOSO
+1195,Clemilson Sá Costa,15/05/2019,masculino,27,20:00:00,ARMA DE FOGO,Camboa,São Luís,LESÃO C S MORTE
+1196,Marcelo Henrique Costa Vieira,15/05/2019,masculino,30,12:23:00,ARMA DE FOGO,Vila dos Frades,São Luís,HOMICÍDIO DOLOSO
+1197,Alessandro José Campos,16/05/2019,masculino,17,21:33:00,ARMA DE FOGO,Retiro Natal,São Luís,HOMICÍDIO DOLOSO
+1198,Jone Claudio da Luz Eleuterio,16/05/2019,masculino,50,16:47:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1199,Wanderson da Silva Dias,17/05/2019,masculino,19,17:30:00,ARMA DE FOGO,Sol e Mar,São Luís,MORTE D I POLICIAL
+1200,Rafael dos Santos Veras,18/05/2019,masculino,23,23:50:00,ARMA DE FOGO,Ilha de Jacamim,São Luís,HOMICÍDIO DOLOSO
+1201,Romario Victor Lobato Matos,18/05/2019,masculino,24,12:29:00,ARMA DE FOGO,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+1202,Josue Saulo Santiago,24/05/2019,masculino,21,10:00:00,ARMA DE FOGO,Alonso Costa,São José de Ribamar,MORTE D I POLICIAL
+1203,Adenilson Gomes Campos,27/05/2019,masculino,33,06:26:00,ARMA DE FOGO,Vila Maranhão,São Luís,HOMICÍDIO DOLOSO
+1204,Hamilson Costa,28/05/2019,masculino,29,21:00:00,ESPANCAMENTO,Quintas do Calhau,São Luís,HOMICÍDIO DOLOSO
+1205,Eronaldo Silva Ramos,29/05/2019,masculino,18,04:00:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1206,Simão Silva Ramos,29/05/2019,masculino,22,04:00:00,ARMA DE FOGO,Estiva,São Luís,
+1207,José ronald duarte do Nascimento,31/05/2019,masculino,26,18:30:00,ARMA DE FOGO,Pirapora,São Luís,HOMICÍDIO DOLOSO
+1208,Não identificado,02/06/2019,masculino,40,05:07:00,ARMA DE FOGO,João Paulo,São Luís,HOMICÍDIO DOLOSO
+1209,Nathan Pereira Diniz,02/06/2019,masculino,19,21:38:00,ARMA BRANCA,Vila Janaína,São Luís,LATROCÍNIO
+1210,Mateus Bastos Castelo Branco,03/06/2019,masculino,21,18:54:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1211,Reginaldo José Mendes Nunes,04/06/2019,masculino,45,19:00:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1212,João Batista Escorcio ,06/06/2019,masculino,71,19:20:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1213,Bruno Steffano Silva e Silva,07/06/2019,masculino,19,05:00:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+1214,Paulo Vitor Silva Oliveira,07/06/2019,masculino,17,14:15:00,ARMA DE FOGO,Vila São Sebastião,São Luís,HOMICÍDIO DOLOSO
+1215,Carlos Fernando Martins Junior,08/06/2019,masculino,40,01:00:00,ARMA DE FOGO,Vila Nova-RPS,Raposa,HOMICÍDIO DOLOSO
+1216,Camylla Ribeiro Sousa Cardoso,09/06/2019,feminino,23,19:00:00,ARMA DE FOGO,Jaracaty,São Luís,LATROCÍNIO
+1217,Darlan Oliveira dos Santoa,11/06/2019,masculino,23,11:30:00,OUTROS MEIOS,Cohab,São Luís,MORTE ESCLARECER
+1218,Adaires da Silva Morais,12/06/2019,masculino,37,22:30:00,ARMA DE FOGO,Alto do Turu I,São José de Ribamar,HOMICÍDIO DOLOSO
+1219,Marcos Pablo de Souza Penha,13/06/2019,masculino,31,07:00:00,ARMA DE FOGO,Jardim das Mercês,Paço do Lumiar,HOMICÍDIO DOLOSO
+1220,Mario Cleyton Pereira Silva,13/06/2019,masculino,22,09:00:00,ARMA BRANCA,Pedrinhas,São Luís,MORTE E PENAL
+1221,Gilvan Medeiros Santos ,13/06/2019,masculino,43,18:50:00,ESPANCAMENTO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1222,Carlos Richard Reis Nogueira,14/06/2019,masculino,20,15:00:00,ARMA DE FOGO,Miritiua,São José de Ribamar,MORTE D I POLICIAL
+1223,Hamilton Serra Mendes,16/06/2019,masculino,23,21:40:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1224,Não identificado,17/06/2019,masculino,30,20:50:00,ARMA BRANCA,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1225,Danilo Costa Franco,18/06/2019,masculino,25,10:40:00,ARMA DE FOGO,Cohab-Anil III,São Luís,HOMICÍDIO DOLOSO
+1226,João Marques,20/06/2019,masculino,31,20:30:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1227,Robenilson dos Santos,21/06/2019,masculino,31,11:20:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1228,Maycon Brendo de Oliveira,21/06/2019,masculino,15,21:30:00,ARMA DE FOGO,Vila Cutia,São Luís,MORTE D I POLICIAL
+1229,Matheus Roberth da Silva,23/06/2019,masculino,18,22:30:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+1230,Wellington Pires Silva,24/06/2019,masculino,43,00:10:00,ARMA BRANCA,Vila Itamar,São Luís,HOMICÍDIO DOLOSO
+1231,Bruno Rafael Silva,24/06/2019,masculino,26,03:00:00,ESTRANGULAMENTO,Sítio Natureza,Paço do Lumiar,HOMICÍDIO DOLOSO
+1232,Gladson Fabio Soares Silva,24/06/2019,masculino,0,13:00:00,OUTROS MEIOS,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1233,Michael Jackson Saraiva Rodrigues,24/06/2019,masculino,40,22:00:00,ARMA BRANCA,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+1234,Josivaldo Mendes Marques,25/06/2019,masculino,35,00:01:00,OUTROS MEIOS,Vila Palmeira,São Luís,LATROCÍNIO
+1235,Ovídio Fernandes Bezerra Filho,28/06/2019,masculino,64,18:20:00,ARMA DE FOGO,Maracanã,São Luís,LATROCÍNIO
+1236,Não identificado,28/06/2019,masculino,,23:00:00,ARMA DE FOGO,Vila Conceição – João de Deus,São Luís,HOMICÍDIO DOLOSO
+1237,Não identificado,29/06/2019,masculino,,15:20:00,ARMA DE FOGO,Planalto Anil I,São Luís,HOMICÍDIO DOLOSO
+1238,,01/07/2019,masculino,16,02:00:00,ARMA DE FOGO,Maioba,Paço do Lumiar,HOMICÍDIO DOLOSO
+1239,,06/07/2019,masculino,30,22:45:00,ARMA DE FOGO,Areinha,São Luís,HOMICÍDIO DOLOSO
+1240,,06/07/2019,masculino,68,19:30:00,ARMA DE FOGO,Piquizeiro,São Luís,HOMICÍDIO DOLOSO
+1241,,07/07/2019,feminino,16,04:00:00,OUTROS MEIOS,Aterro do Bacanga,São Luís,HOMICÍDIO DOLOSO
+1242,,10/07/2019,masculino,18,13:00:00,ARMA DE FOGO,Ponta D'areia,São Luís,MORTE D I POLICIAL
+1243,,12/07/2019,masculino,29,00:10:00,ARMA DE FOGO,São Francisco,São Luís,LATROCÍNIO
+1244,,14/07/2019,masculino,38,22:00:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+1245,,15/07/2019,masculino,23,10:00:00,ARMA DE FOGO,Vila Santa Terezinha,São Luís,MORTE D I POLICIAL
+1246,,20/07/2019,masculino,23,01:30:00,OUTROS MEIOS,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1247,,21/07/2019,masculino,33,19:00:00,ARMA DE FOGO,Vila Riod,São Luís,HOMICÍDIO DOLOSO
+1248,,24/07/2019,masculino,22,16:30:00,ARMA DE FOGO,Vila Esperança,São Luís,HOMICÍDIO DOLOSO
+1249,,26/07/2019,masculino,30,18:30:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1250,Danrley Santos de Almeida,27/07/2019,masculino,23,21:30:00,ARMA DE FOGO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+1251,,28/07/2019,masculino,23,23:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1252,,03/08/2019,masculino,27,20:00:00,ARMA DE FOGO,Cohatrac I,São Luís,HOMICÍDIO DOLOSO
+1253,,03/08/2019,masculino,22,15:30:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1254,,03/08/2019,masculino,22,20:30:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1255,,03/08/2019,masculino,38,00:40:00,ARMA DE FOGO,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1256,,04/08/2019,masculino,31,,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1257,,05/08/2019,feminino,18,01:00:00,ARMA DE FOGO,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1258,,08/08/2019,masculino,45,23:57:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1259,,10/08/2019,masculino,31,10:00:00,ESPANCAMENTO,Vila Esperança,São Luís,HOMICÍDIO DOLOSO
+1260,,10/08/2019,masculino,34,05:50:00,ARMA BRANCA,Vila Sarney Filho I,São José de Ribamar,LATROCÍNIO
+1261,,13/08/2019,masculino,69,05:50:00,ARMA DE FOGO,Araçagi,São Luís,LATROCÍNIO
+1262,,15/08/2019,masculino,18,15:00:00,ARMA DE FOGO,Jordôa,São Luís,HOMICÍDIO DOLOSO
+1263,,16/08/2019,masculino,39,13:00:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+1264,,16/08/2019,masculino,23,19:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1265,,16/08/2019,masculino,17,15:30:00,ARMA DE FOGO,Tibiri,São Luís,HOMICÍDIO DOLOSO
+1266,,16/08/2019,feminino,50,05:30:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1267,,17/08/2019,masculino,43,15:40:00,ARMA DE FOGO,Quebra Pote,São Luís,LATROCÍNIO
+1268,,18/08/2019,masculino,47,19:50:00,ARMA BRANCA,Anil,São Luís,LATROCÍNIO
+1269,,19/08/2019,masculino,32,14:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1270,,19/08/2019,feminino,42,,ESTRANGULAMENTO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1271,,19/08/2019,masculino,23,15:00:00,ARMA DE FOGO,Vila Collier,São Luís,HOMICÍDIO DOLOSO
+1272,,20/08/2019,masculino,19,20:00:00,ARMA DE FOGO,Bom Jardim,São José de Ribamar,HOMICÍDIO DOLOSO
+1273,,20/08/2019,feminino,30,21:00:00,ARMA BRANCA,Parque Araçagi,São José de Ribamar,HOMICÍDIO DOLOSO
+1274,,20/08/2019,masculino,48,18:00:00,ARMA DE FOGO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+1275,,21/08/2019,masculino,,,OUTROS MEIOS,Turiúba,São José de Ribamar,MORTE ESCLARECER
+1276,,24/08/2019,masculino,25,20:20:00,ARMA DE FOGO,São Bernardo,São Luís,HOMICÍDIO DOLOSO
+1277,,24/08/2019,masculino,25,10:30:00,ARMA DE FOGO,São Brás dos Macacos,São José de Ribamar,LATROCÍNIO
+1278,,25/08/2019,masculino,24,15:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1279,,25/08/2019,masculino,25,08:00:00,ARMA DE FOGO,Filipinho,São Luís,HOMICÍDIO DOLOSO
+1280,,26/08/2019,,,12:00:00,OUTROS MEIOS,Calhau,São Luís,MORTE ESCLARECER
+1281,,26/08/2019,masculino,28,13:00:00,ARMA DE FOGO,Pindaí,São José de Ribamar,HOMICÍDIO DOLOSO
+1282,,27/08/2019,masculino,17,11:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1283,,29/08/2019,,,13:00:00,OUTROS MEIOS,São Raimundo,São Luís,MORTE ESCLARECER
+1284,,30/08/2019,masculino,36,07:01:00,ARMA DE FOGO,Barreto,São Luís,HOMICÍDIO DOLOSO
+1285,,31/08/2019,masculino,25,23:00:00,ARMA BRANCA,Estiva,São Luís,HOMICÍDIO DOLOSO
+1286,,31/08/2019,masculino,40,14:00:00,ARMA DE FOGO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+1287,,01/09/2019,masculino,33,00:15:00,ARMA DE FOGO,Residencial Nova Vida,São Luís,HOMICÍDIO DOLOSO
+1288,,01/09/2019,masculino,28,14:30:00,ARMA BRANCA,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1289,,02/09/2019,masculino,25,17:12:00,ARMA DE FOGO,Tibiri,São Luís,HOMICÍDIO DOLOSO
+1290,,04/09/2019,feminino,36,03:50:00,ARMA DE FOGO,Maiobinha,São José de Ribamar,HOMICÍDIO DOLOSO
+1291,,06/09/2019,masculino,21,01:40:00,ARMA DE FOGO,Vila Brasil,São Luís,HOMICÍDIO DOLOSO
+1292,,06/09/2019,masculino,62,14:00:00,ARMA DE FOGO,Calhau,São Luís,LATROCÍNIO
+1293,,06/09/2019,masculino,18,09:50:00,ARMA DE FOGO,Pirapora,São Luís,MORTE D I POLICIAL
+1294,,06/09/2019,masculino,33,19:00:00,ARMA DE FOGO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+1295,,07/09/2019,masculino,22,17:00:00,ARMA BRANCA,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+1296,,13/09/2019,masculino,18,13:35:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1297,,13/09/2019,masculino,25,07:50:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+1298,,15/09/2019,masculino,26,06:00:00,ARMA BRANCA,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+1299,,19/09/2019,masculino,35,15:40:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1300,Aias Santos Castro,19/09/2019,masculino,19,23:40:00,ARMA DE FOGO,Porto de Mocajituba,Paço do Lumiar,HOMICÍDIO DOLOSO
+1301,,20/09/2019,masculino,68,07:30:00,OUTROS MEIOS,Residencial Itaguará,São José de Ribamar,HOMICÍDIO DOLOSO
+1302,,20/09/2019,masculino,58,20:37:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+1303,,20/09/2019,masculino,24,23:00:00,ARMA DE FOGO,Pindaí,São José de Ribamar,HOMICÍDIO DOLOSO
+1304,,20/09/2019,masculino,43,00:01:00,ARMA BRANCA,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+1305,,21/09/2019,masculino,53,22:00:00,ARMA BRANCA,Jardim Tropical II,São José de Ribamar,MORTE ESCLARECER
+1306,,22/09/2019,masculino,36,09:00:00,OUTROS MEIOS,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1307,,29/09/2019,masculino,35,01:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1308,,30/09/2019,masculino,21,01:00:00,ESPANCAMENTO,Cruzeiro,São José de Ribamar,HOMICÍDIO DOLOSO
+1309,,30/09/2019,masculino,26,09:30:00,ARMA DE FOGO,Vila Cascavel,São Luís,HOMICÍDIO DOLOSO
+1310,Matheus Lima Soares,01/10/2019,masculino,22,20:40:00,ARMA DE FOGO,Vila Cafeteira-PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+1311,Auro Abreu,03/10/2019,masculino,52,09:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1312,João Garceis De Almeida,03/10/2019,masculino,36,16:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1313,Alessandro Nicolau De Sousa,07/10/2019,masculino,26,20:13:00,ARMA DE FOGO,Itapera,São Luís,HOMICÍDIO DOLOSO
+1314,Denison Chrislley Oliveira De Sousa,07/10/2019,masculino,24,18:55:00,ARMA DE FOGO,São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+1315,Allan Cristian Silva E Silva,07/10/2019,masculino,17,,OUTROS MEIOS,Miritiua,São José de Ribamar,HOMICÍDIO DOLOSO
+1316,Adriano Ricardo Barbosa De Andrade,08/10/2019,masculino,24,20:49:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1317,Dayane Christina Oliveira Nnunes,11/10/2019,feminino,33,09:30:00,ARMA DE FOGO,Outeiro da Cruz,São Luís,HOMICÍDIO DOLOSO
+1318,Mackson Da Silva Costa,11/10/2019,masculino,37,13:00:00,ARMA BRANCA,Conjunto Paranã I,Paço do Lumiar,HOMICÍDIO DOLOSO
+1319,Hairlon Correa,13/10/2019,masculino,18,10:40:00,ARMA DE FOGO,Vila Riod,São Luís,HOMICÍDIO DOLOSO
+1320,Pablu Fernandes Santos Melonio,13/10/2019,masculino,24,15:00:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+1321,Elias Pereira Da Silva,13/10/2019,masculino,46,23:00:00,OUTROS MEIOS,Residencial Nova Vida,São Luís,LESÃO C S MORTE
+1322,Wesley Ferreira Da Silva,14/10/2019,masculino,19,23:00:00,ARMA BRANCA,Santa Rosa,São Luís,HOMICÍDIO DOLOSO
+1323,Washington Luis Souza Martins Santos,15/10/2019,masculino,31,21:40:00,ARMA DE FOGO,Tajaçuaba,São Luís,HOMICÍDIO DOLOSO
+1324,Jardeilson Silva Costa,16/10/2019,masculino,21,20:30:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,HOMICÍDIO DOLOSO
+1325,Dalvis Costa,16/10/2019,masculino,33,20:30:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,HOMICÍDIO DOLOSO
+1326,Dimas Garcia Araujo,17/10/2019,masculino,39,08:43:00,ARMA DE FOGO,Cohab-Anil II,São Luís,HOMICÍDIO DOLOSO
+1327,Demes Luis Ferreira Alves,19/10/2019,masculino,32,20:20:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1328,Jose Deilan Pinheiro,19/10/2019,masculino,19,12:00:00,ARMA DE FOGO,Santo Antônio,São Luís,HOMICÍDIO DOLOSO
+1329,Joao Carlos Pinheiro,19/10/2019,masculino,16,14:30:00,ARMA DE FOGO,Vila Valian,São Luís,MORTE D I POLICIAL
+1330,Renato De Jesus Fernandes,20/10/2019,masculino,52,05:50:00,ARMA BRANCA,Cohabiano,São Luís,HOMICÍDIO DOLOSO
+1331,Euder Alves,20/10/2019,masculino,28,20:30:00,ARMA DE FOGO,Cohab-Anil II,São Luís,HOMICÍDIO DOLOSO
+1332,Luis Felipe Silva Costa,20/10/2019,masculino,20,19:00:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1333,Marco Antonio Sá Torres,23/10/2019,masculino,26,15:00:00,OUTROS MEIOS,Vila Samara,São Luís,HOMICÍDIO DOLOSO
+1334,Mauro Cesar De Jesus Silva,23/10/2019,masculino,35,00:05:00,OUTROS MEIOS,Residencial Ribeira,São Luís,MORTE ESCLARECER
+1335,Gabriel Ferreira Costa Almeida,25/10/2019,masculino,22,19:30:00,ARMA DE FOGO,Cohab-Anil I,São Luís,HOMICÍDIO DOLOSO
+1336,John Alves Dos Santos,26/10/2019,masculino,28,13:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,MORTE POSTERIOR
+1337,José De Ribamar Xavier Santos,27/10/2019,masculino,55,22:00:00,ARMA DE FOGO,Novo Paço,Paço do Lumiar,HOMICÍDIO DOLOSO
+1338,Maria Goreth Lima Dos Santos,29/10/2019,feminino,59,21:49:00,OUTROS MEIOS,Residencial Eugênio Pereira,Paço do Lumiar,LATROCÍNIO
+1339,Thiago Araujo Silva,29/10/2019,masculino,21,09:00:00,ARMA DE FOGO,Parque Bob Kennedy,Paço do Lumiar,MORTE D I POLICIAL
+1340,WILLIAN ARAUJO BRAGA,04/11/2019,masculino,55,16:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,LATROCÍNIO
+1341,ELI CARLOS FONSECA MOURA JUNIOR,06/11/2019,masculino,28,,ARMA BRANCA,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1342,RAIMUNDO GERSON FERREIRA SANTOS,08/11/2019,masculino,22,19:30:00,ARMA DE FOGO,Salinas do Sacavém,São Luís,HOMICÍDIO DOLOSO
+1343,LIBERATO CORREIA,10/11/2019,masculino,75,00:00:00,ARMA BRANCA,J. Câmara,São José de Ribamar,HOMICÍDIO DOLOSO
+1344,JOAO PEDRO COELHO DE SOUSA,11/11/2019,masculino,18,20:37:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+1345,LEONARDO SILVA NASCIMENTO,12/11/2019,masculino,24,07:51:00,ARMA DE FOGO,Jaracaty,São Luís,MORTE D I POLICIAL
+1346,FRANCISCO XAVIER ALVES LEAL,14/11/2019,masculino,29,20:00:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1347,DANIEL FERREIRA RABELO,16/11/2019,masculino,19,11:00:00,ARMA DE FOGO,Vila Isabel,São Luís,HOMICÍDIO DOLOSO
+1348,FRANCISCO JOSE SANTOS SILVA,16/11/2019,masculino,56,21:00:00,ARMA DE FOGO,Tajaçuaba,São Luís,HOMICÍDIO DOLOSO
+1349,PAULO SERGIO CARVALHO DA SILVA,17/11/2019,masculino,51,10:00:00,ARMA DE FOGO,Sacavém,São Luís,HOMICÍDIO DOLOSO
+1350,MAKSON DINIZ MATOS,17/11/2019,masculino,37,10:50:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1351,Sérgio Santos Carvalho,17/11/2019,masculino,49,22:00:00,ARMA DE FOGO,Santa Cruz,São Luís,LATROCÍNIO
+1352,DOMINGOS DE RAMOS MENDES SOUSA,18/11/2019,masculino,42,16:30:00,ARMA DE FOGO,Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+1353,LUAN ALEXANDRE DA SILVA,19/11/2019,masculino,29,10:40:00,ARMA DE FOGO,Vinhais,São Luís,HOMICÍDIO DOLOSO
+1354,GILSON SILVA,19/11/2019,masculino,32,19:54:00,ARMA DE FOGO,Liberdade,São Luís,MORTE D I POLICIAL
+1355,JOSE CIRILO SALES FIGUEREDO,20/11/2019,masculino,24,06:00:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1356,WELLINGTON MACHADO,20/11/2019,masculino,26,20:00:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1357,CHRISTIAN FERNANDO SILVA PINTO,22/11/2019,masculino,19,10:30:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+1358,ARYEDISON DOS SANTOS ARAUJO,22/11/2019,masculino,17,10:30:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+1359,LUIS CARLOS COSTA BRITO,24/11/2019,masculino,40,17:15:00,ARMA BRANCA,Olho D’água,São Luís,HOMICÍDIO DOLOSO
+1360,THAYLSON VIANA SANTOS,25/11/2019,masculino,25,19:00:00,ARMA DE FOGO,Residencial Jardim Primavera,Paço do Lumiar,HOMICÍDIO DOLOSO
+1361,francsico daniel gomes da silva,30/11/2019,masculino,16,23:00:00,ARMA DE FOGO,Jardim Tropical,São José de Ribamar,HOMICÍDIO DOLOSO
+1362,Antonio Carlos Coelho Penha,30/11/2019,masculino,21,03:30:00,ARMA BRANCA,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1363,José Manoel Rebelo Souza,30/11/2019,masculino,61,22:00:00,ARMA BRANCA,Divinéia,São Luís,LATROCÍNIO
+1364,WALLAS PEREIRA PINHO,30/11/2019,masculino,28,11:00:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1365,Maylsson Gustavo Nogueira,01/12/2019,masculino,17,22:50:00,ARMA BRANCA,Alemanha,São Luís,MORTE ESCLARECER
+1366,Paulo Ricardo Medeiros Miranda,02/12/2019,masculino,31,14:40:00,ARMA DE FOGO,Pedrinhas,São Luís,LESÃO C S MORTE
+1367,Wester Ferreira de Oliveira,03/12/2019,masculino,30,12:40:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,HOMICÍDIO DOLOSO
+1368,Cristiano Pereira da Silva,03/12/2019,masculino,33,00:00:00,ARMA BRANCA,São José dos Índios,São José de Ribamar,HOMICÍDIO DOLOSO
+1369,Magno Roberto Teixeira,10/12/2019,masculino,41,12:00:00,ARMA BRANCA,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1370,Ed Carlos Costa de Sousa,10/12/2019,masculino,43,08:00:00,ARMA DE FOGO,Coroado,São Luís,HOMICÍDIO DOLOSO
+1371,Anderson Luis Goveia Rodrigues,11/12/2019,masculino,41,18:20:00,ARMA DE FOGO,Cruzeiro,São José de Ribamar,HOMICÍDIO DOLOSO
+1372,Gabriel de Jesus Pereira,11/12/2019,masculino,23,18:30:00,ARMA DE FOGO,Vila Magril,São Luís,HOMICÍDIO DOLOSO
+1373,Valdenilson Silva da Cruz,13/12/2019,masculino,44,19:30:00,ARMA DE FOGO,Jardim Santa Clara,Paço do Lumiar,HOMICÍDIO DOLOSO
+1374,Sergio Martins Pereira do Nascimento Filho,14/12/2019,masculino,35,13:34:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+1375,Jose de Ribamar Santos Mendes,15/12/2019,masculino,59,04:00:00,ARMA BRANCA,Distrito Industrial,São Luís,HOMICÍDIO DOLOSO
+1376,Thiago Vinicius Moreira Barros,19/12/2019,masculino,21,02:00:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,MORTE D I POLICIAL
+1377,Jose Ribamar Duarte,20/12/2019,masculino,50,19:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1378,Raimundo da Silva Brandão,21/12/2019,masculino,46,18:20:00,ARMA DE FOGO,Cruzeiro,São José de Ribamar,LATROCÍNIO
+1379,Nicivaldo Barnabel Pereira Costa,21/12/2019,masculino,49,01:00:00,ARMA BRANCA,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1380,Claudio Milson dos Santos,21/12/2019,masculino,32,05:30:00,ARMA BRANCA,Estiva,São Luís,HOMICÍDIO DOLOSO
+1381,George Washington Brito Sousa,21/12/2019,masculino,15,23:00:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1382,Giovanni Dias Cunha,22/12/2019,masculino,21,08:00:00,ARMA BRANCA,Residencial Canaã,São Luís,HOMICÍDIO DOLOSO
+1383,Jhon Arlisson Pinheiro,22/12/2019,masculino,20,06:30:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1384,Caio Andre Sampaio de Pinho,23/12/2019,masculino,23,16:30:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1385,Manoel Martinho Aguiar Coelho,25/12/2019,masculino,46,03:00:00,ARMA BRANCA,Alto do Turu I,São José de Ribamar,MORTE ESCLARECER
+1386,Flavio Fernando Santos Aroucha,27/12/2019,masculino,39,18:10:00,ARMA DE FOGO,João Paulo,São Luís,LATROCÍNIO
+1387,Simone da Costa Vanderlei,27/12/2019,feminino,32,18:00:00,ARMA DE FOGO,Santa Cruz,São Luís,LATROCÍNIO
+1388,Jose Aramilton Bojea de Oliveira,29/12/2019,masculino,24,16:30:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1389,Antonio Magno Reis Duarte,29/12/2019,masculino,45,19:30:00,ARMA DE FOGO,Vila Mauro Fecury II,São Luís,HOMICÍDIO DOLOSO
+1390,Carlos Andre Felix Pacheco,29/12/2019,masculino,23,19:00:00,ARMA DE FOGO,Vila São Sebastião,São Luís,MORTE D I POLICIAL
+1391,Jose Alexandre Mota Soares,01/01/2020,masculino,46,05:27:00,ARMA DE FOGO,Vila Valian,São Luís,HOMICÍDIO DOLOSO
+1392,Cosmo Portela de Carvalho,02/01/2020,masculino,19,09:30:00,ARMA BRANCA,Vila Magril,São Luís,HOMICÍDIO DOLOSO
+1393,Carlos Augusto Correa,03/01/2020,masculino,44,05:40:00,ARMA DE FOGO,Cohab-Anil III,São Luís,HOMICÍDIO DOLOSO
+1394,Garden de Carvalho Oliveira,06/01/2020,masculino,40,02:30:00,ARMA BRANCA,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1395,Welligton Ribamar Freitas,09/01/2020,masculino,42,01:40:00,ARMA DE FOGO,Monte Castelo,São Luís,LATROCÍNIO
+1396,Ismael Veiga da Silva,11/01/2020,masculino,25,00:00:00,ARMA BRANCA,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+1397,Romulo Vinicius Fonseca Silva,12/01/2020,masculino,20,12:00:00,ARMA DE FOGO,Campina,São José de Ribamar,HOMICÍDIO DOLOSO
+1398,Francisco de Assis Mendes Alves,13/01/2020,masculino,53,19:40:00,ESPANCAMENTO,Centro-SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1399,Filomena Lourença Silva Dias,14/01/2020,feminino,59,05:00:00,ESPANCAMENTO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1400,Silvio Benilton Machado da Silva,15/01/2020,masculino,16,14:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1401,Newton Trovão Ribeiro,16/01/2020,masculino,21,22:00:00,ARMA DE FOGO,Residencial Turiúba,São José de Ribamar,HOMICÍDIO DOLOSO
+1402,Edmilson Alves dos Santos,17/01/2020,masculino,39,00:00:00,ARMA DE FOGO,La Belle Park,Paço do Lumiar,HOMICÍDIO DOLOSO
+1403,Marcelo Mendes Lopes,17/01/2020,masculino,31,18:19:00,ARMA DE FOGO,Santa Bárbara,São Luís,LESÃO C S MORTE
+1404,Moises Oliveira Frasão,18/01/2020,masculino,45,22:20:00,ARMA BRANCA,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1405,Geilson Ribeiro Bastos,18/01/2020,masculino,34,20:15:00,ARMA BRANCA,Conjunto Alexandra Tavares,São Luís,HOMICÍDIO DOLOSO
+1406,Alberto dos Santos Valva Neto,20/01/2020,masculino,27,22:32:00,ARMA BRANCA,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1407,Adilson de Sousa Frazão,21/01/2020,masculino,47,18:18:00,ARMA DE FOGO,Residencial Olímpico,São José de Ribamar,HOMICÍDIO DOLOSO
+1408,Marcio Roberto Morais Cardoso,21/01/2020,masculino,37,01:10:00,ARMA BRANCA,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1409,Igor de Jesus Pereira da Luz,22/01/2020,masculino,23,08:30:00,ARMA DE FOGO,Coheb Sacavém,São Luís,HOMICÍDIO DOLOSO
+1410,Lucas Barboza Pereira,23/01/2020,masculino,19,02:45:00,ARMA DE FOGO,vila Mestre Antônio,São José de Ribamar,HOMICÍDIO DOLOSO
+1411,Klaus Victor Guterres dos Santos,23/01/2020,masculino,19,15:30:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1412,Caio Alexandre Ribeiro Guimarães,25/01/2020,masculino,22,03:00:00,ARMA DE FOGO,Liberdade,São Luís,MORTE D I POLICIAL
+1413,Jose Willian dos Santos Silva,25/01/2020,masculino,24,17:00:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+1414,Bruna Licia Fonseca Pereira,25/01/2020,feminino,23,17:00:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+1415,Marcos Mateus de Andrade Melo,27/01/2020,masculino,20,21:30:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+1416,Americo Mendes Sampaio,28/01/2020,masculino,69,21:30:00,ARMA BRANCA,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1417,Anderson Farias Oliveira,28/01/2020,masculino,22,22:26:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1418,Hilquias Samuel Oliveira Cutrim,29/01/2020,masculino,16,17:00:00,ARMA DE FOGO,Vila Bacanga,São Luís,MORTE D I POLICIAL
+1419,Pedro Henrique Lopes da Cunha,29/01/2020,masculino,29,20:30:00,ARMA DE FOGO,Pirapora,São Luís,HOMICÍDIO DOLOSO
+1420,Francisca Doralice da Silva Oliveira,30/01/2020,feminino,48,07:23:00,ESTRANGULAMENTO,Santa Efigênia,São Luís,HOMICÍDIO DOLOSO
+1421,Thiago da Silva Fernandes,30/01/2020,masculino,27,09:30:00,ARMA BRANCA,Vila Zenir,São Luís,HOMICÍDIO DOLOSO
+1422,Carlos Alexandre Carneiro Souza,30/01/2020,masculino,39,20:21:00,ARMA DE FOGO,Bequimão,São Luís,HOMICÍDIO DOLOSO
+1423,Thales Ewerton da Silva,31/01/2020,masculino,30,14:00:00,ARMA DE FOGO,Itapiracó,São Luís,HOMICÍDIO DOLOSO
+1424,Rogerio Maciel Silva,02/02/2020,masculino,32,22:12:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,HOMICÍDIO DOLOSO
+1425,Isaquiel de Sousa Rocha,05/02/2020,masculino,24,12:00:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1426,Raimundo Julian Lima Medeiros,05/02/2020,masculino,32,19:40:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1427,Wenyson Fernandes Miranda,05/02/2020,masculino,33,07:00:00,ESTRANGULAMENTO,Vila Isabel Cafeteira,São Luís,HOMICÍDIO DOLOSO
+1428,Lucivaldo Moraes Ramos,06/02/2020,masculino,28,22:00:00,ARMA DE FOGO,Tajaçuaba,São Luís,HOMICÍDIO DOLOSO
+1429,Jecimara Cristian Marques Pacheco,06/02/2020,feminino,26,09:16:00,ESTRANGULAMENTO,Tirirical,São Luís,HOMICÍDIO DOLOSO
+1430,Benilson do Nascimento Santos,07/02/2020,masculino,34,12:05:00,ARMA DE FOGO,Vila Laci,Raposa,HOMICÍDIO DOLOSO
+1431,Johnny da Silva Mendonça,08/02/2020,masculino,25,00:30:00,ARMA DE FOGO,Alto do Turu II,São José de Ribamar,HOMICÍDIO DOLOSO
+1432,Paulo Victor Silva Neres,08/02/2020,masculino,26,11:00:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1433,Marcelo dos Santos Araújo,09/02/2020,masculino,42,10:00:00,ARMA DE FOGO,Andiroba,São Luís,MORTE POSTERIOR
+1434,Jose Jorge Silva da Cunha,10/02/2020,masculino,48,05:30:00,ARMA DE FOGO,Cruzeiro de Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+1435,Diones Correa Mota,11/02/2020,masculino,22,01:30:00,ESPANCAMENTO,João Paulo,São Luís,HOMICÍDIO DOLOSO
+1436,Alfredo Catalani,18/02/2020,masculino,69,00:01:00,ARMA DE FOGO,Maioba,Paço do Lumiar,LATROCÍNIO
+1437,Manoel Carlos Camara,20/02/2020,masculino,53,17:00:00,ARMA BRANCA,Vila Bacanga,São Luís,HOMICÍDIO DOLOSO
+1438,Maria de Fatima Boaz Ribeiro,24/02/2020,feminino,56,02:00:00,OUTROS MEIOS,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1439,Rafael de Jesus Pinto,24/02/2020,masculino,28,12:00:00,ARMA BRANCA,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1440,Francisco Jose Nascimento de Oliveira,26/02/2020,masculino,28,11:30:00,ARMA DE FOGO,Alto do Turu II,São José de Ribamar,HOMICÍDIO DOLOSO
+1441,Nayrlon Silva Reis,26/02/2020,masculino,18,22:40:00,ARMA DE FOGO,Cohabiano,São José de Ribamar,HOMICÍDIO DOLOSO
+1442,Washington Ferreira Nogueira,26/02/2020,masculino,55,06:27:00,ARMA DE FOGO,Miritiua,São José de Ribamar,HOMICÍDIO DOLOSO
+1443,João Victor da Silva Facundes,26/02/2020,masculino,18,14:00:00,ARMA DE FOGO,Parque Araçagi,São José de Ribamar,HOMICÍDIO DOLOSO
+1444,Marcio Luis Madeira dos Santos,26/02/2020,masculino,21,20:40:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+1445,João Vitor dos Anjos Freitas,26/02/2020,masculino,24,14:45:00,ARMA DE FOGO,Parque vitória,São José de Ribamar,HOMICÍDIO DOLOSO
+1446,Ryan Silva Teixeira,26/02/2020,masculino,17,20:30:00,ARMA DE FOGO,São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+1447,Fransoarte Freitas Silva,27/02/2020,masculino,35,11:23:00,ARMA DE FOGO,Parque Florêncio,São José de Ribamar,MORTE D I POLICIAL
+1448,Sandro de Sousa Ribeiro,01/03/2020,masculino,30,15:30:00,ARMA DE FOGO,Residencial Tiradentes,São Luís,HOMICÍDIO DOLOSO
+1449,Allan Trindade Santos,02/03/2020,masculino,22,18:30:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+1450,Adrian Felipe Barros da Cruz,02/03/2020,masculino,18,19:28:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1451,Lucidalva Rodrigues Gomes,03/03/2020,feminino,31,20:50:00,ESTRANGULAMENTO,Turiúba,São José de Ribamar,HOMICÍDIO DOLOSO
+1452,Deilson Rodrigues Silva,05/03/2020,masculino,18,04:30:00,ARMA DE FOGO,Rio Grande,São Luís,HOMICÍDIO DOLOSO
+1453,Milton Antonio dos Santos,05/03/2020,masculino,57,15:00:00,ARMA DE FOGO,Vila Nova República,São Luís,HOMICÍDIO DOLOSO
+1454,Giovanne Santos Coelho,08/03/2020,masculino,25,03:00:00,ARMA DE FOGO,Parque Florêncio,Raposa,MORTE D I POLICIAL
+1455,Marcio Gabriel Ferreira Marques,11/03/2020,masculino,19,19:30:00,ARMA DE FOGO,Coroadinho,São Luís,LATROCÍNIO
+1456,Jailson Sousa Pinto,15/03/2020,masculino,41,22:05:00,ARMA BRANCA,São Raimundo,São José de Ribamar,HOMICÍDIO DOLOSO
+1457,Elisandro Farias da Siveira,15/03/2020,masculino,27,15:30:00,ARMA DE FOGO,Vila Funil,São Luís,HOMICÍDIO DOLOSO
+1458,Washington Luis Costa dos Santos,15/03/2020,masculino,43,19:00:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1459,Deysiane Santos Conceição,16/03/2020,feminino,15,08:30:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1460,Paula Cristina Souza Castro,17/03/2020,feminino,30,20:26:00,ARMA BRANCA,Cidade Operária,São Luís,LATROCÍNIO
+1461,Raimundo Nonato Rodrigues Gomes,20/03/2020,masculino,56,14:00:00,ARMA BRANCA,Boa Vista,Paço do Lumiar,HOMICÍDIO DOLOSO
+1462,Jordan Felipe Silva Pires,20/03/2020,masculino,26,18:30:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1463,Edigilson de Jesus Camara,21/03/2020,masculino,36,14:00:00,ESPANCAMENTO,Piancó,São Luís,HOMICÍDIO DOLOSO
+1464,Alberto Luis Pinheiro Diniz,22/03/2020,masculino,47,07:15:00,ARMA DE FOGO,Residencial 2000,São Luís,HOMICÍDIO DOLOSO
+1465,Joelson Augusto Lopes,27/03/2020,masculino,30,10:00:00,ARMA BRANCA,Vila Bacanga,São Luís,LATROCÍNIO
+1466,Charles Cutrim de Sousa,27/03/2020,masculino,30,05:50:00,ARMA DE FOGO,La Belle Park,Paço do Lumiar,HOMICÍDIO DOLOSO
+1467,Fernando dos Santos Farias ,27/03/2020,masculino,19,03:16:00,ARMA DE FOGO,Vila Alcione Ferreira,São José de Ribamar,HOMICÍDIO DOLOSO
+1468,João Matias da Costa Pavão,27/03/2020,masculino,16,19:00:00,ARMA DE FOGO,São Brás dos Macacos,São José de Ribamar,HOMICÍDIO DOLOSO
+1469,Elizio de Jesus Santos Silva,27/03/2020,masculino,40,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1470,Carlos Richardson Barbosa,27/03/2020,masculino,20,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1471,Jorge Luis Atenas,27/03/2020,masculino,20,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1472,João Paulo Silva Bezerra,27/03/2020,masculino,22,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1473,Marcos Samarony Brito Sousa,27/03/2020,masculino,25,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1474,Antonio Luis dos Santos Teixeira,29/03/2020,masculino,47,17:00:00,ARMA BRANCA,Conjunto Lima Verde,Paço do Lumiar,HOMICÍDIO DOLOSO
+1475,Flavio Henrique Carvalho dos Santos,29/03/2020,masculino,21,21:13:00,ARMA BRANCA,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1476,Paulo Henrique Barros Pinto,29/03/2020,masculino,34,17:00:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1477,Jefferson Jailson da Silva Lobão,31/03/2020,masculino,22,01:30:00,ARMA BRANCA,Vila São José – PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+1478,Fábio Junior Mendonça Aires,01/04/2020,masculino,30,20:00:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1479,Adriano Henrique Costa Ferreira,02/04/2020,masculino,23,18:20:00,ARMA BRANCA,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1480,Wilson Manoel Cantanhede Pires,05/04/2020,masculino,34,16:27:00,ARMA DE FOGO,Residencial Morada do Sol,São Luís,HOMICÍDIO DOLOSO
+1481,Não identificado,05/04/2020,masculino,,12:00:00,OUTROS MEIOS,Vila Magril,São Luís,MORTE ESCLARECER
+1482,Ana Ruth Santos Mendonça,07/04/2020,feminino,56,11:15:00,OUTROS MEIOS,Parque Araçagi,São Luís,MORTE ESCLARECER
+1483,Werberth Quirino Dos Santos,07/04/2020,masculino,18,04:30:00,ARMA DE FOGO,Vila Collier,São Luís,HOMICÍDIO DOLOSO
+1484,Júlio Melo Mariano,11/04/2020,masculino,24,19:30:00,ARMA DE FOGO,Residencial Canaã,São Luís,HOMICÍDIO DOLOSO
+1485,Nilton Pinheiro Silva,11/04/2020,masculino,25,12:30:00,OUTROS MEIOS,Olho D’água,São Luís,HOMICÍDIO DOLOSO
+1486,Luís Carlos Serra Mendes Junior,12/04/2020,masculino,36,01:00:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+1487,Lucas Conceição Sousa,17/04/2020,masculino,21,19:16:00,ARMA DE FOGO,Matinha,São José de Ribamar,HOMICÍDIO DOLOSO
+1488,Victor Rodrigues de Almeida,17/04/2020,masculino,24,19:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1489,Carlos Eduardo Carvalho Soares,18/04/2020,masculino,19,21:56:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1490,Marcio Cantanhede dos Santos,18/04/2020,masculino,30,03:00:00,ARMA DE FOGO,Areinha,São Luís,HOMICÍDIO DOLOSO
+1491,Rafael da Cruz Alves,19/04/2020,masculino,20,18:05:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+1492,Diego Gustavo Silva de Abreu,19/04/2020,masculino,22,03:30:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1493,Marcos Costa Moura,22/04/2020,masculino,26,13:30:00,ARMA DE FOGO,Sítio Natureza,Paço do Lumiar,HOMICÍDIO DOLOSO
+1494,Francisco Pereira de Abreu,22/04/2020,masculino,17,18:40:00,ARMA DE FOGO,Vila Magril,São Luís,HOMICÍDIO DOLOSO
+1495,Vinicius Moreira Santana,22/04/2020,masculino,20,12:00:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+1496,Josenir de Araújo do Vale,23/04/2020,masculino,38,17:27:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+1497,Luís Alves da Silva,25/04/2020,masculino,56,23:00:00,ARMA BRANCA,Rio Grande,São Luís,HOMICÍDIO DOLOSO
+1498,Gladson Roberth Correia Santos,25/04/2020,masculino,14,02:00:00,ARMA DE FOGO,Vila Riod,São Luís,HOMICÍDIO DOLOSO
+1499,Vilian Robert Gomes Costa,30/04/2020,masculino,39,23:00:00,ARMA BRANCA,Vila São Luís – Bacanga,São José de Ribamar,HOMICÍDIO DOLOSO
+1500,Não identificado (sexo masculino),30/04/2020,masculino,50,02:00:00,OUTROS MEIOS,Aterro do bacanga,São Luís,HOMICÍDIO DOLOSO
+1501,Deyson Abreu Silva,04/05/2020,masculino,24,14:48:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1502,Daniele Rocha Moraes,05/05/2020,feminino,25,18:00:00,OUTROS MEIOS,Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+1503,Valdeilson Dos Anjos Neves,07/05/2020,masculino,40,20:23:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+1504,Paulo Roberto Moreira Pereira,08/05/2020,masculino,34,19:30:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1505,Marcos Roberto Lopes Pereira,09/05/2020,masculino,31,16:00:00,ARMA DE FOGO,Vila São Sebastião / coroadinho,São Luís,HOMICÍDIO DOLOSO
+1506,Carlos Augusto Reis Máximo Filho,10/05/2020,masculino,38,08:40:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1507,Aldemir Diniz Chagas,11/05/2020,masculino,40,15:45:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1508,Nelci Costa Rabelo,11/05/2020,feminino,85,19:30:00,ESPANCAMENTO,Nova betel,São Luís,LATROCÍNIO
+1509,Edio Ribeiro da Silva,13/05/2020,masculino,25,14:20:00,ARMA DE FOGO,Rio grande,São Luís,HOMICÍDIO DOLOSO
+1510,Deivid Pablo Pereira Vieira,15/05/2020,masculino,17,12:05:00,ARMA DE FOGO,Vila Cafeteira,Paço do Lumiar,HOMICÍDIO DOLOSO
+1511,Fabiano Alves Monteiro,15/05/2020,masculino,33,19:00:00,ARMA DE FOGO,Oiteiro,São José de Ribamar,HOMICÍDIO DOLOSO
+1512,Guilherme Pablo da Silva Barbosa,15/05/2020,masculino,19,18:15:00,ARMA DE FOGO,Cruzeiro do anil,São Luís,HOMICÍDIO DOLOSO
+1513,Uberlan Rodrigues Sousa,15/05/2020,masculino,39,19:23:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+1514,Reinado Caldas Gomes,16/05/2020,masculino,34,04:00:00,ARMA BRANCA,Res. João Alberto,São Luís,HOMICÍDIO DOLOSO
+1515,Luís Paulo dos Santos Frazão,16/05/2020,masculino,22,13:30:00,ARMA DE FOGO,Jardim São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1516,Carlos Magno Franca Costa,17/05/2020,masculino,44,18:47:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+1517,A. A. F.,17/05/2020,masculino,17,19:42:00,ARMA DE FOGO,Vila dos nobres,São Luís,HOMICÍDIO DOLOSO
+1518,Alexandro Pinheiro Nunes,17/05/2020,masculino,37,19:30:00,ARMA DE FOGO,Alto São Sebastião,São Luís,HOMICÍDIO DOLOSO
+1519,Daniel Paiva de Sousa,17/05/2020,masculino,30,22:00:00,ARMA DE FOGO,Vila Alcione Ferreira,São José de Ribamar,HOMICÍDIO DOLOSO
+1520,Janyelson Sousa da Silva,17/05/2020,masculino,22,21:08:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1521,Paulo Sérgio Araújo Júnior,17/05/2020,masculino,29,03:17:00,ARMA DE FOGO,Vila Isabel Cafeteira,São Luís,HOMICÍDIO DOLOSO
+1522,Não identificado,17/05/2020,masculino,25,02:00:00,OUTROS MEIOS,Centro,São Luís,HOMICÍDIO DOLOSO
+1523,Walison Junior Duarte Muniz,18/05/2020,masculino,22,10:57:00,ARMA DE FOGO,Vila Funil,São Luís,MORTE D I POLICIAL
+1524,Wesley Belfort Costa,19/05/2020,masculino,17,06:00:00,ARMA DE FOGO,Alonso Costa,São José de Ribamar,MORTE D I POLICIAL
+1525,Matheus Assunção Ferreira,21/05/2020,masculino,24,21:50:00,ARMA DE FOGO,Parque Shalon,São Luís,HOMICÍDIO DOLOSO
+1526,Rafael Wyldson Vilela Batista,21/05/2020,masculino,29,19:30:00,ARMA DE FOGO,Vila Dr. Julinho,São José de Ribamar,HOMICÍDIO DOLOSO
+1527,Carlos Eduardo Soares Junior,22/05/2020,masculino,21,19:20:00,ARMA DE FOGO,João Paulo,São Luís,HOMICÍDIO DOLOSO
+1528,Michel Breno Moreira,22/05/2020,masculino,22,18:30:00,ARMA DE FOGO,Bom Jesus,São Luís,HOMICÍDIO DOLOSO
+1529,Adriano Ribeiro,23/05/2020,masculino,33,13:33:00,ARMA DE FOGO,Parque Araçagy,Paço do Lumiar,MORTE D I POLICIAL
+1530,Edivan Cunha,25/05/2020,masculino,35,20:16:00,ARMA DE FOGO,Vila Magril,São Luís,HOMICÍDIO DOLOSO
+1531,Raimundo Pedro Pereira Neto,25/05/2020,masculino,22,06:37:00,ARMA DE FOGO,,,MORTE ESCLARECER
+1532,Eduardo Henrique Maramaldo,26/05/2020,masculino,24,19:30:00,ARMA DE FOGO,Barramar,São Luís,HOMICÍDIO DOLOSO
+1533,Fredison Alan Serra Abreu,26/05/2020,masculino,34,18:30:00,ARMA DE FOGO,Vila Cafeteira,São José de Ribamar,HOMICÍDIO DOLOSO
+1534,Joana Maria Diniz,26/05/2020,feminino,66,10:00:00,OUTROS MEIOS,Recanto dos Signos,São Luís,HOMICÍDIO DOLOSO
+1535,Jadiel Coelho Silva,31/05/2020,masculino,17,15:53:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1536,M. E. T. de O.,31/05/2020,masculino,15,15:53:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO

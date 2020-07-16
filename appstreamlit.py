@@ -4,6 +4,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
+import numpy as np
+from PIL import Image
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 from datetime import datetime
 
 def local_css(file_name):
@@ -198,33 +201,49 @@ if graficoano:
         Pxplot()
 
 
+def wordcloud():
+    # criar uma cópia do DataFrame original
+    df_wordcloud = pd.read_csv("https://raw.githubusercontent.com/jonhsel/Data-Science/master/dataset/MVIMPMA_VIT.csv")
 
-#     st.text('**Criar botao**')
-#     botao = st.button('botao')
-#     if botao:
-#         st.markdown('Botão pressionado')
-#
-#     st.text('**Criar Checkbox')
-#     check = st.checkbox('chequibox')
-#     if check:
-#         st.markdown('Registros do ano XXXX')
-#
-#
-#     st.text('**Criar Radio**')
-#     radio = st.radio('Escolha os anos',('nenhum','2017', '2018'))
-#     if radio == '2017':
-#         st.markdown('Colocar seleção df 2017')
-#     if radio == '2018':
-#         st.markdown('Colocar seleção 2018')
-#
-#     st.text('**selectbox**')
-#     selectBox = st.selectbox('Selecione um ano', ('nenhum', '2017', '2018'))
-#     if selectBox=='2017':
-#         st.markdown('Gráficos e codigos')
-#     if selectBox == '2018':
-#         st.markdown('Graicos 2018')
-# """
+    # seleção das colunas
+    df_wordcloud = df_wordcloud[['Vítima', 'Sexo', 'CAUSA DA MORTE', 'Local', 'Município', 'Classificação']]
+    #df_wordcloud = df_wordcloud[['Vítima', 'Sexo', 'Local', 'Município']]
 
+    df_wordcloud.fillna('UNKNOWN', axis=1, inplace=True)
+
+    #rotina para transformar o dataset em um unico arquivo
+    lista = []
+    for i in df_wordcloud.columns:
+        text = " ".join(s for s in df_wordcloud[i])
+        lista.append(text)
+
+    texto2 = str(lista)
+
+    #setando a máscara
+    grandeilha_mask = np.array(Image.open("ilhaBlack.png"))
+
+    # Definir as stopwords
+    stopwords = set(STOPWORDS)
+    stopwords.update(['de', 'UNKNOWN', 'dos', 'da'])
+
+    # Criar a nuvem de palavras
+    wordcloudW = WordCloud(stopwords=stopwords,
+                          background_color='black',
+                          width=2000, height=2000, max_words=2000,
+                          mask=grandeilha_mask, max_font_size=200, colormap='Reds'
+                          ).generate(texto2)
+
+    # criar a imagem
+    fig, ax = plt.subplots(figsize=(16, 16))
+    ax.imshow(wordcloudW, interpolation='bilinear')
+    ax.set_axis_off()
+
+    st.pyplot()
+
+
+nuvemPalavras = st.sidebar.checkbox('WordCloud')
+if nuvemPalavras:
+    wordcloud()
 #if __name__ == '__main__':
 #    main()
 
