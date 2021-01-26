@@ -257,7 +257,7 @@ if nuvemPalavras:
 
 def mapa_app():
     df.Data = pd.to_datetime(df.Data)
-    ano_selecionado = st.sidebar.slider("Selecione um ano", 2017, 2020, 2020)
+    ano_selecionado = st.slider("Selecione um ano", 2017, 2020, 2020)
     df_selected = df[df.Data.dt.year == ano_selecionado]
     st.subheader("Mapeamento de ocorrências" +" : "+" Ano de " + str(ano_selecionado))
     #st.map(df)
