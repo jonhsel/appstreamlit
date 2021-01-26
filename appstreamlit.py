@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
+import pydeck as pdk
 import numpy as np
 from PIL import Image
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
@@ -108,7 +109,7 @@ def plotanoSeaborn():
     sns.set(style='white')
     fig, ax = plt.subplots(figsize=(16, 9))
     sns.countplot(x, palette='YlOrBr_r', ax=ax)
-    ax.set_title('Ocorrências de MVI por TODOS OS ANOS', fontsize=20)
+    ax.set_title('Ocorrências de MVI 2017 a 2020*', fontsize=20)
     ax.set_xlabel('Ano', fontsize=20)
     ax.set_ylabel('Quantidade', fontsize=20)
     for p in ax.patches:
@@ -250,4 +251,63 @@ if nuvemPalavras:
 #if __name__ == '__main__':
 #    main()
 
+#https://deckgl.readthedocs.io/en/latest/gallery/hexagon_layer.html
 
+
+
+def mapa_app():
+    df.Data = pd.to_datetime(df.Data)
+    ano_selecionado = st.sidebar.slider("Selecione um ano", 2017, 2020, 2020)
+    df_selected = df[df.Data.dt.year == ano_selecionado]
+    st.subheader("Mapeamento de ocorrências" +" : "+" Ano de " + str(ano_selecionado))
+    #st.map(df)
+    st.pydeck_chart(pdk.Deck(
+        initial_view_state=pdk.ViewState(
+            latitude=-2.4,
+            longitude=-44.4,
+            zoom=8,
+            pitch=10
+        ),
+        layers=[
+            pdk.Layer(
+                'HexagonLayer',
+                data=df_selected[['latitude', 'longitude']],
+                get_position='[longitude, latitude]',
+                auto_highlight=True,
+                elevation_scale=50,
+                pickable=True,
+                elevation_range=[0, 1000],
+                extruded=True,
+                coverage=1
+            )
+        ]
+    ))
+    #
+    # layer1=pdk.Layer(
+    #          'HexagonLayer',
+    #          data=df,
+    #          get_position='[longitude, latitude]',
+    #          radius=200,
+    #          elevation_scale=4,
+    #          elevation_range=[0, 1000],
+    #          pickable=True,
+    #          extruded=True,
+    # )
+    #
+    # view_state = pdk.ViewState(
+    #         latitude=-2.4,
+    #         longitude=-44.4,
+    #         zoom=11,
+    #         pitch=50,
+    # )
+    # r = pdk.Deck(
+    #     map_style="mapbox://styles/mapbox/light-v9",
+    #     layers=[layer1],
+    #     initial_view_state=view_state,
+    # )
+    # st.pydeck_chart(r)
+
+mapa = st.sidebar.checkbox('Mapa')
+
+if mapa:
+    mapa_app()
